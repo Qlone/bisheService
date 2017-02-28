@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  ~ Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+  ~ Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+  ~ Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+  ~ Vestibulum commodo. Ut rhoncus gravida arcu.
+  -->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop" xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+    <!--指明 controller 所在包，并扫描其中的注解-->
+    <context:component-scan base-package="controller"/>
+
+    <!--启用AspectJ自动代理-->
+    <aop:aspectj-autoproxy/>
+
+    <!-- 静态资源(js、image等)的访问 -->
+    <mvc:resources mapping="/resources/**" location="WEB-INF" />
+    <mvc:default-servlet-handler/>
+
+    <!-- 开启注解 -->
+    <mvc:annotation-driven>
+
+        <!-- 解决返回String时乱码 return 字符串，前台默认让它成为html形式的UTF-8 -->
+
+        <mvc:message-converters register-defaults="true">
+
+            <bean class="org.springframework.http.converter.StringHttpMessageConverter">
+
+                <property name="supportedMediaTypes">
+
+                    <list>
+
+                        <value>text/plain;charset=UTF-8</value>
+
+                        <value>text/html;charset=UTF-8</value>
+
+                    </list>
+
+                </property>
+
+            </bean>
+
+        </mvc:message-converters>
+
+    </mvc:annotation-driven>
+
+    <!--ViewResolver 视图解析器-->
+    <!--用于支持Servlet、JSP视图解析-->
+    <bean id="jspViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
+        <property name="prefix" value="/WEB-INF/pages/"/>
+        <property name="suffix" value=""/>
+    </bean>
+</beans>
