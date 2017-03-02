@@ -8,12 +8,15 @@
 
 package com.rabbit.entity;
 
+import org.springframework.stereotype.Repository;
+
 import javax.persistence.*;
 
 /**
  * Created by weina on 2017/3/1.
  */
 @Entity
+@Repository
 @Table(name = "user", schema = "bishe", catalog = "")
 public class UserEntity {
     private Integer userId;
@@ -21,6 +24,7 @@ public class UserEntity {
     private String password;
     private String userType;
     private String userStatus;
+    private Double balance;
 
     @Id
     @Column(name = "userId", nullable = false)
@@ -97,5 +101,15 @@ public class UserEntity {
         result = 31 * result + (userType != null ? userType.hashCode() : 0);
         result = 31 * result + (userStatus != null ? userStatus.hashCode() : 0);
         return result;
+    }
+
+    @Basic
+    @Column(name = "balance", nullable = true, precision = 2)
+    public Double getBalance() {
+        return balance;
+    }
+
+    public void setBalance(Double balance) {
+        this.balance = balance;
     }
 }

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="bishe@localhost" uuid="cbb285ce-cd05-430b-becd-7e8249212282">
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="26ee4325-d9c0-4a3e-b857-187bbf05d3ea">
       <database-info product="MySQL" version="5.7.11-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
         <extra-name-characters>#@</extra-name-characters>
         <identifier-quote-string>`</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
-      <secret-storage>master_key</secret-storage>
       <user-name>root</user-name>
+      <user-password>dfcbdfd9dfcedf92df9ddf9adf9cdf9a</user-password>
       <resolve-scope>bishe:</resolve-scope>
     </data-source>
   </component>

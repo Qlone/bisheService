@@ -4,6 +4,7 @@ import com.rabbit.bean.GoodsRoughBean;
 import com.rabbit.dao.IBaseDao;
 import com.rabbit.dao.daoImpl.BaseDao;
 import com.rabbit.entity.UserEntity;
+import com.rabbit.util.RabbitLog;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

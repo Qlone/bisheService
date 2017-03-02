@@ -14,7 +14,8 @@
     <facet type="hibernate" name="Hibernate">
       <configuration>
         <datasource-map>
-          <unit-entry name="com:rabbit:hibernate.cfg.xml" value="cbb285ce-cd05-430b-becd-7e8249212282" />
+          <unit-entry name="com:rabbit:hibernate.cfg.xml" value="26ee4325-d9c0-4a3e-b857-187bbf05d3ea" />
+          <unit-entry name="hibernate.cfg.xml" value="26ee4325-d9c0-4a3e-b857-187bbf05d3ea" />
           <unit-entry name="sessionFactory" />
         </datasource-map>
         <naming-strategy-map />
