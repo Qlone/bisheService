@@ -31,7 +31,7 @@ public class AppendContentToFile {
             e.printStackTrace();
         }
         PrintWriter pw = new PrintWriter(fw);
-        pw.println(DateFormat.getAnalysisY(new Date())+" : ");
+        pw.println(DateFormat.getFormatter(new Date())+" : ");
         pw.println(conent);
         pw.flush();
         try {

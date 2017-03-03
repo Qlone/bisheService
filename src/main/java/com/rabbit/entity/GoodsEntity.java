@@ -8,16 +8,19 @@
 
 package com.rabbit.entity;
 
+import org.springframework.stereotype.Repository;
+
 import javax.persistence.*;
 
 /**
  * Created by weina on 2017/3/2.
  */
 @Entity
+@Repository
 @Table(name = "goods", schema = "bishe", catalog = "")
 public class GoodsEntity {
     private Integer goodsId;
-    private String tpye;
+    private String type;
     private Double price;
     private String title;
     private String picture;
@@ -25,6 +28,17 @@ public class GoodsEntity {
     private Integer stock;
     private String status;
     private Integer views;
+    private Integer goodsDelete;
+
+    @Basic
+    @Column(name = "type", nullable = true, length = 200)
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
 
     @Id
     @Column(name = "goodsId", nullable = false)
@@ -34,16 +48,6 @@ public class GoodsEntity {
 
     public void setGoodsId(Integer goodsId) {
         this.goodsId = goodsId;
-    }
-
-    @Basic
-    @Column(name = "tpye", nullable = true, length = 200)
-    public String getTpye() {
-        return tpye;
-    }
-
-    public void setTpye(String tpye) {
-        this.tpye = tpye;
     }
 
     @Basic
@@ -124,7 +128,7 @@ public class GoodsEntity {
         GoodsEntity that = (GoodsEntity) o;
 
         if (goodsId != null ? !goodsId.equals(that.goodsId) : that.goodsId != null) return false;
-        if (tpye != null ? !tpye.equals(that.tpye) : that.tpye != null) return false;
+        if (type != null ? !type.equals(that.type) : that.type != null) return false;
         if (price != null ? !price.equals(that.price) : that.price != null) return false;
         if (title != null ? !title.equals(that.title) : that.title != null) return false;
         if (picture != null ? !picture.equals(that.picture) : that.picture != null) return false;
@@ -139,7 +143,7 @@ public class GoodsEntity {
     @Override
     public int hashCode() {
         int result = goodsId != null ? goodsId.hashCode() : 0;
-        result = 31 * result + (tpye != null ? tpye.hashCode() : 0);
+        result = 31 * result + (type != null ? type.hashCode() : 0);
         result = 31 * result + (price != null ? price.hashCode() : 0);
         result = 31 * result + (title != null ? title.hashCode() : 0);
         result = 31 * result + (picture != null ? picture.hashCode() : 0);
@@ -148,5 +152,15 @@ public class GoodsEntity {
         result = 31 * result + (status != null ? status.hashCode() : 0);
         result = 31 * result + (views != null ? views.hashCode() : 0);
         return result;
+    }
+
+    @Basic
+    @Column(name = "goodsDelete", nullable = true)
+    public Integer getGoodsDelete() {
+        return goodsDelete;
+    }
+
+    public void setGoodsDelete(Integer goodsDelete) {
+        this.goodsDelete = goodsDelete;
     }
 }

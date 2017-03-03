@@ -7,8 +7,8 @@
         <identifier-quote-string>`</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
       <user-name>root</user-name>
-      <user-password>dfcbdfd9dfcedf92df9ddf9adf9cdf9a</user-password>
       <resolve-scope>bishe:</resolve-scope>
     </data-source>
   </component>
