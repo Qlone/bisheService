@@ -25,7 +25,7 @@ public interface IBaseDao<T> {
     boolean update(String sql, Object[] params);
     void update(T o) throws Exception;
     Serializable update(List<T> o) throws Exception;
-    void saveOrUpdate(T o);//此功能尚未完成
+    void saveOrUpdate(T o);
     List<Object> executeSQL(String sql, Object[] param);
     List<T> find(String hql);
     int countNum(String hql, Object[] param);

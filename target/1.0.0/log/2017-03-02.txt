@@ -1,0 +1,80 @@
+03.02 : 
+login(UserService.java:37) µÇÂ¼ ÃÜÂë   false
+03.02 : 
+login(UserController.java:40) 
+03.02 : 
+login(UserService.java:37) µÇÂ¼ ÃÜÂë   false
+03.02 : 
+login(UserController.java:40) 
+03.02 : 
+login(UserService.java:37) µÇÂ¼ ÃÜÂë   false
+03.02 : 
+login(UserController.java:40) 
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asd  false
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼rs ÃÜÂë y  false
+03.02 : 
+login(UserController.java:40) rs
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼none ÃÜÂë   false
+03.02 : 
+login(UserController.java:40) none
+03.02 : 
+login(UserService.java:37) µÇÂ¼none ÃÜÂë   false
+03.02 : 
+login(UserController.java:40) none
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë   false
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë a  false
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë   false
+03.02 : 
+login(UserController.java:40) first
+03.02 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asds  true
+03.02 : 
+login(UserController.java:40) first

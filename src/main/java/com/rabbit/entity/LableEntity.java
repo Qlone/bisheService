@@ -26,6 +26,7 @@ public class LableEntity {
 
     @Id
     @Column(name = "lableId", nullable = false)
+    @GeneratedValue(strategy=GenerationType.IDENTITY)
     public Integer getLableId() {
         return lableId;
     }

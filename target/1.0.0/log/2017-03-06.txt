@@ -1,0 +1,712 @@
+2017-03-06 09:08 55 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-06 09:19 07 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-06 09:27 31 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-06 09:29 04 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-06 09:29 56 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 09:29 59 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 09:33 41 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 09:33 43 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 09:34 41 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 09:35 27 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 09:35 31 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 09:40 03 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 09:40 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 09:40 07 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 09:40 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 09:40 51 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 09:40 52 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 09:40 55 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 09:40 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 09:40 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 09:41 48 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 09:41 54 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  操蛋
+2017-03-06 09:41 56 : 
+addLable(LableController.java:50) 确认搜索 text :  操蛋
+2017-03-06 09:41 56 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：操蛋  成功
+2017-03-06 09:41 58 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  操
+2017-03-06 09:44 37 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 09:44 39 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 09:44 40 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:01 25 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:01 30 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:01 47 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:01 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:01 52 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:06 19 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:06 24 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:06 25 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:06 26 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:06 29 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:06 30 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:06 31 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:24 06 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:24 08 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:26 00 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:26 09 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:26 09 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:26 17 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:26 31 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:26 31 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:26 36 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:26 37 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:26 37 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:26 52 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:26 53 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:26 53 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:27 03 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:27 09 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:27 09 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:27 18 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:31 08 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:31 08 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:31 11 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:31 26 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:33 14 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:33 15 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:33 16 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:33 17 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:33 17 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:33 32 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:33 35 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:33 35 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:33 38 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:34 14 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:34 21 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:34 23 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:34 25 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:34 26 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:34 26 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:36 24 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:36 26 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:36 26 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  null
+2017-03-06 10:36 29 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:36 29 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  null
+2017-03-06 10:36 33 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:36 35 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:36 35 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  null
+2017-03-06 10:37 43 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:37 45 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:37 45 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:37 47 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:37 52 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:39 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:39 06 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:40 12 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:40 13 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:40 13 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:40 17 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:40 20 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:43 18 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:43 19 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:43 19 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:43 27 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:44 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:44 52 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:44 53 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:44 59 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:48 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:48 10 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:48 10 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:48 21 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:48 27 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:48 27 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:48 29 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:49 09 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:49 11 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:49 11 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:49 21 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:49 22 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:49 23 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:49 25 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:49 28 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:49 28 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:49 30 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:49 32 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:55 26 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:55 31 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:55 31 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:55 35 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:55 40 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:56 20 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:56 21 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:57 36 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:57 39 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:57 40 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:57 45 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:57 53 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:57 54 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:57 58 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:58 00 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:58 54 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:58 55 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:58 56 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:58 58 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:58 59 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:59 00 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:59 02 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:59 06 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:59 09 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:59 09 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:59 11 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:59 29 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:59 29 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:59 34 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:59 37 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 10:59 41 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:59 42 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 10:59 43 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 10:59 46 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 10:59 50 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 10:59 50 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  
+2017-03-06 11:01 18 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:01 20 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:01 21 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:01 22 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:01 26 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:01 27 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:03 15 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 11:03 19 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 11:03 22 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:03 22 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:03 26 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 4 lines6
+2017-03-06 11:05 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:05 52 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:05 52 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:05 54 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:05 56 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:06 02 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:06 10 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 11:06 11 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 11:06 16 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:06 18 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:06 18 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:06 20 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:06 21 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:07 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:07 06 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:07 06 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:07 08 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:07 09 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:07 13 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:07 15 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:07 15 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:09 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:09 07 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:09 07 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:09 09 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:09 10 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:10 42 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:10 48 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:10 48 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:10 52 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:10 56 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:12 03 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:12 07 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:12 07 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:12 19 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:12 20 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:15 41 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:15 43 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:15 43 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:15 45 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:15 46 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:15 49 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:15 51 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:15 51 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:15 53 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:15 53 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:15 55 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:15 56 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:15 59 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:15 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:16 01 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:16 02 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:17 16 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:17 18 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines6
+2017-03-06 11:17 19 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines6
+2017-03-06 11:17 21 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:17 21 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:17 23 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:17 24 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:17 27 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:17 27 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:17 29 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:17 32 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:17 32 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:17 59 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:17 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:19 02 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:19 02 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:19 07 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  haha world
+2017-03-06 11:19 07 : 
+addLable(LableController.java:50) 确认搜索 text :  haha world
+2017-03-06 11:19 07 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：haha world  成功
+2017-03-06 11:19 58 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:19 58 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:20 01 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:20 03 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:21 10 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:21 14 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 14 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 17 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines6
+2017-03-06 11:21 18 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines6
+2017-03-06 11:21 22 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 22 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 23 : 
+addLable(LableController.java:50) 确认搜索 text :  
+2017-03-06 11:21 23 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：  成功
+2017-03-06 11:21 24 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 24 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 27 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 27 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 29 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 29 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 38 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 38 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 42 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 42 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 44 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 44 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 46 : 
+getHotLable(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 46 : 
+getHotLable(GoodController.java:55)  推送  火热 搜索 
+2017-03-06 11:21 49 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 49 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 54 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:21 56 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:21 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:21 59 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 02 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 02 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 04 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 04 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 06 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 06 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 08 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 08 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 12 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 12 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 14 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 14 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 15 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 15 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 17 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 17 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 19 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 19 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 21 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 21 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 23 : 
+listSearchByTitle(LableController.java:55)  推送  火热 搜索 
+2017-03-06 11:22 23 : 
+listSearchByTitle(LableController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 26 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:22 26 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:22 28 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:42 08 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:42 13 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 13 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 19 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 19 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 22 : 
+listSearchByTitle(LableController.java:65)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 22 : 
+listSearchByTitle(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 24 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 24 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 26 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 26 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 28 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 28 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 36 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 36 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 39 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 39 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 43 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 43 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 45 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 45 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 47 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 47 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 50 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 50 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 52 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:42 52 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 54 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines6
+2017-03-06 11:42 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-06 11:43 08 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 09 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 10 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 11 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 14 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 16 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 17 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 19 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 20 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 21 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 23 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 27 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 28 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 29 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 31 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 32 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 33 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 34 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 36 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 38 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 40 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 41 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 42 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 44 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 45 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6
+2017-03-06 11:43 50 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines6

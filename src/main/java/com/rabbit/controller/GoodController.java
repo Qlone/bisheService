@@ -46,5 +46,14 @@ public class GoodController {
         return JsonUtil.toJson(mGoodService.getStatusList(status,page,lines).getList());
     }
 
+    @RequestMapping(value = "/search",method = RequestMethod.GET)
+    @ResponseBody
+    public String listSearchByTitle(
+            @RequestParam(value = "title", required=false) String title,
+            @RequestParam(value = "page", required=false) int page,
+            @RequestParam(value = "lines",required = false) int lines){
+        RabbitLog.debug(" 搜索商品  " + title +"列表 page " + page +" lines" + lines);
+        return JsonUtil.toJson(mGoodService.getTitleList(title,page,lines).getList());
+    }
 
 }

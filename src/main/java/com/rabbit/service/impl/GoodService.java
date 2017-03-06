@@ -59,7 +59,7 @@ public class GoodService implements IGoodService {
 
     @Override
     public IListBean<GoodsEntity> getTitleList(String title, int page, int lines) {
-        return null;
+        return getGoodsByTitle(title.split("\\s+"),page,lines);
     }
 
     @Override
@@ -74,6 +74,20 @@ public class GoodService implements IGoodService {
         hqlBean.setRulesHql(" order by goodsId desc ");
         hqlBean.addObject(type);
         hqlBean.addObject(GOODS_DELETE_FALSE);
+        goodsListBean.init(hqlBean,page,lines);
+        return goodsListBean;
+    }
+
+
+    private IListBean<GoodsEntity> getGoodsByTitle(String[] title,int page,int lines){
+        HqlBean hqlBean = new HqlBean();
+        StringBuffer buff = new StringBuffer();
+        for(String list:title){
+            buff.append( " and title like ? ");
+            hqlBean.addObject('%'+list+'%');
+        }
+        hqlBean.setInnerHql(buff.toString());
+        hqlBean.setRulesHql(" order by goodsId desc ");
         goodsListBean.init(hqlBean,page,lines);
         return goodsListBean;
     }

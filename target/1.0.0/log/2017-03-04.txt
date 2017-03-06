@@ -1,0 +1,464 @@
+2017-03-04 11:55 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 11:55 16 : 
+login(UserService.java:37) 登录first 密码 asds  false
+2017-03-04 11:55 16 : 
+login(UserController.java:40) first
+2017-03-04 11:55 20 : 
+login(UserService.java:37) 登录first 密码 asd  false
+2017-03-04 11:55 20 : 
+login(UserController.java:40) first
+2017-03-04 11:55 25 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  h
+2017-03-04 12:01 43 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 12:55 41 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  了
+2017-03-04 12:55 43 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  h
+2017-03-04 12:55 45 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  h
+2017-03-04 12:55 45 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  ha
+2017-03-04 12:55 46 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  hah
+2017-03-04 12:55 46 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  haha
+2017-03-04 12:55 46 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  hahah
+2017-03-04 12:55 47 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  haha
+2017-03-04 12:55 47 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  hah
+2017-03-04 12:55 48 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  ha
+2017-03-04 12:55 48 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  h
+2017-03-04 12:55 49 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  k
+2017-03-04 12:55 50 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  ke
+2017-03-04 12:55 51 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  k
+2017-03-04 12:55 52 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  o
+2017-03-04 12:55 52 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  or
+2017-03-04 12:55 59 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  o
+2017-03-04 12:56 00 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  o
+2017-03-04 12:56 00 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  or
+2017-03-04 12:56 01 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  o
+2017-03-04 12:56 02 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  k
+2017-03-04 12:56 03 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  kl
+2017-03-04 12:56 03 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  k
+2017-03-04 12:56 05 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  o
+2017-03-04 12:56 06 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  o
+2017-03-04 12:56 08 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  null
+2017-03-04 12:56 18 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  你
+2017-03-04 12:56 21 : 
+getHintLable(LableController.java:39) 获取标签推荐 text :  热搜版1：Android自定义View
+2017-03-04 12:56 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 13:34 55 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 13:34 59 : 
+getHintLable(LableController.java:40) 获取标签推荐 text :  h
+2017-03-04 13:35 00 : 
+getHintLable(LableController.java:40) 获取标签推荐 text :  ha
+2017-03-04 13:35 01 : 
+getHintLable(LableController.java:40) 获取标签推荐 text :  hah
+2017-03-04 13:35 02 : 
+getHintLable(LableController.java:40) 获取标签推荐 text :  hahe
+2017-03-04 13:37 35 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 13:37 39 : 
+getHintLable(LableController.java:40) 获取标签推荐 text :  h
+2017-03-04 13:37 40 : 
+getHintLable(LableController.java:40) 获取标签推荐 text :  he
+2017-03-04 13:37 40 : 
+getHintLable(LableController.java:40) 获取标签推荐 text :  heh
+2017-03-04 13:37 40 : 
+getHintLable(LableController.java:40) 获取标签推荐 text :  hehe
+2017-03-04 13:41 34 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 13:41 38 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 13:41 38 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jj
+2017-03-04 13:41 39 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 13:42 02 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 13:42 02 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jj
+2017-03-04 13:42 05 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 13:47 03 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 13:47 03 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jj
+2017-03-04 13:47 06 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 13:47 06 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jj
+2017-03-04 13:47 07 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 13:47 10 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 13:47 11 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 13:47 11 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jj
+2017-03-04 13:47 12 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 13:47 19 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 13:47 19 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jj
+2017-03-04 13:47 22 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 13:48 55 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 13:49 03 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 13:50 27 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 13:50 27 : 
+addOrSaveLable(LableService.java:47) 准备更新 lable ：jj  成功
+2017-03-04 13:52 26 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 13:52 26 : 
+addOrSaveLable(LableService.java:47) 准备更新 lable ：jj  成功
+2017-03-04 13:53 29 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 13:53 29 : 
+addOrSaveLable(LableService.java:47) 准备更新 lable ：jj  成功
+2017-03-04 13:53 30 : 
+getItem(LableService.java:94) 获取 lable失败 
+2017-03-04 13:53 30 : 
+addOrSaveLable(LableService.java:53) 初始化 lable ：jj  成功
+2017-03-04 13:58 15 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 13:58 16 : 
+getItem(LableService.java:99) 获取 lable失败 
+2017-03-04 13:58 16 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：jj  成功
+2017-03-04 13:58 17 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:00 38 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:00 38 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jj
+2017-03-04 14:00 39 : 
+addLable(LableController.java:46) 确认搜索 text :  jj
+2017-03-04 14:00 39 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：jj  成功
+2017-03-04 14:00 41 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:00 48 : 
+addLable(LableController.java:46) 确认搜索 text :  j
+2017-03-04 14:00 48 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：j  成功
+2017-03-04 14:02 23 : 
+addLable(LableController.java:46) 确认搜索 text :  j
+2017-03-04 14:02 24 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：j  成功
+2017-03-04 14:02 26 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:02 28 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ja
+2017-03-04 14:02 29 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jac
+2017-03-04 14:02 29 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack
+2017-03-04 14:02 31 : 
+addLable(LableController.java:46) 确认搜索 text :  jack
+2017-03-04 14:02 31 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：jack  成功
+2017-03-04 14:02 33 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jac
+2017-03-04 14:02 34 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ja
+2017-03-04 14:02 34 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:02 36 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:02 37 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ja
+2017-03-04 14:02 39 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:02 41 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jc
+2017-03-04 14:02 42 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:02 42 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ja
+2017-03-04 14:02 43 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jac
+2017-03-04 14:02 43 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack
+2017-03-04 14:02 44 : 
+addLable(LableController.java:46) 确认搜索 text :  jack
+2017-03-04 14:02 44 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：jack  成功
+2017-03-04 14:02 46 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jac
+2017-03-04 14:02 46 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ja
+2017-03-04 14:02 47 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:02 55 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  k
+2017-03-04 14:02 57 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  h
+2017-03-04 14:02 57 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hh
+2017-03-04 14:02 58 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  h
+2017-03-04 14:02 59 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  k
+2017-03-04 14:03 00 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  k
+2017-03-04 14:03 32 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:03 33 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ja
+2017-03-04 14:03 34 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jac
+2017-03-04 14:03 34 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack
+2017-03-04 14:03 37 : 
+addLable(LableController.java:46) 确认搜索 text :  jack
+2017-03-04 14:03 37 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：jack  成功
+2017-03-04 14:04 56 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 14:05 55 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 14:06 00 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 14:06 01 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack
+2017-03-04 14:06 01 : 
+addLable(LableController.java:46) 确认搜索 text :  jack
+2017-03-04 14:06 01 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：jack  成功
+2017-03-04 14:12 56 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack 
+2017-03-04 14:12 56 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack c
+2017-03-04 14:12 57 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack ck
+2017-03-04 14:12 58 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack cke
+2017-03-04 14:13 00 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack ck
+2017-03-04 14:13 01 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack c
+2017-03-04 14:13 01 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack ch
+2017-03-04 14:13 03 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack chc
+2017-03-04 14:13 03 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack chck
+2017-03-04 14:13 04 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack chc
+2017-03-04 14:13 04 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack ch
+2017-03-04 14:13 06 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack che
+2017-03-04 14:13 06 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack chec
+2017-03-04 14:13 07 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack check
+2017-03-04 14:13 09 : 
+addLable(LableController.java:46) 确认搜索 text :  jack check
+2017-03-04 14:13 12 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack chec
+2017-03-04 14:13 12 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack che
+2017-03-04 14:13 13 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack ch
+2017-03-04 14:13 13 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack c
+2017-03-04 14:13 13 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack 
+2017-03-04 14:13 13 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack
+2017-03-04 14:13 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack 
+2017-03-04 14:13 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack c
+2017-03-04 14:13 24 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack ch
+2017-03-04 14:13 26 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack c
+2017-03-04 14:13 29 : 
+addLable(LableController.java:46) 确认搜索 text :  jack c
+2017-03-04 14:13 35 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack 
+2017-03-04 14:13 35 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack v
+2017-03-04 14:13 36 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack 
+2017-03-04 14:15 35 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack c
+2017-03-04 14:15 37 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack ch
+2017-03-04 14:15 38 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack che
+2017-03-04 14:15 38 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack chec
+2017-03-04 14:15 38 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack check
+2017-03-04 14:15 40 : 
+addLable(LableController.java:46) 确认搜索 text :  jack check
+2017-03-04 14:15 40 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：jack check  成功
+2017-03-04 14:15 41 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack chec
+2017-03-04 14:15 44 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack che
+2017-03-04 14:15 45 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack ch
+2017-03-04 14:15 45 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack c
+2017-03-04 14:15 45 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack 
+2017-03-04 14:15 46 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack
+2017-03-04 14:15 47 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jac
+2017-03-04 14:15 47 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ja
+2017-03-04 14:15 47 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 17:57 38 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 17:57 46 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  了
+2017-03-04 17:57 50 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 17:59 35 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 17:59 45 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  j
+2017-03-04 18:01 03 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:01 44 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 18:05 37 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 18:05 40 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 40 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 40 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 40 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 40 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 40 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:05 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:06 11 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  热搜 :haha
+2017-03-04 18:06 11 : 
+addLable(LableController.java:50) 确认搜索 text :  热搜 :haha
+2017-03-04 18:06 11 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：热搜 :haha  成功
+2017-03-04 18:06 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  热搜 :hah
+2017-03-04 18:06 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  热搜 :ha
+2017-03-04 18:06 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  热搜 :h
+2017-03-04 18:06 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  热搜 :
+2017-03-04 18:06 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  热搜 
+2017-03-04 18:06 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  热搜
+2017-03-04 18:06 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  热
+2017-03-04 18:07 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 18:07 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:07 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:07 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:07 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:07 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:07 54 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:08 24 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:13 58 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 18:13 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:13 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:13 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:13 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:13 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:13 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:14 10 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:14 10 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:14 10 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:14 10 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:14 10 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:14 10 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:16 08 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:16 08 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:16 08 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:28 14 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines3
+2017-03-04 18:28 16 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-04 18:28 23 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  jack
+2017-03-04 18:28 23 : 
+addLable(LableController.java:50) 确认搜索 text :  jack
+2017-03-04 18:28 23 : 
+addOrSaveLable(LableService.java:59) 保存更新 lable ：jack  成功

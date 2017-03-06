@@ -42,6 +42,7 @@ public class GoodsEntity {
 
     @Id
     @Column(name = "goodsId", nullable = false)
+    @GeneratedValue(strategy=GenerationType.IDENTITY)
     public Integer getGoodsId() {
         return goodsId;
     }

@@ -1,0 +1,34 @@
+03.01 : 
+entry(MainTest.java:30) Æô¶¯·şÎñÆ÷
+03.01 : 
+entry(MainTest.java:30) Æô¶¯·şÎñÆ÷
+03.01 : 
+entry(MainTest.java:30) Æô¶¯·şÎñÆ÷
+03.01 : 
+login(UserService.java:37) µÇÂ¼
+03.01 : 
+login(UserController.java:40) com.rabbit.bean.GsonLogin@50a474b0
+03.01 : 
+login(UserService.java:37) µÇÂ¼
+03.01 : 
+login(UserController.java:40) com.rabbit.bean.GsonLogin@dcbe1dc
+03.01 : 
+login(UserService.java:37) µÇÂ¼
+03.01 : 
+login(UserController.java:40) com.rabbit.bean.GsonLogin@14a8b9cb
+03.01 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asd  true
+03.01 : 
+login(UserController.java:40) first
+03.01 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asd  true
+03.01 : 
+login(UserController.java:40) first
+03.01 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asd  true
+03.01 : 
+login(UserController.java:40) first
+03.01 : 
+login(UserService.java:37) µÇÂ¼first ÃÜÂë asd  false
+03.01 : 
+login(UserController.java:40) first

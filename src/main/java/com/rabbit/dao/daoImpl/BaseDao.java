@@ -116,7 +116,7 @@ public class BaseDao<T> implements IBaseDao<T> {
 
     @Override
     public boolean delete(String sql,Integer id) {
-         Session session=this.getCurrentSession();
+        Session session=this.getCurrentSession();
         Query query=session.createSQLQuery(sql);
         query.setInteger(0,id);
         if(query.executeUpdate()==1) {
@@ -181,7 +181,17 @@ public class BaseDao<T> implements IBaseDao<T> {
     此功能尚未实现完全
      */
     public void saveOrUpdate(T o) {
-        this.getCurrentSession().saveOrUpdate(o);
+        Session session=this.getCurrentSession();
+        session.beginTransaction();
+        try {
+            session.saveOrUpdate(o);
+            session.getTransaction().commit();
+        }catch (Exception e){
+            e.printStackTrace();
+            session.getTransaction().rollback();
+        }finally {
+            session.close();
+        }
     }
 
     @Override

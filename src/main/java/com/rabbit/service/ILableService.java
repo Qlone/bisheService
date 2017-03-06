@@ -15,5 +15,11 @@ import com.rabbit.entity.LableEntity;
  */
 public interface ILableService {
 
+    String LABLE_MARK_NORMAL = "normal";
+
     IListBean<LableEntity> getLableList(String text,int page ,int lines);
+
+     void addOrSaveLable(String text);
+
+    IListBean<LableEntity> getHotLableList(int page, int lines);
 }
