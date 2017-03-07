@@ -29,6 +29,7 @@ public class GoodsEntity {
     private String status;
     private Integer views;
     private Integer goodsDelete;
+    private String mPictureGroup;
 
     @Basic
     @Column(name = "type", nullable = true, length = 200)
@@ -163,5 +164,15 @@ public class GoodsEntity {
 
     public void setGoodsDelete(Integer goodsDelete) {
         this.goodsDelete = goodsDelete;
+    }
+
+    @Basic
+    @Column(name = "pictureGroup", nullable = true, length = -1)
+    public String getPictureGroup() {
+        return mPictureGroup;
+    }
+
+    public void setPictureGroup(String pictureGroup) {
+        mPictureGroup = pictureGroup;
     }
 }

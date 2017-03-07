@@ -69,4 +69,6 @@ public interface IGoodService {
     IListBean<GoodsEntity> getGoodsItem(int goodsId);
 
     IListBean<GoodsEntity> getStatusList(String type, int page, int lines);
+
+    boolean addGoods(GoodsEntity goodsEntity);
 }

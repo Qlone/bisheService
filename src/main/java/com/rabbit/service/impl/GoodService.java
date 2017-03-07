@@ -5,8 +5,10 @@ import com.rabbit.dao.IBaseDao;
 import com.rabbit.dao.daoImpl.BaseDao;
 import com.rabbit.entity.GoodsEntity;
 import com.rabbit.service.IGoodService;
+import com.rabbit.service.ILableService;
 import com.rabbit.service.IListBean;
 import com.rabbit.service.list.GoodsList;
+import com.rabbit.util.RabbitLog;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Service;
@@ -21,15 +23,17 @@ import java.util.List;
 @Scope(value = "prototype")
 public class GoodService implements IGoodService {
     final private IListBean<GoodsEntity> goodsListBean;
+    private final ILableService mILableService;
 
     @Autowired
-    public GoodService(GoodsList goodsListBean) {
+    public GoodService(GoodsList goodsListBean, ILableService mILableService) {
         this.goodsListBean = goodsListBean;
+        this.mILableService = mILableService;
     }
     public static void main(String[] args){
-        GoodService goodService = new GoodService(new GoodsList(new BaseDao<GoodsEntity>()));
-        IListBean<GoodsEntity> goodsListBean =  goodService.getAllList(1,2);
-        System.out.println(goodsListBean.getList().size());
+//        GoodService goodService = new GoodService(new GoodsList(new BaseDao<GoodsEntity>()));
+//        IListBean<GoodsEntity> goodsListBean =  goodService.getTitleList("cat",1,2);
+//        System.out.println(goodsListBean.getList().size());
     }
 
     @Override
@@ -77,6 +81,21 @@ public class GoodService implements IGoodService {
         goodsListBean.init(hqlBean,page,lines);
         return goodsListBean;
     }
+    @Override
+    public boolean addGoods(GoodsEntity goodsEntity){
+        IBaseDao<GoodsEntity> goodsBaseDao = new BaseDao<>();
+        try {
+            goodsBaseDao.save(goodsEntity);
+            RabbitLog.debug("保存 了一件 新的商品 :" + goodsEntity.getTitle());
+            //同时添加新的标签
+            mILableService.addOrSaveLable(goodsEntity.getTitle(),ILableService.LABLE_MARK_TITLE);
+            return true;
+
+        }catch (Exception e){
+            RabbitLog.debug(" 保存商品 或者 添加标签 失败"+ goodsEntity.getTitle());
+            return false;
+        }
+    }
 
 
     private IListBean<GoodsEntity> getGoodsByTitle(String[] title,int page,int lines){
@@ -86,6 +105,8 @@ public class GoodService implements IGoodService {
             buff.append( " and title like ? ");
             hqlBean.addObject('%'+list+'%');
         }
+        buff.append( " and goodsDelete = ? " );
+        hqlBean.addObject(GOODS_DELETE_FALSE);
         hqlBean.setInnerHql(buff.toString());
         hqlBean.setRulesHql(" order by goodsId desc ");
         goodsListBean.init(hqlBean,page,lines);

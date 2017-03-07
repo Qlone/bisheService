@@ -45,29 +45,33 @@ public class LableService implements ILableService{
     }
 
     @Override
-    public synchronized void  addOrSaveLable(String text){
-         LableEntity lableEntity = getItem(text);
-         if(null == lableEntity){
-             lableEntity = new LableEntity();
-             lableEntity.setMark(LABLE_MARK_NORMAL);
-             lableEntity.setView(0);
-         }
-         lableEntity.setText(text);
-         lableEntity.setView(lableEntity.getView()+1);
-         try {
-             mLableEntityIBaseDao.saveOrUpdate(lableEntity);
-             RabbitLog.debug("保存更新 lable ："+text +"  成功");
-         }catch (Exception e){
-             e.printStackTrace();
-             RabbitLog.debug("保存更新 lable ："+text +"  失败");
-         }
+    public void  addOrSaveLable(String text){
+         addOrSaveLable(text,LABLE_MARK_NORMAL);
+    }
+    @Override
+    public synchronized void  addOrSaveLable(String text,String mark){
+        LableEntity lableEntity = getItem(text);
+        if(null == lableEntity){
+            lableEntity = new LableEntity();
+            lableEntity.setMark(mark);
+            lableEntity.setView(0);
+        }
+        lableEntity.setText(text);
+        lableEntity.setView(lableEntity.getView()+1);
+        try {
+            mLableEntityIBaseDao.saveOrUpdate(lableEntity);
+            RabbitLog.debug("保存更新 lable ："+text +"  成功");
+        }catch (Exception e){
+            e.printStackTrace();
+            RabbitLog.debug("保存更新 lable ："+text +"  失败");
+        }
     }
 
     @Override
     public IListBean<LableEntity> getHotLableList(int page,int lines){
         HqlBean hqlBean = new HqlBean();
-        hqlBean.setInnerHql(" and mark = ? ");
-        hqlBean.addObject(LABLE_MARK_NORMAL);
+//        hqlBean.setInnerHql(" and mark = ? ");
+//        hqlBean.addObject(LABLE_MARK_NORMAL);
         hqlBean.setRulesHql(" order by view desc");
         mLableEntityIListBean.init(hqlBean,page,lines);
         return mLableEntityIListBean;
