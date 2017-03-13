@@ -22,6 +22,7 @@ public class AddressEntity {
     private Integer mAddressId;
     private String mAddress;
     private String mPhone;
+    private Integer mUserId;
 
     @Id
     @Column(name = "addressId", nullable = false)
@@ -73,5 +74,15 @@ public class AddressEntity {
         result = 31 * result + (mAddress != null ? mAddress.hashCode() : 0);
         result = 31 * result + (mPhone != null ? mPhone.hashCode() : 0);
         return result;
+    }
+
+    @Basic
+    @Column(name = "userId", nullable = true)
+    public Integer getUserId() {
+        return mUserId;
+    }
+
+    public void setUserId(Integer userId) {
+        mUserId = userId;
     }
 }

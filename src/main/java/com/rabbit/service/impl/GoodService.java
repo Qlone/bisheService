@@ -68,7 +68,13 @@ public class GoodService implements IGoodService {
 
     @Override
     public IListBean<GoodsEntity> getGoodsItem(int goodsId) {
-        return null;
+        HqlBean hqlBean = new HqlBean();
+        hqlBean.setInnerHql(" and goodsId = ? and goodsDelete = ?");
+        hqlBean.setRulesHql(" order by goodsId desc ");
+        hqlBean.addObject(goodsId);
+        hqlBean.addObject(GOODS_DELETE_FALSE);
+        goodsListBean.init(hqlBean,1,1);
+        return goodsListBean;
     }
 
     @Override

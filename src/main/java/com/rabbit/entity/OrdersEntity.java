@@ -12,6 +12,7 @@ import org.springframework.stereotype.Repository;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
+import java.util.Date;
 
 /**
  * Created by weina on 2017/3/10.
@@ -27,11 +28,14 @@ public class OrdersEntity {
     private String mPicture;
     private String mTitle;
     private Double mPrice;
-    private Timestamp mCreateTime;
-    private Timestamp mPaidTime;
+    private Date mCreateTime;
+    private Date mPaidTime;
     private String mStatus;
+    private Integer mAmount;
+    private Integer mUserId;
 
     @Id
+    @GeneratedValue(strategy=GenerationType.IDENTITY)
     @Column(name = "ordersId", nullable = false)
     public Integer getOrdersId() {
         return mOrdersId;
@@ -103,21 +107,21 @@ public class OrdersEntity {
 
     @Basic
     @Column(name = "createTime", nullable = true)
-    public Timestamp getCreateTime() {
+    public Date getCreateTime() {
         return mCreateTime;
     }
 
-    public void setCreateTime(Timestamp createTime) {
+    public void setCreateTime(Date createTime) {
         mCreateTime = createTime;
     }
 
     @Basic
     @Column(name = "paidTime", nullable = true)
-    public Timestamp getPaidTime() {
+    public Date getPaidTime() {
         return mPaidTime;
     }
 
-    public void setPaidTime(Timestamp paidTime) {
+    public void setPaidTime(Date paidTime) {
         mPaidTime = paidTime;
     }
 
@@ -165,5 +169,25 @@ public class OrdersEntity {
         result = 31 * result + (mPaidTime != null ? mPaidTime.hashCode() : 0);
         result = 31 * result + (mStatus != null ? mStatus.hashCode() : 0);
         return result;
+    }
+
+    @Basic
+    @Column(name = "amount", nullable = true)
+    public Integer getAmount() {
+        return mAmount;
+    }
+
+    public void setAmount(Integer amount) {
+        mAmount = amount;
+    }
+
+    @Basic
+    @Column(name = "userId", nullable = true)
+    public Integer getUserId() {
+        return mUserId;
+    }
+
+    public void setUserId(Integer userId) {
+        mUserId = userId;
     }
 }

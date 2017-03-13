@@ -11,7 +11,7 @@ package com.rabbit.service;
 /**
  * Created by weina on 2017/3/10.
  */
-public interface IOrderSercer {
+public interface IOrderService {
     /**
      * 删除 订单
      */
@@ -39,4 +39,6 @@ public interface IOrderSercer {
      * 订单 评论
      */
     String ORDER_STATUS_COMMENT="pay_and_commend";
+
+    boolean addOrderToCart(int userId, int addressId, int goodId, int amount);
 }
