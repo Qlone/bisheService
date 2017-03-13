@@ -88,11 +88,24 @@ public class BaseDao<T> implements IBaseDao<T> {
         }
         return session;
     }
-    /*
-        此功能尚未实现完全
-         */
     public void delete(T o) {
-        this.getCurrentSession().delete(o);
+        Session session = null;
+        try {
+            session = this.getCurrentSession();
+
+            session.beginTransaction();
+
+            session.delete(o);
+            session.getTransaction().commit();
+        } catch (HibernateException e) {
+            e.printStackTrace();
+            // 回滚事务
+            session.getTransaction().rollback();
+        } finally {
+            // 关闭session
+            session.close();
+        }
+        return;
     }
 
    @Override

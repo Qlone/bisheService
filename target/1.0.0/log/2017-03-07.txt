@@ -130,3 +130,373 @@ listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
 listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
 2017-03-07 14:04 47 : 
 listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-07 14:21 19 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 14:21 19 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 14:21 21 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-07 14:23 38 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 14:51 20 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 14:55 46 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 15:05 38 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 15:07 24 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 15:09 17 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 15:09 17 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 15:09 20 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-07 15:29 30 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-07 15:59 42 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:01 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:02 33 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:02 45 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 16:02 45 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 16:02 57 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  haha
+2017-03-07 16:02 57 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  haha列表 page 1 lines8
+2017-03-07 16:02 57 : 
+addLable(LableController.java:50) 确认搜索 text :  haha
+2017-03-07 16:02 57 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：haha  成功
+2017-03-07 16:07 07 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:33 26 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:47 12 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 16:47 12 : 
+getHotLable(LableController.java:65)  搜索商品  列表 page 1 lines8
+2017-03-07 16:47 18 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-07 16:47 20 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-03-07 16:47 40 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:47 43 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:47 45 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-07 16:48 34 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:48 38 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:49 03 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:49 22 : 
+login(UserService.java:37) 登录45 密码 f  false
+2017-03-07 16:49 22 : 
+login(UserController.java:40) 45
+2017-03-07 16:50 07 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:50 09 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-07 16:50 58 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:53 52 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:53 53 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 16:53 53 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 16:54 12 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 16:54 14 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 16:54 14 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 16:54 19 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-07 16:55 22 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-03-07 16:55 29 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 16:55 29 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 16:55 32 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-07 16:55 33 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-03-07 16:56 04 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-07 16:56 50 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-07 16:56 55 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 16:56 55 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 16:57 11 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 16:57 11 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 16:57 19 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-07 16:57 23 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-03-07 16:57 29 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 16:57 36 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-07 16:57 44 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-03-07 16:58 00 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  haha
+2017-03-07 16:58 00 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  haha列表 page 1 lines8
+2017-03-07 16:58 00 : 
+addLable(LableController.java:50) 确认搜索 text :  haha
+2017-03-07 16:58 00 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：haha  成功
+2017-03-07 16:58 02 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hah
+2017-03-07 16:58 02 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ha
+2017-03-07 16:58 02 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  h
+2017-03-07 16:58 04 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 16:58 05 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 16:58 05 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 16:58 05 : 
+addLable(LableController.java:50) 确认搜索 text :  m
+2017-03-07 16:58 05 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：m  成功
+2017-03-07 16:58 06 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-07 16:58 16 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 16:59 10 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 16:59 19 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 16:59 23 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 16:59 26 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 16:59 31 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 16:59 31 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 16:59 32 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-07 16:59 33 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-03-07 16:59 37 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 16:59 45 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 16:59 45 : 
+addLable(LableController.java:50) 确认搜索 text :  m
+2017-03-07 16:59 45 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 16:59 45 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：m  成功
+2017-03-07 16:59 47 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-07 16:59 51 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 17:01 07 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 17:01 08 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 17:01 08 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 17:01 10 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-07 17:01 11 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-03-07 17:01 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:01 14 : 
+addLable(LableController.java:50) 确认搜索 text :  m
+2017-03-07 17:01 14 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 17:01 14 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：m  成功
+2017-03-07 17:01 15 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-07 17:01 20 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 17:01 40 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  mus
+2017-03-07 17:01 40 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  mus列表 page 1 lines8
+2017-03-07 17:01 40 : 
+addLable(LableController.java:50) 确认搜索 text :  mus
+2017-03-07 17:01 40 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：mus  成功
+2017-03-07 17:04 00 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 17:04 04 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 17:04 04 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 17:04 07 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:04 07 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:04 07 : 
+addLable(LableController.java:50) 确认搜索 text :  m
+2017-03-07 17:04 07 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 17:04 07 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：m  成功
+2017-03-07 17:04 10 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-07 17:05 04 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 17:05 04 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 17:05 07 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:05 09 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:05 09 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 17:05 09 : 
+addLable(LableController.java:50) 确认搜索 text :  m
+2017-03-07 17:05 09 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：m  成功
+2017-03-07 17:05 27 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-07 17:06 15 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 17:06 15 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 17:06 18 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:06 19 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  mu
+2017-03-07 17:06 19 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  mus
+2017-03-07 17:06 20 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  mus
+2017-03-07 17:06 20 : 
+addLable(LableController.java:50) 确认搜索 text :  mus
+2017-03-07 17:06 20 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  mus列表 page 1 lines8
+2017-03-07 17:06 20 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：mus  成功
+2017-03-07 17:06 31 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  mu
+2017-03-07 17:06 31 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:06 32 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  mlg
+2017-03-07 17:06 33 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  mlg列表 page 1 lines8
+2017-03-07 17:06 33 : 
+addLable(LableController.java:50) 确认搜索 text :  mlg
+2017-03-07 17:06 33 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：mlg  成功
+2017-03-07 17:06 34 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  mlg列表 page 2 lines8
+2017-03-07 17:07 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 17:07 58 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 17:07 58 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 17:08 06 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:08 08 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:08 08 : 
+addLable(LableController.java:50) 确认搜索 text :  m
+2017-03-07 17:08 08 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 17:08 08 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：m  成功
+2017-03-07 17:08 11 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-07 17:10 44 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 17:11 08 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 17:11 12 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 17:11 12 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 17:11 14 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:11 15 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:11 15 : 
+addLable(LableController.java:50) 确认搜索 text :  m
+2017-03-07 17:11 15 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-07 17:11 15 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：m  成功
+2017-03-07 17:11 16 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-07 17:11 17 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-07 17:12 22 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 17:12 22 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 17:12 25 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-07 17:12 26 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ml
+2017-03-07 17:12 27 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  mlg
+2017-03-07 17:12 28 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  mlg列表 page 1 lines8
+2017-03-07 17:12 28 : 
+addLable(LableController.java:50) 确认搜索 text :  mlg
+2017-03-07 17:12 28 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：mlg  成功
+2017-03-07 17:12 30 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  mlg列表 page 2 lines8
+2017-03-07 17:12 32 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-07 17:12 32 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-07 17:13 28 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  h
+2017-03-07 17:13 29 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hv
+2017-03-07 17:13 29 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hvv
+2017-03-07 17:13 29 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hvv 
+2017-03-07 17:13 29 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hvv  
+2017-03-07 17:13 29 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hvv   
+2017-03-07 17:13 29 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hvv    
+2017-03-07 17:13 30 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hvv   
+2017-03-07 17:13 30 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hvv  
+2017-03-07 17:13 31 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hvv 
+2017-03-07 17:13 31 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hvv
+2017-03-07 17:13 31 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hv
+2017-03-07 17:13 31 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  h
+2017-03-07 17:19 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-07 17:19 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-07 17:19 58 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
