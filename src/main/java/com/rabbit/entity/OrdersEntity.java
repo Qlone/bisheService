@@ -22,7 +22,7 @@ import java.util.Date;
 @Table(name = "orders", schema = "bishe", catalog = "")
 public class OrdersEntity {
     private Integer mOrdersId;
-    private Integer mGoodId;
+    private Integer mGoodsId;
     private String mAddress;
     private String mPhone;
     private String mPicture;
@@ -46,14 +46,14 @@ public class OrdersEntity {
     }
 
     @Basic
-    @Column(name = "goodId", nullable = true)
-    public Integer getGoodId() {
-        return mGoodId;
+    @Column(name = "goodsId", nullable = true)
+    public Integer getGoodsId() {
+        return mGoodsId;
+    }
+    public void setGoodsId(Integer goodsId) {
+        mGoodsId = goodsId;
     }
 
-    public void setGoodId(Integer goodId) {
-        mGoodId = goodId;
-    }
 
     @Basic
     @Column(name = "address", nullable = true, length = 200)
@@ -143,7 +143,7 @@ public class OrdersEntity {
         OrdersEntity that = (OrdersEntity) o;
 
         if (mOrdersId != null ? !mOrdersId.equals(that.mOrdersId) : that.mOrdersId != null) return false;
-        if (mGoodId != null ? !mGoodId.equals(that.mGoodId) : that.mGoodId != null) return false;
+        if (mGoodsId != null ? !mGoodsId.equals(that.mGoodsId) : that.mGoodsId != null) return false;
         if (mAddress != null ? !mAddress.equals(that.mAddress) : that.mAddress != null) return false;
         if (mPhone != null ? !mPhone.equals(that.mPhone) : that.mPhone != null) return false;
         if (mPicture != null ? !mPicture.equals(that.mPicture) : that.mPicture != null) return false;
@@ -159,7 +159,7 @@ public class OrdersEntity {
     @Override
     public int hashCode() {
         int result = mOrdersId != null ? mOrdersId.hashCode() : 0;
-        result = 31 * result + (mGoodId != null ? mGoodId.hashCode() : 0);
+        result = 31 * result + (mGoodsId != null ? mGoodsId.hashCode() : 0);
         result = 31 * result + (mAddress != null ? mAddress.hashCode() : 0);
         result = 31 * result + (mPhone != null ? mPhone.hashCode() : 0);
         result = 31 * result + (mPicture != null ? mPicture.hashCode() : 0);

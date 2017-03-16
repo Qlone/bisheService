@@ -28,16 +28,27 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @RequestMapping(value = "order")
 public class OrderController {
     @Autowired
-    private OrderService mOrderService;
+    private IOrderService mOrderService;
 
     @RequestMapping(value = "/add",method = RequestMethod.GET)
-    public void newOrder(
+    @ResponseBody
+    public String newOrder(
             @RequestParam(value = "userId",required = false) int userId,
             @RequestParam(value = "goodsId",required = false) int goodsId,
             @RequestParam(value = "addressId",required = false) int addressId,
             @RequestParam(value = "amount",required = false) int amount){
-        RabbitLog.debug("兔子登记 接收新的订单");
-        mOrderService.addOrderToCart(userId,addressId,goodsId,amount);
+        RabbitLog.debug("兔子登记 接收新的订单 ");
+        try {
+            RabbitLog.debug("为了测试效果，等待 3秒钟 ");
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        if(mOrderService.addOrderToCart(userId,addressId,goodsId,amount)){
+            return "success";
+        }else {
+            return "error";
+        }
     }
     @RequestMapping(value = "/cart",method = RequestMethod.GET)
     @ResponseBody
@@ -48,11 +59,31 @@ public class OrderController {
             @RequestParam(value = "lines",required = false) int lines){
         RabbitLog.debug("请求 订单列表"+status+"   userId :"+userId);
         switch (status){
-            case IOrderService.ORDER_STATUS_NOPAY: {
+            case IOrderService.ORDER_STATUS_CART: {
                 return JsonUtil.toJson(mOrderService.getOrderToCart(userId, page, lines).getList());
             }
             default:break;
         }
         return null;
+    }
+    //修改购物车中的数量
+    @RequestMapping(value = "/changeAmount" ,method = RequestMethod.GET)
+    @ResponseBody
+    public String changeOrderCartAmount(
+            @RequestParam(value = "userId",required = false) int userId,
+            @RequestParam(value = "orderId",required = false) int orderId,
+            @RequestParam(value = "amount",required = false) int amount){
+        RabbitLog.debug("修改订单 请求 usrId:" + userId);
+        RabbitLog.debug(mOrderService.updataOrderCartAmount(userId,orderId,amount));
+        return null;
+    }
+    //修改购物车中的数量
+    @RequestMapping(value = "/deleteCart" ,method = RequestMethod.GET)
+    @ResponseBody
+    public String deleteCart(
+            @RequestParam(value = "userId",required = false) int userId,
+            @RequestParam(value = "orderId",required = false) int orderId){
+        RabbitLog.debug("删除订单 请求 usrId:" + userId);
+        return  ""+mOrderService.deleteCart(userId,orderId);
     }
 }

@@ -8,6 +8,8 @@
 
 package com.rabbit.service;
 
+import com.rabbit.entity.OrdersEntity;
+
 /**
  * Created by weina on 2017/3/10.
  */
@@ -17,6 +19,10 @@ public interface IOrderService {
      */
     String ORDER_STATUS_DEDLETE = "delete";
 
+    /**
+     * 购物车
+     */
+    String ORDER_STATUS_CART="cart";
     /**
      * 订单 尚未付款 ，也就是 在购物车里面了吧
      */
@@ -41,4 +47,11 @@ public interface IOrderService {
     String ORDER_STATUS_COMMENT="pay_and_commend";
 
     boolean addOrderToCart(int userId, int addressId, int goodId, int amount);
+
+    //修改购物车数量
+    boolean updataOrderCartAmount(int userId, int orderId, int amount);
+
+    boolean deleteCart(int userId, int orderId);
+
+    IListBean<OrdersEntity> getOrderToCart(int userId, int page, int lines);
 }

@@ -56,7 +56,7 @@ public class OrderService implements IOrderService {
             goodsEntity = mIGoodService.getGoodsItem(goodId).getList().get(0);
             ordersEntity = new OrdersEntity();
             ordersEntity.setUserId(userId);//用户id
-            ordersEntity.setGoodId(goodsEntity.getGoodsId());//商品id
+            ordersEntity.setGoodsId(goodsEntity.getGoodsId());//商品id
             if(null != addressEntity) {
                 ordersEntity.setAddress(addressEntity.getAddress());//设置地址
                 ordersEntity.setPhone(addressEntity.getPhone());//设置收货地址
@@ -65,7 +65,7 @@ public class OrderService implements IOrderService {
             ordersEntity.setTitle(goodsEntity.getTitle());//设置商品标题
             ordersEntity.setAmount(amount);//设置购买的数量
             ordersEntity.setPrice(goodsEntity.getPrice());//获取商品价格
-            ordersEntity.setStatus(IOrderService.ORDER_STATUS_NOPAY);//加入到购物车
+            ordersEntity.setStatus(IOrderService.ORDER_STATUS_CART);//加入到购物车
             ordersEntity.setCreateTime(new Date());
             mOrdersEntityIBaseDao.save(ordersEntity);
             RabbitLog.debug("创建订单 成功  用户Id: "+userId+"   购买物品 ;"+goodsEntity.getTitle()+
@@ -82,8 +82,53 @@ public class OrderService implements IOrderService {
 
     }
 
-    public IListBean<OrdersEntity> getOrderToCart(int userId,int page,int lines){
-        return getOrderByStatus(userId,IOrderService.ORDER_STATUS_NOPAY,page,lines);
+    //修改购物车数量
+    @Override
+    public boolean updataOrderCartAmount(int userId,int orderId,int amount){
+        OrdersEntity ordersEntity = mOrdersEntityIBaseDao.get(OrdersEntity.class,orderId);
+        GoodsEntity goodsEntity = mIGoodService.getGoodsItem(ordersEntity.getGoodsId()).getList().get(0);
+        if(amount>goodsEntity.getStock() || amount < 1){
+            RabbitLog.debug("修改购物车数量失败  ：不合法的数量");
+            return false;
+        }
+
+        if(null !=ordersEntity && ordersEntity.getUserId()==userId){
+            ordersEntity.setAmount(amount);
+            try {
+                mOrdersEntityIBaseDao.update(ordersEntity);
+                return true;
+            } catch (Exception e) {
+                e.printStackTrace();
+                RabbitLog.debug("更新购物车失败");
+                return false;
+            }
+        }else {
+            RabbitLog.debug("非法修改购物车 orderId:" + orderId +" user :" +userId);
+            return false;
+        }
+    }
+
+    @Override
+    public boolean deleteCart(int userId, int orderId){
+        OrdersEntity ordersEntity = mOrdersEntityIBaseDao.get(OrdersEntity.class,orderId);
+        if(null!=ordersEntity&&userId == ordersEntity.getUserId() &&  ordersEntity.getStatus().equals(IOrderService.ORDER_STATUS_CART)){
+            try {
+                mOrdersEntityIBaseDao.delete(ordersEntity);
+                RabbitLog.debug("删除订单 成功 userId :" +userId+"  orderId :"+orderId);
+                return true;
+            }catch (Exception e){
+                RabbitLog.debug("删除订单 失败 userId :" +userId+"  orderId :"+orderId);
+                e.printStackTrace();
+            }
+        }else{
+            RabbitLog.debug("订单数据错误 userId :" +userId+"  orderId :"+orderId+"  order is null:" + (null == ordersEntity));
+        }
+        return false;
+    }
+
+    @Override
+    public IListBean<OrdersEntity> getOrderToCart(int userId, int page, int lines){
+        return getOrderByStatus(userId,IOrderService.ORDER_STATUS_CART,page,lines);
     }
 
     private IListBean<OrdersEntity> getOrderByStatus(int userId,String status,int page,int lines){
@@ -92,7 +137,7 @@ public class OrderService implements IOrderService {
         hqlBean.setRulesHql(" order by createTime desc ");
         hqlBean.addObject(userId);
         hqlBean.addObject(status);
-
+        //TODO:  完成  商品信息及时改动
         mOrdersEntityIListBean.init(hqlBean,page,lines);
         return mOrdersEntityIListBean;
     }
