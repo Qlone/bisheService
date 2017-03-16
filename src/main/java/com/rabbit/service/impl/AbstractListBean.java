@@ -11,12 +11,16 @@ package com.rabbit.service.impl;
 
 import com.rabbit.bean.HqlBean;
 import com.rabbit.service.IListBean;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
 
 import java.util.List;
 
 /**
  * Created by weina on 2016/12/4.
  */
+@Component
+@Scope(value = "prototype")
 public abstract class AbstractListBean<T> implements IListBean<T> {
     private List<T> listBean;
     private long currentPage;

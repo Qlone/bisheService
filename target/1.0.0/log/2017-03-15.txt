@@ -1,0 +1,218 @@
+2017-03-15 09:45 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 09:45 13 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 09:45 13 : 
+login(UserController.java:40) first
+2017-03-15 09:45 15 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表not_pay   userId :1
+2017-03-15 09:53 46 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 09:53 50 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 09:53 50 : 
+login(UserController.java:40) first
+2017-03-15 09:53 50 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 09:56 44 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 09:56 48 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 09:56 48 : 
+login(UserController.java:40) first
+2017-03-15 09:56 48 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 09:59 17 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 09:59 18 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 09:59 45 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-15 09:59 47 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-15 09:59 49 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-15 09:59 49 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-15 09:59 52 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-15 10:00 29 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 10:31 52 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 10:34 14 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 10:41 31 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 10:45 12 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 10:45 53 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 10:47 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 10:47 43 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 10:47 56 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 10:47 56 : 
+login(UserController.java:40) first
+2017-03-15 10:47 57 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:12 30 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:14 03 : 
+login(UserService.java:37) 登录first 密码 adf  false
+2017-03-15 11:14 03 : 
+login(UserController.java:40) first
+2017-03-15 11:14 06 : 
+login(UserService.java:37) 登录first 密码 add  false
+2017-03-15 11:14 06 : 
+login(UserController.java:40) first
+2017-03-15 11:14 08 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:14 08 : 
+login(UserController.java:40) first
+2017-03-15 11:14 08 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:15 22 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:15 27 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:16 46 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:16 51 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:16 51 : 
+login(UserController.java:40) first
+2017-03-15 11:16 51 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:19 45 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:19 47 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-15 11:19 51 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:19 51 : 
+login(UserController.java:40) first
+2017-03-15 11:19 52 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:23 11 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:23 15 : 
+login(UserService.java:37) 登录first 密码   false
+2017-03-15 11:23 15 : 
+login(UserController.java:40) first
+2017-03-15 11:23 15 : 
+login(UserService.java:37) 登录first 密码   false
+2017-03-15 11:23 15 : 
+login(UserController.java:40) first
+2017-03-15 11:23 18 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:23 18 : 
+login(UserController.java:40) first
+2017-03-15 11:23 18 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:24 09 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:24 10 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:27 08 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:27 12 : 
+login(UserService.java:37) 登录first 密码 add  false
+2017-03-15 11:27 12 : 
+login(UserController.java:40) first
+2017-03-15 11:27 14 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:27 14 : 
+login(UserController.java:40) first
+2017-03-15 11:27 14 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:29 36 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:29 47 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-03-15 11:29 47 : 
+login(UserController.java:40) first
+2017-03-15 11:29 49 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:29 49 : 
+login(UserController.java:40) first
+2017-03-15 11:29 49 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:31 54 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:31 58 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-03-15 11:31 58 : 
+login(UserController.java:40) first
+2017-03-15 11:31 59 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:31 59 : 
+login(UserController.java:40) first
+2017-03-15 11:31 59 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:32 46 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:32 50 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-03-15 11:32 50 : 
+login(UserController.java:40) first
+2017-03-15 11:32 52 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:32 52 : 
+login(UserController.java:40) first
+2017-03-15 11:32 52 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:33 35 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:33 38 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-03-15 11:33 38 : 
+login(UserController.java:40) first
+2017-03-15 11:33 40 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:33 40 : 
+login(UserController.java:40) first
+2017-03-15 11:33 40 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:34 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:34 55 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:34 55 : 
+login(UserController.java:40) first
+2017-03-15 11:34 55 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:35 28 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:35 32 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:35 32 : 
+login(UserController.java:40) first
+2017-03-15 11:35 32 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:36 38 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:36 42 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:36 42 : 
+login(UserController.java:40) first
+2017-03-15 11:36 43 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:37 44 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:37 49 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:37 49 : 
+login(UserController.java:40) first
+2017-03-15 11:37 49 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1
+2017-03-15 11:43 51 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-15 11:43 55 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-15 11:43 55 : 
+login(UserController.java:40) first
+2017-03-15 11:43 55 : 
+getOrderToCart(OrderController.java:60) 请求 订单列表cart   userId :1

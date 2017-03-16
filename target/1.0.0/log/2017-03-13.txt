@@ -1,0 +1,420 @@
+2017-03-13 09:02 54 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:02 54 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:02 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:02 59 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 4 lines8
+2017-03-13 09:03 04 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:03 05 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 09:03 07 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:25 11 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:25 19 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 09:25 20 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:26 59 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:28 15 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:28 34 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 09:28 35 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:29 26 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:30 50 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:30 59 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 09:31 00 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:31 53 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:32 11 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 09:32 11 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:32 30 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:32 32 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 09:32 33 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:32 42 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:32 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 09:32 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:33 21 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:33 47 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 09:33 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:39 14 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:41 20 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:42 01 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:42 08 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 09:42 13 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 09:49 17 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 09:49 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:15 59 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:17 23 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:20 27 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:20 34 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:23 12 : 
+newOrder(OrderController.java:36) 兔子登记 接收新的订单
+2017-03-13 11:23 12 : 
+addOrderToCart(OrderService.java:65) 创建 订单失败  adrress is null：false ,goodsEntity is null：false
+2017-03-13 11:25 37 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:25 43 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:26 18 : 
+newOrder(OrderController.java:36) 兔子登记 接收新的订单
+2017-03-13 11:26 18 : 
+addOrderToCart(OrderService.java:65) 创建 订单失败  adrress is null：false ,goodsEntity is null：false
+2017-03-13 11:27 59 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-13 11:27 59 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-13 11:28 03 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-13 11:30 24 : 
+newOrder(OrderController.java:36) 兔子登记 接收新的订单
+2017-03-13 11:30 25 : 
+addOrderToCart(OrderService.java:60) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：1
+2017-03-13 11:31 22 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:31 25 : 
+newOrder(OrderController.java:36) 兔子登记 接收新的订单
+2017-03-13 11:31 25 : 
+addOrderToCart(OrderService.java:60) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：10
+2017-03-13 11:31 31 : 
+newOrder(OrderController.java:36) 兔子登记 接收新的订单
+2017-03-13 11:31 31 : 
+addOrderToCart(OrderService.java:60) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：10
+2017-03-13 11:38 23 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:38 28 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 11:38 34 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:39 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:39 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 11:39 50 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-03-13 11:40 00 : 
+login(UserService.java:37) 登录 密码 d  false
+2017-03-13 11:40 00 : 
+login(UserController.java:40) 
+2017-03-13 11:40 10 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 11:40 10 : 
+login(UserController.java:40) first
+2017-03-13 11:40 13 : 
+newOrder(OrderController.java:36) 兔子登记 接收新的订单
+2017-03-13 11:40 13 : 
+addOrderToCart(OrderService.java:62) 创建订单 成功  用户Id: 1   购买物品 ;mlgb1  数量 ：2
+2017-03-13 11:40 52 : 
+newOrder(OrderController.java:36) 兔子登记 接收新的订单
+2017-03-13 11:40 52 : 
+addOrderToCart(OrderService.java:62) 创建订单 成功  用户Id: 1   购买物品 ;mlgb1  数量 ：11
+2017-03-13 11:42 23 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 11:44 32 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-13 11:44 32 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-13 11:44 44 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-13 11:44 45 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-03-13 11:45 27 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 11:45 27 : 
+login(UserController.java:40) first
+2017-03-13 11:45 29 : 
+newOrder(OrderController.java:36) 兔子登记 接收新的订单
+2017-03-13 11:45 29 : 
+addOrderToCart(OrderService.java:62) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：2
+2017-03-13 11:46 37 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-13 11:46 37 : 
+addLable(LableController.java:50) 确认搜索 text :  m
+2017-03-13 11:46 37 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 1 lines8
+2017-03-13 11:46 37 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：m  成功
+2017-03-13 11:46 39 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-13 11:46 40 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  m列表 page 2 lines8
+2017-03-13 11:46 44 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-13 11:46 44 : 
+addLable(LableController.java:50) 确认搜索 text :  
+2017-03-13 11:46 44 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：  成功
+2017-03-13 11:46 45 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-03-13 11:46 46 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-03-13 11:46 49 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  cat
+2017-03-13 11:46 49 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 1 lines8
+2017-03-13 11:46 49 : 
+addLable(LableController.java:50) 确认搜索 text :  cat
+2017-03-13 11:46 49 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：cat  成功
+2017-03-13 11:46 50 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 2 lines8
+2017-03-13 11:46 51 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 3 lines8
+2017-03-13 11:48 23 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  hello world列表 page 1 lines8
+2017-03-13 11:48 23 : 
+addLable(LableController.java:50) 确认搜索 text :  hello world
+2017-03-13 11:48 23 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  hello world
+2017-03-13 11:48 23 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：hello world  成功
+2017-03-13 11:48 31 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-03-13 11:48 31 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-03-13 11:48 33 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  c
+2017-03-13 11:48 33 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ca
+2017-03-13 11:48 35 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  cat
+2017-03-13 11:48 36 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ca
+2017-03-13 11:48 37 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  c
+2017-03-13 11:48 38 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-13 11:48 38 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ma
+2017-03-13 11:48 39 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-13 11:48 39 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  ml
+2017-03-13 11:48 40 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  m
+2017-03-13 14:12 56 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 15:50 40 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 15:52 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 15:53 03 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 15:53 03 : 
+login(UserController.java:40) first
+2017-03-13 15:53 20 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 15:53 29 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 15:53 29 : 
+login(UserController.java:40) first
+2017-03-13 15:54 41 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 15:54 42 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:05 10 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:05 12 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:05 15 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 16:05 15 : 
+login(UserController.java:40) first
+2017-03-13 16:07 37 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:07 40 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:10 34 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:10 35 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:11 12 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:11 13 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:11 58 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:11 59 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:12 47 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:12 49 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:16 14 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:16 16 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:19 32 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:19 33 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:20 13 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:20 14 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:20 38 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:20 39 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:21 56 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:21 57 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:23 09 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:23 10 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:24 01 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:24 02 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:24 44 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:24 45 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:25 25 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:25 29 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:26 15 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:26 17 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:27 19 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:27 21 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:29 38 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:29 45 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-13 16:33 38 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 16:33 38 : 
+login(UserController.java:40) first
+2017-03-13 16:33 39 : 
+newOrder(OrderController.java:39) 兔子登记 接收新的订单
+2017-03-13 16:33 40 : 
+addOrderToCart(OrderService.java:71) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：4
+2017-03-13 16:33 50 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:33 51 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:38 10 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:38 17 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 16:38 17 : 
+login(UserController.java:40) first
+2017-03-13 16:39 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:39 51 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 16:39 51 : 
+login(UserController.java:40) first
+2017-03-13 16:39 53 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:39 59 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:40 02 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:40 09 : 
+newOrder(OrderController.java:39) 兔子登记 接收新的订单
+2017-03-13 16:40 09 : 
+addOrderToCart(OrderService.java:71) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：1
+2017-03-13 16:40 13 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:41 25 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:59 19 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:59 25 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 16:59 25 : 
+login(UserController.java:40) first
+2017-03-13 16:59 27 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:59 34 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 16:59 43 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 16:59 53 : 
+login(UserService.java:37) 登录first 密码 as  false
+2017-03-13 16:59 53 : 
+login(UserController.java:40) first
+2017-03-13 17:00 10 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 17:00 10 : 
+login(UserController.java:40) first
+2017-03-13 17:00 11 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 17:02 22 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 17:02 23 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 17:02 25 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 17:02 34 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 17:09 30 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 17:15 40 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 17:15 46 : 
+login(UserService.java:37) 登录first 密码   false
+2017-03-13 17:15 46 : 
+login(UserController.java:40) first
+2017-03-13 17:15 50 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 17:15 50 : 
+login(UserController.java:40) first
+2017-03-13 17:15 54 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 17:15 54 : 
+login(UserController.java:40) first
+2017-03-13 17:17 56 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-13 17:18 00 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-13 17:18 00 : 
+login(UserController.java:40) first
+2017-03-13 17:18 02 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 17:18 04 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 17:18 05 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1
+2017-03-13 17:18 06 : 
+getOrderToCart(OrderController.java:49) 请求 订单列表not_pay   userId :1

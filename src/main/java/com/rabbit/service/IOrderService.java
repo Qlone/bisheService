@@ -54,4 +54,6 @@ public interface IOrderService {
     boolean deleteCart(int userId, int orderId);
 
     IListBean<OrdersEntity> getOrderToCart(int userId, int page, int lines);
+
+    boolean checkOrderIsExists(int userId, int goodsId);
 }

@@ -44,10 +44,16 @@ public class OrderController {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        if(mOrderService.addOrderToCart(userId,addressId,goodsId,amount)){
-            return "success";
+        RabbitLog.debug("是否存在 :  "+mOrderService.checkOrderIsExists(userId,goodsId));
+        if(mOrderService.checkOrderIsExists(userId,goodsId)){
+            return "exists";
         }else {
-            return "error";
+
+            if (mOrderService.addOrderToCart(userId, addressId, goodsId, amount)) {
+                return "success";
+            } else {
+                return "error";
+            }
         }
     }
     @RequestMapping(value = "/cart",method = RequestMethod.GET)
@@ -73,9 +79,14 @@ public class OrderController {
             @RequestParam(value = "userId",required = false) int userId,
             @RequestParam(value = "orderId",required = false) int orderId,
             @RequestParam(value = "amount",required = false) int amount){
-        RabbitLog.debug("修改订单 请求 usrId:" + userId);
-        RabbitLog.debug(mOrderService.updataOrderCartAmount(userId,orderId,amount));
-        return null;
+        RabbitLog.debug("修改订单 请求 usrId:" + userId );
+        boolean rs = mOrderService.updataOrderCartAmount(userId,orderId,amount);
+        RabbitLog.debug("修改订单 请求 usrId:" + userId +" res: "+rs);
+        if(rs){
+            return ""+amount;
+        }else {
+            return ""+ -1;
+        }
     }
     //修改购物车中的数量
     @RequestMapping(value = "/deleteCart" ,method = RequestMethod.GET)

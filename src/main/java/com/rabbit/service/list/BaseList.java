@@ -15,6 +15,7 @@ import com.rabbit.entity.LableEntity;
 import com.rabbit.service.IListBean;
 import com.rabbit.service.impl.AbstractListBean;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 import java.lang.reflect.ParameterizedType;
@@ -24,6 +25,7 @@ import java.util.List;
  * Created by weina on 2017/3/3.
  */
 @Component
+@Scope(value = "prototype")
 public class BaseList<T> extends AbstractListBean<T> {
     private final IBaseDao<T> iBaseDao;
     @Autowired

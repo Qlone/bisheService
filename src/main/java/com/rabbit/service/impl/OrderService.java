@@ -141,4 +141,14 @@ public class OrderService implements IOrderService {
         mOrdersEntityIListBean.init(hqlBean,page,lines);
         return mOrdersEntityIListBean;
     }
+    @Override
+    public boolean checkOrderIsExists(int userId, int goodsId){
+        HqlBean hqlBean = new HqlBean();
+        hqlBean.setInnerHql(" and userId = ? and goodsId = ? and status = ?");
+        hqlBean.addObject(userId);
+        hqlBean.addObject(goodsId);
+        hqlBean.addObject(IOrderService.ORDER_STATUS_CART);
+        mOrdersEntityIListBean.init(hqlBean,1,Integer.MAX_VALUE);
+        return (mOrdersEntityIListBean.getNumer() != 0);
+    }
 }
