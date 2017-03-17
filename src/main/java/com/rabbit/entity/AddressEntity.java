@@ -23,9 +23,11 @@ public class AddressEntity {
     private String mAddress;
     private String mPhone;
     private Integer mUserId;
+    private String mName;
 
     @Id
     @Column(name = "addressId", nullable = false)
+    @GeneratedValue(strategy=GenerationType.IDENTITY)
     public Integer getAddressId() {
         return mAddressId;
     }
@@ -84,5 +86,15 @@ public class AddressEntity {
 
     public void setUserId(Integer userId) {
         mUserId = userId;
+    }
+
+    @Basic
+    @Column(name = "name", nullable = true, length = 200)
+    public String getName() {
+        return mName;
+    }
+
+    public void setName(String name) {
+        mName = name;
     }
 }

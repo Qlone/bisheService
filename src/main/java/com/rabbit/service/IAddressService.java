@@ -15,4 +15,10 @@ import com.rabbit.entity.AddressEntity;
  */
 public interface IAddressService {
     AddressEntity getAddressEntity(int addressId);
+
+    IListBean<AddressEntity> getAddressList(int userId);
+
+    boolean addAddress(AddressEntity addressEntity);
+
+    boolean deleteAddress(int userId, int addressId);
 }

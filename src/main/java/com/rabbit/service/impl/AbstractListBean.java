@@ -19,8 +19,7 @@ import java.util.List;
 /**
  * Created by weina on 2016/12/4.
  */
-@Component
-@Scope(value = "prototype")
+
 public abstract class AbstractListBean<T> implements IListBean<T> {
     private List<T> listBean;
     private long currentPage;
