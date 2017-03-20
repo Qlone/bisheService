@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d97db842-c054-46cb-bcbb-aecf1758a08c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rabbit/bean/GsonAddOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rabbit/bean/GsonResAddOrder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/26ee4325-d9c0-4a3e-b857-187bbf05d3ea.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/26ee4325-d9c0-4a3e-b857-187bbf05d3ea.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rabbit/controller/OrderController.java" afterPath="$PROJECT_DIR$/src/main/java/com/rabbit/controller/OrderController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rabbit/entity/OrdersEntity.java" afterPath="$PROJECT_DIR$/src/main/java/com/rabbit/entity/OrdersEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rabbit/service/IGoodService.java" afterPath="$PROJECT_DIR$/src/main/java/com/rabbit/service/IGoodService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rabbit/service/IOrderService.java" afterPath="$PROJECT_DIR$/src/main/java/com/rabbit/service/IOrderService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rabbit/service/impl/GoodService.java" afterPath="$PROJECT_DIR$/src/main/java/com/rabbit/service/impl/GoodService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rabbit/service/impl/OrderService.java" afterPath="$PROJECT_DIR$/src/main/java/com/rabbit/service/impl/OrderService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/1.0.0/log/2017-03-20.txt" afterPath="$PROJECT_DIR$/target/1.0.0/log/2017-03-20.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -109,8 +100,8 @@
       <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbit/controller/OrderController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="99" column="30" lean-forward="true" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="41" />
+            <state relative-caret-position="447">
+              <caret line="109" column="9" lean-forward="false" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -1295,7 +1286,7 @@
       <workItem from="1489711462328" duration="8882000" />
       <workItem from="1489970845945" duration="2791000" />
       <workItem from="1489977314436" duration="58000" />
-      <workItem from="1489977649018" duration="6203000" />
+      <workItem from="1489977649018" duration="8076000" />
     </task>
     <task id="LOCAL-00001" summary="准备创建 商品 服务">
       <created>1488443280553</created>
@@ -1336,7 +1327,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148151000" />
+    <option name="totallyTimeSpent" value="150024000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1918,8 +1909,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbit/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="99" column="30" lean-forward="true" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="41" />
+        <state relative-caret-position="447">
+          <caret line="109" column="9" lean-forward="false" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
           <folding />
         </state>
       </provider>

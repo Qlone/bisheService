@@ -102,6 +102,12 @@ public class OrderController {
     public String addOrderNotPay(
             @RequestBody GsonAddOrder gsonAddOrder){
         RabbitLog.debug("订单请求 "+gsonAddOrder.getOrderIdList().size()+"条");
+        try {
+            RabbitLog.debug("为了测试效果，等待 3秒钟 ");
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         return JsonUtil.toJson(mOrderService.addOrderButNotPay(gsonAddOrder));
     }
 }
