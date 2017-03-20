@@ -8,16 +8,14 @@
 
 package com.rabbit.controller;
 
+import com.rabbit.bean.GsonAddOrder;
 import com.rabbit.service.IOrderService;
 import com.rabbit.service.impl.OrderService;
 import com.rabbit.util.JsonUtil;
 import com.rabbit.util.RabbitLog;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 /**
  * Created by weina on 2017/3/10.
@@ -96,5 +94,14 @@ public class OrderController {
             @RequestParam(value = "orderId",required = false) int orderId){
         RabbitLog.debug("删除订单 请求 usrId:" + userId);
         return  ""+mOrderService.deleteCart(userId,orderId);
+    }
+
+    //添加订单
+    @RequestMapping(value = "/notPayOrder" ,method = RequestMethod.POST)
+    @ResponseBody
+    public String addOrderNotPay(
+            @RequestBody GsonAddOrder gsonAddOrder){
+        RabbitLog.debug("订单请求 "+gsonAddOrder.getOrderIdList().size()+"条");
+        return JsonUtil.toJson(mOrderService.addOrderButNotPay(gsonAddOrder));
     }
 }

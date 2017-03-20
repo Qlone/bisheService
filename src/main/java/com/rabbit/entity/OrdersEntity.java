@@ -33,6 +33,7 @@ public class OrdersEntity {
     private String mStatus;
     private Integer mAmount;
     private Integer mUserId;
+    private String mReciver;
 
     @Id
     @GeneratedValue(strategy=GenerationType.IDENTITY)
@@ -50,10 +51,10 @@ public class OrdersEntity {
     public Integer getGoodsId() {
         return mGoodsId;
     }
+
     public void setGoodsId(Integer goodsId) {
         mGoodsId = goodsId;
     }
-
 
     @Basic
     @Column(name = "address", nullable = true, length = 200)
@@ -189,5 +190,15 @@ public class OrdersEntity {
 
     public void setUserId(Integer userId) {
         mUserId = userId;
+    }
+
+    @Basic
+    @Column(name = "reciver", nullable = true, length = 100)
+    public String getReciver() {
+        return mReciver;
+    }
+
+    public void setReciver(String reciver) {
+        mReciver = reciver;
     }
 }

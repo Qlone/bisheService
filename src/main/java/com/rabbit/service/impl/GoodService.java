@@ -24,11 +24,13 @@ import java.util.List;
 public class GoodService implements IGoodService {
     final private IListBean<GoodsEntity> goodsListBean;
     private final ILableService mILableService;
+    private final IBaseDao<GoodsEntity> mGoodsEntityIBaseDao;
 
     @Autowired
-    public GoodService(GoodsList goodsListBean, ILableService mILableService) {
+    public GoodService(GoodsList goodsListBean, ILableService mILableService, IBaseDao<GoodsEntity> mGoodsEntityIBaseDao) {
         this.goodsListBean = goodsListBean;
         this.mILableService = mILableService;
+        this.mGoodsEntityIBaseDao = mGoodsEntityIBaseDao;
     }
     public static void main(String[] args){
 //        GoodService goodService = new GoodService(new GoodsList(new BaseDao<GoodsEntity>()));
@@ -103,6 +105,14 @@ public class GoodService implements IGoodService {
         }
     }
 
+    @Override
+    public void updataGoods(GoodsEntity goodsEntity) throws Exception {
+        mGoodsEntityIBaseDao.update(goodsEntity);
+    }
+    @Override
+    public void updataGoods(List<GoodsEntity> goodsEntities) throws Exception {
+        mGoodsEntityIBaseDao.update(goodsEntities);
+    }
 
     private IListBean<GoodsEntity> getGoodsByTitle(String[] title,int page,int lines){
         HqlBean hqlBean = new HqlBean();

@@ -1,0 +1,666 @@
+2017-03-20 09:08 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 09:09 09 : 
+login(UserService.java:37) 登录se 密码 se  true
+2017-03-20 09:09 09 : 
+login(UserController.java:40) se
+2017-03-20 09:09 09 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :2
+2017-03-20 09:09 12 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :2
+2017-03-20 09:09 15 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :2
+2017-03-20 09:09 31 : 
+addAddress(AddressController.java:43) 添加地址  :还飒飒
+2017-03-20 09:09 32 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :2
+2017-03-20 09:35 02 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 09:35 19 : 
+login(UserService.java:37) 登录se 密码 se  true
+2017-03-20 09:35 19 : 
+login(UserController.java:40) se
+2017-03-20 09:35 19 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :2
+2017-03-20 09:35 22 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :2
+2017-03-20 09:36 18 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 09:36 23 : 
+login(UserService.java:37) 登录se 密码 se  true
+2017-03-20 09:36 23 : 
+login(UserController.java:40) se
+2017-03-20 09:36 23 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :2
+2017-03-20 09:36 25 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :2
+2017-03-20 09:36 33 : 
+addAddress(AddressController.java:43) 添加地址  :恩
+2017-03-20 09:36 33 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :2
+2017-03-20 09:38 16 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 09:38 27 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 09:38 27 : 
+login(UserController.java:40) first
+2017-03-20 09:38 27 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 09:38 30 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 09:39 19 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 09:43 34 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 09:43 43 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 09:43 43 : 
+login(UserController.java:40) first
+2017-03-20 09:43 43 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 09:43 46 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 09:43 47 : 
+deleteAddress(AddressController.java:52) 删除地址  :6
+2017-03-20 09:44 00 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 09:44 00 : 
+login(UserController.java:40) first
+2017-03-20 09:44 00 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 09:45 27 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 09:45 31 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 09:45 31 : 
+login(UserController.java:40) first
+2017-03-20 09:45 31 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 09:45 33 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 09:45 34 : 
+deleteAddress(AddressController.java:52) 删除地址  :4
+2017-03-20 09:45 34 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 09:45 37 : 
+deleteAddress(AddressController.java:52) 删除地址  :5
+2017-03-20 09:45 37 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 10:01 49 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 10:01 53 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 10:01 53 : 
+login(UserController.java:40) first
+2017-03-20 10:01 53 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 10:01 56 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 10:24 26 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 10:24 31 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 10:24 31 : 
+login(UserController.java:40) first
+2017-03-20 10:24 31 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 10:24 34 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 10:24 48 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 11:00 26 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:01 18 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:01 22 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 11:01 22 : 
+login(UserController.java:40) first
+2017-03-20 11:01 22 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:01 25 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 11:01 36 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 11:02 26 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:02 33 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:04 17 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-03-20 11:04 17 : 
+login(UserController.java:40) first
+2017-03-20 11:04 18 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 11:04 18 : 
+login(UserController.java:40) first
+2017-03-20 11:04 18 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:06 03 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:08 23 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-03-20 11:08 23 : 
+login(UserController.java:40) first
+2017-03-20 11:08 25 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 11:08 25 : 
+login(UserController.java:40) first
+2017-03-20 11:08 25 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:16 01 : 
+changeOrderCartAmount(OrderController.java:82) 修改订单 请求 usrId:1
+2017-03-20 11:16 01 : 
+changeOrderCartAmount(OrderController.java:84) 修改订单 请求 usrId:1 res: true
+2017-03-20 11:16 05 : 
+changeOrderCartAmount(OrderController.java:82) 修改订单 请求 usrId:1
+2017-03-20 11:16 05 : 
+changeOrderCartAmount(OrderController.java:84) 修改订单 请求 usrId:1 res: true
+2017-03-20 11:29 11 : 
+changeOrderCartAmount(OrderController.java:82) 修改订单 请求 usrId:1
+2017-03-20 11:29 11 : 
+changeOrderCartAmount(OrderController.java:84) 修改订单 请求 usrId:1 res: true
+2017-03-20 11:29 17 : 
+changeOrderCartAmount(OrderController.java:82) 修改订单 请求 usrId:1
+2017-03-20 11:29 17 : 
+changeOrderCartAmount(OrderController.java:84) 修改订单 请求 usrId:1 res: true
+2017-03-20 11:33 34 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:33 53 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 11:33 53 : 
+login(UserController.java:40) first
+2017-03-20 11:33 53 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:34 17 : 
+changeOrderCartAmount(OrderController.java:82) 修改订单 请求 usrId:1
+2017-03-20 11:34 17 : 
+changeOrderCartAmount(OrderController.java:84) 修改订单 请求 usrId:1 res: true
+2017-03-20 11:34 22 : 
+changeOrderCartAmount(OrderController.java:82) 修改订单 请求 usrId:1
+2017-03-20 11:34 22 : 
+changeOrderCartAmount(OrderController.java:84) 修改订单 请求 usrId:1 res: true
+2017-03-20 11:34 30 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 11:35 40 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 11:38 50 : 
+changeOrderCartAmount(OrderController.java:82) 修改订单 请求 usrId:1
+2017-03-20 11:38 50 : 
+changeOrderCartAmount(OrderController.java:84) 修改订单 请求 usrId:1 res: true
+2017-03-20 11:38 53 : 
+changeOrderCartAmount(OrderController.java:82) 修改订单 请求 usrId:1
+2017-03-20 11:38 53 : 
+changeOrderCartAmount(OrderController.java:84) 修改订单 请求 usrId:1 res: true
+2017-03-20 11:39 00 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:39 11 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:39 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:39 52 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 11:39 52 : 
+login(UserController.java:40) first
+2017-03-20 11:39 52 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:39 53 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:43 07 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:43 11 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 11:43 11 : 
+login(UserController.java:40) first
+2017-03-20 11:43 11 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:43 12 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:43 14 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:43 15 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:43 15 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:43 16 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:43 17 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:43 18 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:46 51 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:47 32 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:49 26 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 11:49 30 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 11:49 31 : 
+login(UserController.java:40) first
+2017-03-20 11:49 31 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 11:49 35 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 11:49 55 : 
+addAddress(AddressController.java:43) 添加地址  :没有地址
+2017-03-20 11:49 56 : 
+addAddress(AddressController.java:43) 添加地址  :没有地址
+2017-03-20 11:49 56 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 11:49 56 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 11:50 38 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-03-20 14:30 00 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 14:30 06 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-03-20 14:30 06 : 
+login(UserController.java:40) first
+2017-03-20 14:30 08 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 14:30 08 : 
+login(UserController.java:40) first
+2017-03-20 14:30 08 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:30 10 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 14:30 13 : 
+deleteAddress(AddressController.java:52) 删除地址  :10
+2017-03-20 14:30 14 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 14:36 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 14:37 46 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 14:37 52 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 14:37 52 : 
+login(UserController.java:40) first
+2017-03-20 14:37 52 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:37 55 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 14:37 56 : 
+deleteAddress(AddressController.java:52) 删除地址  :9
+2017-03-20 14:37 56 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 14:38 07 : 
+deleteAddress(AddressController.java:52) 删除地址  :3
+2017-03-20 14:38 07 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 14:38 13 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 14:38 26 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 14:44 58 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 14:45 03 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 14:45 03 : 
+login(UserController.java:40) first
+2017-03-20 14:45 03 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 14 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 15 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 21 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 22 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 23 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 26 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 26 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 27 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 28 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 28 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 29 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 32 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 35 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 35 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 36 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 36 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 36 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 36 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 37 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 37 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 37 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 38 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 38 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 38 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 39 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 39 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 39 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 39 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 40 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 43 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 43 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 44 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 44 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 44 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 44 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 45 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 45 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 45 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 46 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 46 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 46 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 46 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 47 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 47 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 47 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 47 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 48 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 48 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 48 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 48 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 49 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 49 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 49 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 49 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 50 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 50 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 50 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 50 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 51 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 51 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 51 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 51 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 52 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 52 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 52 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 52 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 52 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 53 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 53 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 53 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 53 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 54 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 54 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 55 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 55 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 55 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 55 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 56 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 56 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 58 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 58 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 59 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 59 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 59 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:45 59 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 00 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 00 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 00 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 00 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 01 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 01 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 01 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 01 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 02 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 06 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 06 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 06 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 07 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 08 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 10 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 10 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 10 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 10 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 11 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 11 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 11 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 11 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 12 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 12 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 12 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 13 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 13 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 13 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 13 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 14 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 14 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 14 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 15 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 15 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 15 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 15 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 16 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 16 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 16 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 18 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 19 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 24 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 24 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 25 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 25 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 25 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 26 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 27 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 27 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 27 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 28 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 28 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 28 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 28 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 29 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 29 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 30 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 30 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 30 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 30 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 31 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 31 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 31 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 31 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 32 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 32 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 32 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 33 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 34 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 34 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 34 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 35 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 35 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 35 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 35 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 36 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 36 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 36 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 36 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 37 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 37 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 37 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 38 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 38 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 41 : 
+getOrderToCart(OrderController.java:66) 请求 订单列表cart   userId :1
+2017-03-20 14:46 54 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 14:47 04 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-03-20 14:51 03 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-03-20 14:51 10 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-03-20 14:51 10 : 
+login(UserController.java:40) first
+2017-03-20 14:51 12 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-03-20 14:51 12 : 
+login(UserController.java:40) first
+2017-03-20 14:51 13 : 
+newOrder(OrderController.java:40) 兔子登记 接收新的订单 
+2017-03-20 14:51 13 : 
+newOrder(OrderController.java:42) 为了测试效果，等待 3秒钟 
+2017-03-20 14:51 16 : 
+newOrder(OrderController.java:47) 是否存在 :  false
+2017-03-20 14:51 16 : 
+addOrderToCart(OrderService.java:71) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：2

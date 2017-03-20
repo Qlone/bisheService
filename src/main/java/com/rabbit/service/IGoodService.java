@@ -11,6 +11,8 @@ package com.rabbit.service;
 import com.rabbit.entity.GoodsEntity;
 import com.rabbit.service.list.GoodsList;
 
+import java.util.List;
+
 /**
  * Created by weina on 2017/3/2.
  */
@@ -71,4 +73,8 @@ public interface IGoodService {
     IListBean<GoodsEntity> getStatusList(String type, int page, int lines);
 
     boolean addGoods(GoodsEntity goodsEntity);
+
+    void updataGoods(GoodsEntity goodsEntity) throws Exception;
+
+    void updataGoods(List<GoodsEntity> goodsEntities) throws Exception;
 }

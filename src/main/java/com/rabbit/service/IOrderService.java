@@ -8,6 +8,8 @@
 
 package com.rabbit.service;
 
+import com.rabbit.bean.GsonAddOrder;
+import com.rabbit.bean.GsonResAddOrder;
 import com.rabbit.entity.OrdersEntity;
 
 /**
@@ -52,6 +54,13 @@ public interface IOrderService {
     boolean updataOrderCartAmount(int userId, int orderId, int amount);
 
     boolean deleteCart(int userId, int orderId);
+
+
+    //添加订单
+    GsonResAddOrder addOrderButNotPay(GsonAddOrder gsonAddOrder);
+
+    //订单完成支付
+    boolean addOrderAndPay(GsonAddOrder gsonAddOrder);
 
     IListBean<OrdersEntity> getOrderToCart(int userId, int page, int lines);
 
