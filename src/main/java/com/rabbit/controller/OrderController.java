@@ -66,6 +66,22 @@ public class OrderController {
             case IOrderService.ORDER_STATUS_CART: {
                 return JsonUtil.toJson(mOrderService.getOrderToCart(userId, page, lines).getList());
             }
+            case IOrderService.ORDER_STATUS_NOPAY:{//未支付
+                return JsonUtil.toJson(mOrderService.getOrderNoPay(userId,page,lines).getList());
+            }
+            case "":{//所有
+                return JsonUtil.toJson(mOrderService.getOrderAll(userId,page,lines).getList());
+            }
+            case IOrderService.ORDER_STATUS_PAID:{//待发货
+                return JsonUtil.toJson(mOrderService.getOrderNotSend(userId,page,lines).getList());
+            }
+            case IOrderService.ORDER_STATUS_ONWAY:{//待收货
+                return JsonUtil.toJson(mOrderService.getOrderOnWay(userId,page,lines).getList());
+            }
+            case IOrderService.ORDER_STATUS_GET:{//收货，待评价
+                return JsonUtil.toJson(mOrderService.getOrderGet(userId,page,lines).getList());
+            }
+
             default:break;
         }
         return null;
@@ -110,4 +126,57 @@ public class OrderController {
         }
         return JsonUtil.toJson(mOrderService.addOrderButNotPay(gsonAddOrder));
     }
+    //删除订单
+    @RequestMapping(value = "/delete" ,method = RequestMethod.GET)
+    @ResponseBody
+    public String deleteOrder(
+            @RequestParam(value = "userId",required = false) int userId,
+            @RequestParam(value = "orderId",required = false) int orderId){
+        RabbitLog.debug("删除订单 请求 usrId:" + userId);
+        return  ""+mOrderService.deleteNotInCart(userId,orderId);
+    }
+
+    @RequestMapping(value = "/pay" ,method = RequestMethod.POST)
+    @ResponseBody
+    public String payOrder(
+            @RequestBody GsonAddOrder gsonAddOrder){
+        try {
+            RabbitLog.debug("为了测试效果，等待 3秒钟 ");
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        RabbitLog.debug(" 支付");
+        return  ""+mOrderService.addOrderAndPay(gsonAddOrder);
+    }
+
+    @RequestMapping(value = "/addNoCart",method = RequestMethod.GET)
+    @ResponseBody
+    public String newOrderNoCart(
+            @RequestParam(value = "userId",required = false) int userId,
+            @RequestParam(value = "goodsId",required = false) int goodsId,
+            @RequestParam(value = "addressId",required = false) int addressId,
+            @RequestParam(value = "amount",required = false) int amount) {
+        RabbitLog.debug("兔子登记 接收新的 直接购买 订单 ");
+        try {
+            RabbitLog.debug("为了测试效果，等待 3秒钟 ");
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return ""+mOrderService.buyNoCart(userId,goodsId,addressId,amount);
+    }
+
+    /**
+     *获取到 订单
+     */
+    @RequestMapping(value = "/accept",method = RequestMethod.GET)
+    @ResponseBody
+    public String OrderGot(
+            @RequestParam(value = "userId",required = false) int userId,
+            @RequestParam(value = "orderId",required = false) int orderId) {
+        RabbitLog.debug("获得商品: "+userId);
+        return ""+mOrderService.OrderGot(userId,orderId);
+    }
+
 }

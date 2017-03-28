@@ -100,7 +100,7 @@ listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
 listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
 2017-03-13 11:30 24 : 
 newOrder(OrderController.java:36) 兔子登记 接收新的订单
-2017-03-13 11:30 25 : 
+                      2017-03-13 11:30 25 :
 addOrderToCart(OrderService.java:60) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：1
 2017-03-13 11:31 22 : 
 listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8

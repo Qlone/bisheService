@@ -41,9 +41,10 @@ public class GoodService implements IGoodService {
     @Override
     public IListBean<GoodsEntity> getAllList(int page, int lines) {
         HqlBean hqlBean = new HqlBean();
-        hqlBean.setInnerHql(" and goodsDelete = ? ");
+        hqlBean.setInnerHql(" and goodsDelete = ? and stock > ?");
         hqlBean.setRulesHql(" order by goodsId desc ");
         hqlBean.addObject(GOODS_DELETE_FALSE);
+        hqlBean.addObject(0);
         goodsListBean.init(hqlBean,page,lines);
         return goodsListBean;
     }
@@ -82,10 +83,11 @@ public class GoodService implements IGoodService {
     @Override
     public IListBean<GoodsEntity> getStatusList(String type, int page, int lines){
         HqlBean hqlBean = new HqlBean();
-        hqlBean.setInnerHql(" and status = ? and goodsDelete = ?");
+        hqlBean.setInnerHql(" and status = ? and goodsDelete = ? and stock > ?");
         hqlBean.setRulesHql(" order by goodsId desc ");
         hqlBean.addObject(type);
         hqlBean.addObject(GOODS_DELETE_FALSE);
+        hqlBean.addObject(0);
         goodsListBean.init(hqlBean,page,lines);
         return goodsListBean;
     }
@@ -121,8 +123,9 @@ public class GoodService implements IGoodService {
             buff.append( " and title like ? ");
             hqlBean.addObject('%'+list+'%');
         }
-        buff.append( " and goodsDelete = ? " );
+        buff.append( " and goodsDelete = ? and stock > ?" );
         hqlBean.addObject(GOODS_DELETE_FALSE);
+        hqlBean.addObject(0);
         hqlBean.setInnerHql(buff.toString());
         hqlBean.setRulesHql(" order by goodsId desc ");
         goodsListBean.init(hqlBean,page,lines);

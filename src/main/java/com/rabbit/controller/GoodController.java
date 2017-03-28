@@ -55,5 +55,11 @@ public class GoodController {
         RabbitLog.debug(" 搜索商品  " + title +"列表 page " + page +" lines" + lines);
         return JsonUtil.toJson(mGoodService.getTitleList(title,page,lines).getList());
     }
-
+    @RequestMapping(value = "/getItem",method = RequestMethod.GET)
+    @ResponseBody
+    public String getGoodDetails(
+            @RequestParam(value = "goodsId", required=false) int goodsId){
+         RabbitLog.debug("获取指定商品  :  "+goodsId);
+         return JsonUtil.toJson(mGoodService.getGoodsItem(goodsId).getList());
+    }
 }

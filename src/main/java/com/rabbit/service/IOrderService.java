@@ -64,5 +64,23 @@ public interface IOrderService {
 
     IListBean<OrdersEntity> getOrderToCart(int userId, int page, int lines);
 
+    IListBean<OrdersEntity> getOrderNoPay(int userId, int page, int lines);
+
+    IListBean<OrdersEntity> getOrderNotSend(int userId, int page, int lines);
+
+    IListBean<OrdersEntity> getOrderOnWay(int userId, int page, int lines);
+
+    IListBean<OrdersEntity> getOrderGet(int userId, int page, int lines);
+
+    IListBean<OrdersEntity> getOrderAll(int userId, int page, int lines);
+
+    boolean deleteNotInCart(int userId, int orderId);
+
+    boolean OrderGot(int userId, int orderId);
+
+    boolean OrderComment(int userId, int orderId);
+
     boolean checkOrderIsExists(int userId, int goodsId);
+
+    int buyNoCart(int userId, int goodsid, int addressId, int amount);
 }

@@ -25,6 +25,7 @@ public class UserEntity {
     private String userType;
     private String userStatus;
     private Double balance;
+    private Integer mPayPassword;
 
     @Id
     @Column(name = "userId", nullable = false)
@@ -111,5 +112,15 @@ public class UserEntity {
 
     public void setBalance(Double balance) {
         this.balance = balance;
+    }
+
+    @Basic
+    @Column(name = "payPassword", nullable = true)
+    public Integer getPayPassword() {
+        return mPayPassword;
+    }
+
+    public void setPayPassword(Integer payPassword) {
+        mPayPassword = payPassword;
     }
 }

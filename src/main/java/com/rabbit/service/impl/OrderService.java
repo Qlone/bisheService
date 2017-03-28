@@ -161,30 +161,37 @@ public class OrderService implements IOrderService {
 
                                 orderName.add(ordersEntity.getTitle());
                                 msg.add("success");
+                                RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                             }catch (Exception e){
                                 orderName.add(ordersEntity.getTitle());
                                 msg.add("请稍后重试");
+                                RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                             }
 
                         }else {
                             orderName.add(ordersEntity.getTitle());
                             msg.add(" 商品库存不够 ");
+                            RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                         }
                     }else {
                         orderName.add(ordersEntity.getTitle());
                         msg.add(" 地址错误 ");
+                        RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                     }
 
                 }else {
                     orderName.add(ordersEntity.getTitle());
                     msg.add(" 商品不存在 ");
+                    RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                 }
             }else {
                 orderName.add(""+orderId);
                 msg.add(" 不存在的订单");
+                RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
             }
         }
-
+        gsonResAddOrder.setMsg(msg);
+        gsonResAddOrder.setOrderName(orderName);
         return gsonResAddOrder;
     }
 
@@ -195,7 +202,7 @@ public class OrderService implements IOrderService {
         List<GoodsEntity> goodsEntities = new ArrayList<>();
         for(int orderId:gsonAddOrder.getOrderIdList()){
             OrdersEntity ordersEntity = mOrdersEntityIBaseDao.get(OrdersEntity.class,orderId);
-            if(null!=ordersEntity){
+            if(null!=ordersEntity&&ordersEntity.getStatus().equals(IOrderService.ORDER_STATUS_NOPAY)){
                 GoodsEntity goodsEntity = mIGoodService.getGoodsItem(ordersEntity.getGoodsId()).getList().get(0);
                 if(null != goodsEntity){
                     goodsEntity.setViews(goodsEntity.getViews()+1);//付款人数+1
@@ -212,7 +219,7 @@ public class OrderService implements IOrderService {
             }
         }
         try{//保存
-            mOrdersEntityIBaseDao.save(saveList);
+            mOrdersEntityIBaseDao.update(saveList);
             mIGoodService.updataGoods(goodsEntities);
             return true;
         }catch (Exception e){
@@ -226,16 +233,133 @@ public class OrderService implements IOrderService {
         return getOrderByStatus(userId,IOrderService.ORDER_STATUS_CART,page,lines);
     }
 
+    /**
+     *获取 所有订单 ，未支付订单，待发货，待收货，待评价 ，5种 订单
+     */
+    @Override
+    public IListBean<OrdersEntity> getOrderNoPay(int userId, int page, int lines){
+        return getOrderByStatus(userId,IOrderService.ORDER_STATUS_NOPAY,page,lines);
+    }
+    @Override
+    public IListBean<OrdersEntity> getOrderNotSend(int userId, int page, int lines){
+        return getOrderByStatus(userId,IOrderService.ORDER_STATUS_PAID,page,lines);
+    }
+    @Override
+    public IListBean<OrdersEntity> getOrderOnWay(int userId, int page, int lines){
+        return getOrderByStatus(userId,IOrderService.ORDER_STATUS_ONWAY,page,lines);
+    }
+    @Override
+    public  IListBean<OrdersEntity> getOrderGet(int userId, int page, int lines){
+        return getOrderByStatus(userId,IOrderService.ORDER_STATUS_GET,page,lines);
+    }
+    @Override
+    public IListBean<OrdersEntity> getOrderAll(int userId, int page, int lines){
+        return getOrderByStatus(userId,"",page,lines);
+    }
+
+
     private IListBean<OrdersEntity> getOrderByStatus(int userId,String status,int page,int lines){
         HqlBean hqlBean = new HqlBean();
-        hqlBean.setInnerHql("  and userId = ? and status = ? ");
-        hqlBean.setRulesHql(" order by createTime desc ");
+        StringBuffer buffer =  new StringBuffer();
+
+        buffer.append("  and userId = ? ");
         hqlBean.addObject(userId);
-        hqlBean.addObject(status);
+        if(null!= status && !"".equals(status)){
+            buffer.append(" and status = ?  ");
+            hqlBean.addObject(status);
+        }else {//查看所有
+            buffer.append(" and  status != ? and status != ? ");
+            hqlBean.addObject(IOrderService.ORDER_STATUS_DEDLETE);
+            hqlBean.addObject(IOrderService.ORDER_STATUS_CART);
+        }
+        hqlBean.setInnerHql(buffer.toString());
+        if(IOrderService.ORDER_STATUS_NOPAY.equals(status)||IOrderService.ORDER_STATUS_CART.equals(status)) {
+            hqlBean.setRulesHql(" order by createTime desc ");
+        }else {
+            hqlBean.setRulesHql(" order by paidTime desc ");
+        }
         //TODO:  完成  商品信息及时改动
         mOrdersEntityIListBean.init(hqlBean,page,lines);
         return mOrdersEntityIListBean;
     }
+
+    /**
+     * 删除 非购物车上的订单
+     * @param userId
+     * @param orderId
+     * @return
+     */
+    @Override
+    public boolean deleteNotInCart(int userId,int orderId){
+        OrdersEntity ordersEntity = mOrdersEntityIBaseDao.get(OrdersEntity.class,orderId);
+        if(null != ordersEntity && ordersEntity.getUserId() == userId){
+            if(ordersEntity.getStatus().equals(IOrderService.ORDER_STATUS_NOPAY)){//如果未支付还要恢复库存
+                try {
+                    GoodsEntity goodsEntity = mIGoodService.getGoodsItem(ordersEntity.getGoodsId()).getList().get(0);
+                    if(null != goodsEntity) {
+                        goodsEntity.setStock(goodsEntity.getStock() + ordersEntity.getAmount());//库存恢复
+                        mIGoodService.updataGoods(goodsEntity);
+                        RabbitLog.debug("id : "+goodsEntity.getGoodsId() +"   "+goodsEntity.getTitle()+"库存恢复");
+                    }
+                }catch (Exception e){
+                    RabbitLog.debug("库存恢复失败");
+                }
+            }
+            ordersEntity.setStatus(IOrderService.ORDER_STATUS_DEDLETE);
+            try {
+                mOrdersEntityIBaseDao.update(ordersEntity);
+                RabbitLog.debug("删除订单: id:  " + orderId+"  title:  "+ordersEntity.getTitle());
+                return true;
+            } catch (Exception e) {
+                e.printStackTrace();
+                return false;
+            }
+        }
+        return false;
+    }
+
+    @Override
+    public boolean OrderGot(int userId, int orderId){
+        OrdersEntity ordersEntity = mOrdersEntityIBaseDao.get(OrdersEntity.class,orderId);
+        if(null != ordersEntity && ordersEntity.getUserId() == userId) {
+            if(ordersEntity.getStatus().equals(IOrderService.ORDER_STATUS_ONWAY)){
+                ordersEntity.setStatus(IOrderService.ORDER_STATUS_GET);
+                try {
+                    mOrdersEntityIBaseDao.update(ordersEntity);
+                    return true;
+                } catch (Exception e) {
+                    RabbitLog.debug("收取货物失败: "+userId+"   orderId:   "+orderId);
+                    return false;
+                }
+            }
+        }
+        return false;
+    }
+
+    /**
+     * 完成评论
+     * @param userId
+     * @param orderId
+     * @return
+     */
+    @Override
+    public boolean OrderComment(int userId,int orderId){
+        OrdersEntity ordersEntity = mOrdersEntityIBaseDao.get(OrdersEntity.class,orderId);
+        if(null != ordersEntity && ordersEntity.getUserId() == userId) {
+            if(ordersEntity.getStatus().equals(IOrderService.ORDER_STATUS_GET)){
+                ordersEntity.setStatus(IOrderService.ORDER_STATUS_COMMENT);
+                try {
+                    mOrdersEntityIBaseDao.update(ordersEntity);
+                    return true;
+                } catch (Exception e) {
+                    RabbitLog.debug("评论失败: "+userId+"   orderId:   "+orderId);
+                    return false;
+                }
+            }
+        }
+        return false;
+    }
+
 
 
     //检查是否已经存在购物车上了
@@ -248,5 +372,25 @@ public class OrderService implements IOrderService {
         hqlBean.addObject(IOrderService.ORDER_STATUS_CART);
         mOrdersEntityIListBean.init(hqlBean,1,Integer.MAX_VALUE);
         return (mOrdersEntityIListBean.getNumer() != 0);
+    }
+    @Override
+    public int buyNoCart(int userId,int goodsid, int addressId,int amount){
+        if(addOrderToCart(userId,addressId,goodsid,amount)){
+            IListBean<OrdersEntity> res = getOrderToCart(userId,1,Integer.MAX_VALUE);
+            OrdersEntity ordersEntity = res.getList().get(0);//获取刚添加的商品
+            GsonAddOrder gsonAddOrder = new GsonAddOrder();
+            gsonAddOrder.setAddressId(addressId);
+            ArrayList<Integer> orderList = new ArrayList<>();
+            orderList.add(ordersEntity.getOrdersId());
+            gsonAddOrder.setOrderIdList(orderList);//添加订单id
+            /**
+             *
+             */
+            addOrderButNotPay(gsonAddOrder);//添加到订单里面
+
+            return ordersEntity.getOrdersId();
+        }else {
+            return -1;
+        }
     }
 }
