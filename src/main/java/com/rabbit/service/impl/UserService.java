@@ -64,5 +64,9 @@ public class UserService implements IUserService {
             return null;
         }
     }
+    @Override
+    public UserEntity getUserById(int userId){
+        return mUserDao.get(UserEntity.class,userId);
+    }
 
 }

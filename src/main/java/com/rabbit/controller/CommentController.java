@@ -10,13 +10,11 @@ package com.rabbit.controller;
 
 import com.rabbit.entity.CommentEntity;
 import com.rabbit.service.impl.CommentService;
+import com.rabbit.util.JsonUtil;
 import com.rabbit.util.RabbitLog;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 /**
  * Created by weina on 2017/3/28.
@@ -43,4 +41,33 @@ public class CommentController {
         }
     }
 
+    /**
+     * 获取分数
+     */
+    @RequestMapping(value = "/getScore",method = RequestMethod.GET)
+    @ResponseBody
+    public String getScore(
+            @RequestParam(value = "goodsId",required = false)int goodsId){
+        double rsc = mCommentService.getCommentsScore(goodsId);
+        RabbitLog.debug(" 获取分数 "+rsc);
+        return ""+rsc;
+    }
+
+    @RequestMapping(value = "/commentCount",method = RequestMethod.GET)
+    @ResponseBody
+    public String getCommentCount(
+            @RequestParam(value = "goodsId",required = false)int goodsId){
+        long rsc  = mCommentService.getCommentsCount(goodsId);
+        RabbitLog.debug(" 获取评论数量 "+rsc);
+        return ""+rsc;
+    }
+    @RequestMapping(value = "/list",method = RequestMethod.GET)
+    @ResponseBody
+    public String getCommentList(
+            @RequestParam(value = "goodsId",required = false)int goodsId,
+            @RequestParam(value = "page",required = false)int page,
+            @RequestParam(value = "lines",required = false)int lines){
+        RabbitLog.debug(" 获取评论列表 ");
+        return JsonUtil.toJson(mCommentService.getComments(goodsId, page, lines).getList());
+    }
 }

@@ -374,6 +374,18 @@ public class BaseDao<T> implements IBaseDao<T> {
         session.close();
         return (Long) t;
     }
+    public Double countAvg(String hql, Object[] param) {
+        Session session = this.getCurrentSession();
+        Query q = session.createQuery(hql);
+        if (param != null && param.length > 0) {
+            for (int i = 0; i < param.length; i++) {
+                q.setParameter(i, param[i]);
+            }
+        }
+        T t = (T) q.uniqueResult();
+        session.close();
+        return (Double) t;
+    }
 
     public Long count(String hql, List<Object> param) {
         Session session = this.getCurrentSession();

@@ -53,6 +53,8 @@ public interface IBaseDao<T> {
 
     Long count(String hql, List<Object> param);
 
+    Double countAvg(String hql, Object[] param);
+
     Integer executeHql(String hql);//此功能尚未完成
 
     Integer executeHql(String hql, Object[] param);//此功能尚未完成

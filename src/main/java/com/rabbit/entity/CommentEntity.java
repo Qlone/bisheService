@@ -28,6 +28,7 @@ public class CommentEntity {
     private Date mCommentData;
     private String mContext;
     private Integer mStart;
+    private String mUserName;
 
     @Id
     @Column(name = "commentId", nullable = false)
@@ -128,5 +129,15 @@ public class CommentEntity {
         result = 31 * result + (mContext != null ? mContext.hashCode() : 0);
         result = 31 * result + (mStart != null ? mStart.hashCode() : 0);
         return result;
+    }
+
+    @Basic
+    @Column(name = "userName", nullable = true, length = 255)
+    public String getUserName() {
+        return mUserName;
+    }
+
+    public void setUserName(String userName) {
+        mUserName = userName;
     }
 }

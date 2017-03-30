@@ -28,4 +28,6 @@ public interface IUserService {
      * 功能：登出
      */
     void loginOut();
+
+    UserEntity getUserById(int userId);
 }
