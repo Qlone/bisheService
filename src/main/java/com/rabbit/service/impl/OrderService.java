@@ -164,29 +164,29 @@ public class OrderService implements IOrderService {
                                 RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                             }catch (Exception e){
                                 orderName.add(ordersEntity.getTitle());
-                                msg.add("请稍后重试");
+                                msg.add("handOn");//请稍后重试
                                 RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                             }
 
                         }else {
                             orderName.add(ordersEntity.getTitle());
-                            msg.add(" 商品库存不够 ");
+                            msg.add("lack");//库存不足
                             RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                         }
                     }else {
                         orderName.add(ordersEntity.getTitle());
-                        msg.add(" 地址错误 ");
+                        msg.add("errorAddress");//地址错误
                         RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                     }
 
                 }else {
                     orderName.add(ordersEntity.getTitle());
-                    msg.add(" 商品不存在 ");
+                    msg.add("noGoods");//商品不存在
                     RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                 }
             }else {
                 orderName.add(""+orderId);
-                msg.add(" 不存在的订单");
+                msg.add(" errorOrder");//订单不存在
                 RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
             }
         }
