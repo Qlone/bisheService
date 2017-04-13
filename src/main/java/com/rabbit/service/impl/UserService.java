@@ -68,5 +68,37 @@ public class UserService implements IUserService {
     public UserEntity getUserById(int userId){
         return mUserDao.get(UserEntity.class,userId);
     }
+    @Override
+    public UserEntity changeUserPayPassword(int userId, int oldPsw, int newPsw){
+        UserEntity userEntity = getUserById(userId);
+        if(null != userEntity && userEntity.getPayPassword() == oldPsw){
+            userEntity.setPayPassword(newPsw);
+            try {
+                mUserDao.update(userEntity);
+                return userEntity;
+            } catch (Exception e) {
+                e.printStackTrace();
+                return null;
+            }
+        }else {
+            return null;
+        }
+    }
+    @Override
+    public UserEntity changeUserPassword(int userId,String oldPsw,String newPsw){
+        UserEntity userEntity = getUserById(userId);
+        if(null != userEntity && userEntity.getPassword().equals(oldPsw)){
+            userEntity.setPassword(newPsw);
+            try {
+                mUserDao.update(userEntity);
+                return userEntity;
+            } catch (Exception e) {
+                e.printStackTrace();
+                return null;
+            }
+        }else {
+            return null;
+        }
+    }
 
 }

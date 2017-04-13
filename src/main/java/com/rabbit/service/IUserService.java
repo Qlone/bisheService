@@ -30,4 +30,8 @@ public interface IUserService {
     void loginOut();
 
     UserEntity getUserById(int userId);
+
+    UserEntity changeUserPayPassword(int userId, int oldPsw, int newPsw);
+
+    UserEntity changeUserPassword(int userId, String oldPsw, String newPsw);
 }

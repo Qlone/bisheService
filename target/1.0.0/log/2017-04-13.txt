@@ -1,0 +1,2222 @@
+2017-04-13 14:08 31 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:08 43 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:08 43 : 
+login(UserController.java:40) first
+2017-04-13 14:08 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 14:08 53 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-04-13 14:08 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 14:08 59 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-04-13 14:09 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:09 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:09 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:09 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:09 11 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:09 15 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:09 15 : 
+login(UserController.java:40) first
+2017-04-13 14:09 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:09 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:09 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:09 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:09 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:09 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:09 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:09 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:09 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:09 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:09 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:09 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:09 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:09 31 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:11 59 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:18 42 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:20 37 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:20 59 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:20 59 : 
+login(UserController.java:40) first
+2017-04-13 14:21 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 14:21 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:21 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:21 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:21 18 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:21 18 : 
+login(UserController.java:40) first
+2017-04-13 14:21 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:21 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:21 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:21 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:21 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:21 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:21 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:21 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:21 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:21 50 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:21 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:21 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:21 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:21 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:21 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:22 02 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:22 02 : 
+login(UserController.java:40) first
+2017-04-13 14:22 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:22 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:22 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:22 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:22 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:22 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:22 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:22 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:22 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:22 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:22 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:22 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:22 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:22 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:22 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:22 23 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:23 30 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:23 30 : 
+login(UserController.java:40) first
+2017-04-13 14:23 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:23 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:23 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:23 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:23 49 : 
+OrderGot(OrderController.java:178) 获得商品: 1
+2017-04-13 14:23 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:23 50 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:23 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:23 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:23 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:23 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:23 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:24 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:24 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:24 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:24 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:24 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:24 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:24 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:24 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:24 11 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:29 07 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:29 12 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:29 12 : 
+login(UserController.java:40) first
+2017-04-13 14:29 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:29 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:29 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:29 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:29 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:29 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:29 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:29 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:29 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:29 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:29 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:29 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:29 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:29 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:29 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:29 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:29 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:29 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:29 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:29 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:29 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:29 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:29 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:29 34 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:29 34 : 
+login(UserController.java:40) first
+2017-04-13 14:29 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:29 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:29 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:29 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:29 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:29 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:29 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:29 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:29 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:29 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:29 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:29 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:29 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:29 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:30 01 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:30 05 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:30 05 : 
+login(UserController.java:40) first
+2017-04-13 14:30 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:30 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:30 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:30 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:30 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:30 11 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:30 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:30 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:30 19 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:30 19 : 
+login(UserController.java:40) first
+2017-04-13 14:31 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:32 01 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:32 01 : 
+login(UserController.java:40) first
+2017-04-13 14:32 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:32 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:32 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:32 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:32 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:32 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:32 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:32 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:32 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:33 00 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:33 00 : 
+login(UserController.java:40) first
+2017-04-13 14:33 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:33 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:33 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:33 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:33 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:33 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:33 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:33 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:33 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:33 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:33 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:33 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:33 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:33 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:33 22 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:33 22 : 
+login(UserController.java:40) first
+2017-04-13 14:33 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:33 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:33 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:33 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 46 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 50 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 50 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:33 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:33 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:34 26 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:34 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:35 01 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:35 01 : 
+login(UserController.java:40) first
+2017-04-13 14:35 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 14:35 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:35 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:35 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:35 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:35 17 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:36 41 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:36 48 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:36 48 : 
+login(UserController.java:40) first
+2017-04-13 14:36 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:36 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:36 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:36 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:36 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 11 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:37 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:37 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:37 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:37 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:37 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:37 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:37 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:37 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:37 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 46 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:37 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:37 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 50 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:37 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:37 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:37 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:37 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:37 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:37 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:37 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:38 13 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:38 13 : 
+login(UserController.java:40) first
+2017-04-13 14:38 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:38 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:38 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:38 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:38 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 31 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:38 31 : 
+login(UserController.java:40) first
+2017-04-13 14:38 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:38 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:38 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:38 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:38 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:38 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:38 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:38 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:38 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:38 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:38 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:38 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:38 50 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:38 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:38 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:38 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:38 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:38 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:38 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:38 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:38 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:38 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:39 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 11 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:39 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:39 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:39 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:39 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:39 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 46 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 46 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 50 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:39 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:39 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:39 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:39 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:39 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:45 37 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:45 41 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:45 41 : 
+login(UserController.java:40) first
+2017-04-13 14:45 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:45 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:45 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:45 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:45 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:45 46 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:45 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:45 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:45 49 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:45 50 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:45 50 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:45 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:45 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:45 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:45 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:45 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:45 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:45 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:45 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:45 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:45 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:45 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:46 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:46 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:46 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 11 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:46 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:46 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:46 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:46 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:53 44 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:53 58 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 14:54 12 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-04-13 14:54 12 : 
+login(UserController.java:40) first
+2017-04-13 14:54 14 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:54 14 : 
+login(UserController.java:40) first
+2017-04-13 14:54 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:54 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:54 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:54 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:54 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 51 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:54 51 : 
+login(UserController.java:40) first
+2017-04-13 14:54 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:54 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:54 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:54 54 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 14:54 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:54 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:54 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:55 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:55 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:55 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:55 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:55 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 29 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-04-13 14:55 29 : 
+login(UserController.java:40) first
+2017-04-13 14:55 30 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 14:55 30 : 
+login(UserController.java:40) first
+2017-04-13 14:55 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:55 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:55 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:55 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 14:55 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 14:55 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:55 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 14:55 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 14:59 56 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 15:00 02 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 15:00 02 : 
+login(UserController.java:40) first
+2017-04-13 15:00 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:00 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:00 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 11 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 11 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 11 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 11 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:00 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:00 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 23 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-04-13 15:00 23 : 
+login(UserController.java:40) first
+2017-04-13 15:00 25 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 15:00 25 : 
+login(UserController.java:40) first
+2017-04-13 15:00 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:00 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:00 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:00 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:00 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:00 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:00 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:00 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:00 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:00 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:00 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:00 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:00 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:00 49 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-04-13 15:00 49 : 
+login(UserController.java:40) first
+2017-04-13 15:01 26 : 
+login(UserService.java:37) 登录first 密码 asf  false
+2017-04-13 15:01 26 : 
+login(UserController.java:40) first
+2017-04-13 15:01 29 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 15:01 29 : 
+login(UserController.java:40) first
+2017-04-13 15:01 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:01 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:01 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:01 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:01 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:01 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:01 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:01 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:01 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:01 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:01 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:01 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:01 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:01 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:01 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:01 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:01 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:01 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:01 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:01 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:01 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:03 18 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 15:03 22 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 15:03 22 : 
+login(UserController.java:40) first
+2017-04-13 15:03 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 15:03 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 15:03 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 15:03 32 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-13 15:03 32 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-04-13 15:03 33 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  y
+2017-04-13 15:03 33 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  yv
+2017-04-13 15:03 35 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-13 15:03 35 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-04-13 15:03 36 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  g
+2017-04-13 15:03 37 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  gv
+2017-04-13 15:03 38 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  gv列表 page 1 lines8
+2017-04-13 15:03 38 : 
+addLable(LableController.java:50) 确认搜索 text :  gv
+2017-04-13 15:03 38 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：gv  成功
+2017-04-13 15:03 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:03 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:03 46 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:03 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:03 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:03 51 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 15:03 52 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 15:03 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 15:03 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 15:03 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 15:03 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 15:05 17 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-04-13 16:20 46 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:20 53 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 16:20 53 : 
+login(UserController.java:39) first
+2017-04-13 16:32 39 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:32 43 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 16:32 43 : 
+login(UserController.java:39) first
+2017-04-13 16:35 58 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:36 03 : 
+login(UserService.java:37) 登录first 密码 asd  true
+2017-04-13 16:36 03 : 
+login(UserController.java:39) first
+2017-04-13 16:36 20 : 
+changePsw(UserController.java:58) 修改登录密码
+2017-04-13 16:38 39 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:38 44 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:38 44 : 
+login(UserController.java:39) first
+2017-04-13 16:39 26 : 
+changePayPsw(UserController.java:49) 修改支付密码
+2017-04-13 16:43 25 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:43 29 : 
+login(UserService.java:37) 登录first 密码 asd  false
+2017-04-13 16:43 29 : 
+login(UserController.java:39) first
+2017-04-13 16:43 31 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:43 31 : 
+login(UserController.java:39) first
+2017-04-13 16:43 48 : 
+changePayPsw(UserController.java:49) 修改支付密码
+2017-04-13 16:44 01 : 
+changePayPsw(UserController.java:49) 修改支付密码
+2017-04-13 16:45 09 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:45 13 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:45 13 : 
+login(UserController.java:39) first
+2017-04-13 16:45 24 : 
+changePayPsw(UserController.java:49) 修改支付密码
+2017-04-13 16:47 54 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:47 58 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:47 58 : 
+login(UserController.java:39) first
+2017-04-13 16:48 09 : 
+changePayPsw(UserController.java:49) 修改支付密码
+2017-04-13 16:48 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:49 01 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:49 01 : 
+login(UserController.java:39) first
+2017-04-13 16:49 15 : 
+changePayPsw(UserController.java:49) 修改支付密码
+2017-04-13 16:51 16 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:51 21 : 
+login(UserService.java:37) 登录first 密码 asd  false
+2017-04-13 16:51 21 : 
+login(UserController.java:39) first
+2017-04-13 16:51 23 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:51 23 : 
+login(UserController.java:39) first
+2017-04-13 16:51 31 : 
+changePayPsw(UserController.java:49) 修改支付密码
+2017-04-13 16:52 33 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:52 37 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:52 37 : 
+login(UserController.java:39) first
+2017-04-13 16:52 57 : 
+changePayPsw(UserController.java:49) 修改支付密码
+2017-04-13 16:53 56 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:54 00 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:54 00 : 
+login(UserController.java:39) first
+2017-04-13 16:54 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 16:54 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 16:54 05 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 16:54 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 16:54 14 : 
+payOrder(OrderController.java:144) 为了测试效果，等待 3秒钟 
+2017-04-13 16:54 17 : 
+payOrder(OrderController.java:149)  支付
+2017-04-13 16:54 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 16:54 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 16:54 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 16:54 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 16:54 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 16:54 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 16:54 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 16:54 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 16:54 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 16:54 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 16:54 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 16:54 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 16:54 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 16:54 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 16:54 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 16:54 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 16:54 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 16:54 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 16:54 38 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 16:54 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 16:54 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 16:54 45 : 
+login(UserService.java:37) 登录first 密码 asd  false
+2017-04-13 16:54 45 : 
+login(UserController.java:39) first
+2017-04-13 16:54 47 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:54 47 : 
+login(UserController.java:39) first
+2017-04-13 16:56 45 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-13 16:56 45 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-04-13 16:56 47 : 
+getGoodDetails(GoodController.java:62) 获取指定商品  :  15
+2017-04-13 16:56 47 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-04-13 16:56 47 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-13 16:56 49 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-04-13 16:57 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 16:57 18 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-04-13 16:58 03 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:58 06 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:58 06 : 
+login(UserController.java:39) first
+2017-04-13 16:58 48 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 16:58 52 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 16:58 52 : 
+login(UserController.java:39) first
+2017-04-13 17:01 28 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 17:03 23 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 17:05 43 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 17:06 31 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 17:07 06 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 17:07 44 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 17:07 54 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 17:07 54 : 
+login(UserController.java:39) first
+2017-04-13 17:08 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 17:08 18 : 
+changeOrderCartAmount(OrderController.java:96) 修改订单 请求 usrId:1
+2017-04-13 17:08 18 : 
+changeOrderCartAmount(OrderController.java:98) 修改订单 请求 usrId:1 res: true
+2017-04-13 17:08 27 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-04-13 17:08 38 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-13 17:08 38 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-04-13 17:08 55 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  cat
+2017-04-13 17:08 55 : 
+addLable(LableController.java:50) 确认搜索 text :  cat
+2017-04-13 17:08 55 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 1 lines8
+2017-04-13 17:08 55 : 
+addOrSaveLable(LableService.java:63) 保存更新 lable ：cat  成功
+2017-04-13 17:08 56 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 2 lines8
+2017-04-13 17:08 57 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 3 lines8
+2017-04-13 17:09 01 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 1 lines8
+2017-04-13 17:09 02 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 2 lines8
+2017-04-13 17:09 03 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 3 lines8
+2017-04-13 17:09 05 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 1 lines8
+2017-04-13 17:09 06 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 2 lines8
+2017-04-13 17:09 07 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  cat列表 page 3 lines8
+2017-04-13 17:09 10 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-04-13 17:09 12 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 3 lines8
+2017-04-13 17:09 17 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-13 17:09 17 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-04-13 17:09 18 : 
+getGoodDetails(GoodController.java:62) 获取指定商品  :  15
+2017-04-13 17:09 18 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-04-13 17:09 18 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-13 17:09 19 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-04-13 17:09 21 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 3 lines8
+2017-04-13 17:10 02 : 
+getGoodDetails(GoodController.java:62) 获取指定商品  :  1
+2017-04-13 17:10 02 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-04-13 17:10 02 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-04-13 17:10 04 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-04-13 17:10 09 : 
+getGoodDetails(GoodController.java:62) 获取指定商品  :  16
+2017-04-13 17:10 09 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-04-13 17:10 09 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-04-13 17:10 10 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-04-13 17:10 56 : 
+getGoodDetails(GoodController.java:62) 获取指定商品  :  9
+2017-04-13 17:10 56 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-04-13 17:10 56 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-04-13 17:10 59 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-04-13 17:11 02 : 
+getGoodDetails(GoodController.java:62) 获取指定商品  :  13
+2017-04-13 17:11 02 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-04-13 17:11 03 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-04-13 17:11 04 : 
+getGoodDetails(GoodController.java:62) 获取指定商品  :  15
+2017-04-13 17:11 04 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-04-13 17:11 05 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-13 17:11 06 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-04-13 17:11 13 : 
+getGoodDetails(GoodController.java:62) 获取指定商品  :  12
+2017-04-13 17:11 13 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-04-13 17:11 13 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-04-13 17:11 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 17:11 18 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 17:11 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 17:11 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 17:11 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 17:11 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 17:12 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 17:12 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 17:12 29 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 17:12 31 : 
+getGoodDetails(GoodController.java:62) 获取指定商品  :  13
+2017-04-13 17:12 31 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-04-13 17:12 31 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-04-13 17:12 36 : 
+login(UserService.java:37) 登录first 密码 asd  false
+2017-04-13 17:12 36 : 
+login(UserController.java:39) first
+2017-04-13 17:12 38 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-13 17:12 38 : 
+login(UserController.java:39) first
+2017-04-13 17:12 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 17:12 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 17:12 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 17:12 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 17:12 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 17:12 44 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 17:13 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 17:13 20 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 17:13 22 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 17:13 24 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 17:13 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-04-13 17:13 26 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 17:13 27 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 17:13 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 17:13 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 17:13 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 17:13 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-13 17:13 32 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-04-13 17:13 33 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 17:13 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 17:13 35 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-13 17:13 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 17:14 34 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-13 17:14 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-13 17:14 51 : 
+login(UserService.java:37) 登录first 密码 asd  false
+2017-04-13 17:14 51 : 
+login(UserController.java:39) first
+2017-04-13 17:14 58 : 
+login(UserService.java:37) 登录se 密码 se  true
+2017-04-13 17:14 58 : 
+login(UserController.java:39) se
+2017-04-13 17:14 58 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :2
+2017-04-13 17:15 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :2
+2017-04-13 17:15 03 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :2
+2017-04-13 17:15 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :2
+2017-04-13 17:15 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :2
+2017-04-13 17:15 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :2
+2017-04-13 17:15 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :2
+2017-04-13 17:15 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :2
+2017-04-13 17:15 12 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :2
+2017-04-13 17:15 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :2
+2017-04-13 17:16 41 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-04-13 17:16 44 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 1 lines8
+2017-04-13 17:16 57 : 
+listAll(GoodController.java:35) 获取所有商品列表 page 2 lines8
+2017-04-13 17:17 21 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-13 17:17 21 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-04-13 17:17 23 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
+2017-04-13 17:17 29 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-13 17:17 29 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-04-13 17:17 39 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-13 17:17 39 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 1 lines8
+2017-04-13 17:17 45 : 
+listSearchByTitle(GoodController.java:55)  搜索商品  列表 page 2 lines8
