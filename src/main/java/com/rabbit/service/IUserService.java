@@ -31,6 +31,8 @@ public interface IUserService {
 
     UserEntity getUserById(int userId);
 
+    void updataUser(UserEntity userEntity) throws Exception;
+
     UserEntity changeUserPayPassword(int userId, int oldPsw, int newPsw);
 
     UserEntity changeUserPassword(int userId, String oldPsw, String newPsw);

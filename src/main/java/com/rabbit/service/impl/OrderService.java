@@ -15,17 +15,16 @@ import com.rabbit.dao.IBaseDao;
 import com.rabbit.entity.AddressEntity;
 import com.rabbit.entity.GoodsEntity;
 import com.rabbit.entity.OrdersEntity;
+import com.rabbit.entity.UserEntity;
 import com.rabbit.service.IAddressService;
 import com.rabbit.service.IGoodService;
 import com.rabbit.service.IListBean;
 import com.rabbit.service.IOrderService;
 import com.rabbit.util.RabbitLog;
-import com.sun.org.apache.xpath.internal.operations.Or;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Service;
 
-import javax.persistence.criteria.Order;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -40,14 +39,16 @@ public class OrderService implements IOrderService {
     private final IGoodService mIGoodService;
     private final IBaseDao<OrdersEntity> mOrdersEntityIBaseDao;
     private final IListBean<OrdersEntity> mOrdersEntityIListBean;
+    private final UserService mUserService;
 
     @Autowired
-    public OrderService(IAddressService mIAddressService, IGoodService mIGoodService, IBaseDao<OrdersEntity> mOrdersEntityIBaseDao, IListBean<OrdersEntity> mOrdersEntityIListBean) {
+    public OrderService(IAddressService mIAddressService, IGoodService mIGoodService, IBaseDao<OrdersEntity> mOrdersEntityIBaseDao, IListBean<OrdersEntity> mOrdersEntityIListBean, UserService mUserService) {
         this.mIAddressService = mIAddressService;
         this.mIGoodService = mIGoodService;
         this.mOrdersEntityIBaseDao = mOrdersEntityIBaseDao;
         this.mOrdersEntityIListBean = mOrdersEntityIListBean;
         mOrdersEntityIListBean.settName(OrdersEntity.class);
+        this.mUserService = mUserService;
     }
 
     //添加新的 订单到购物车
@@ -138,6 +139,7 @@ public class OrderService implements IOrderService {
         GsonResAddOrder gsonResAddOrder = new GsonResAddOrder();
         List<String> orderName =  new ArrayList<>();
         List<String> msg = new ArrayList<>();
+        List<OrdersEntity> order = new ArrayList<>();
         for(int orderId:gsonAddOrder.getOrderIdList()){
             OrdersEntity ordersEntity = mOrdersEntityIBaseDao.get(OrdersEntity.class,orderId);
             if(null != ordersEntity){
@@ -160,50 +162,65 @@ public class OrderService implements IOrderService {
                                 mOrdersEntityIBaseDao.update(ordersEntity);
 
                                 orderName.add(ordersEntity.getTitle());
-                                msg.add("success");
+                                msg.add("订单正常");
                                 RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                             }catch (Exception e){
                                 orderName.add(ordersEntity.getTitle());
-                                msg.add("handOn");//请稍后重试
+                                msg.add("请稍后重试");//请稍后重试
                                 RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                             }
 
                         }else {
                             orderName.add(ordersEntity.getTitle());
-                            msg.add("lack");//库存不足
+                            msg.add("库存不足");//库存不足
                             RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                         }
                     }else {
                         orderName.add(ordersEntity.getTitle());
-                        msg.add("errorAddress");//地址错误
+                        msg.add("地址错误");//地址错误
                         RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                     }
 
                 }else {
                     orderName.add(ordersEntity.getTitle());
-                    msg.add("noGoods");//商品不存在
+                    msg.add("商品不存在");//商品不存在
                     RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
                 }
             }else {
+                ordersEntity = new OrdersEntity();
                 orderName.add(""+orderId);
-                msg.add(" errorOrder");//订单不存在
+                msg.add("订单不存在");//订单不存在
                 RabbitLog.debug("" + orderName.get(orderName.size()-1)+":"+msg.get(msg.size()-1));
             }
+            order.add(ordersEntity);
         }
         gsonResAddOrder.setMsg(msg);
         gsonResAddOrder.setOrderName(orderName);
+        gsonResAddOrder.setOrdersEntities(order);
         return gsonResAddOrder;
     }
 
     //订单完成支付
     @Override
-    public synchronized boolean addOrderAndPay(GsonAddOrder gsonAddOrder){
+    public synchronized String addOrderAndPay(GsonAddOrder gsonAddOrder){
         List<OrdersEntity> saveList = new ArrayList<>() ;
         List<GoodsEntity> goodsEntities = new ArrayList<>();
+        UserEntity userEntity =null;
         for(int orderId:gsonAddOrder.getOrderIdList()){
             OrdersEntity ordersEntity = mOrdersEntityIBaseDao.get(OrdersEntity.class,orderId);
             if(null!=ordersEntity&&ordersEntity.getStatus().equals(IOrderService.ORDER_STATUS_NOPAY)){
                 GoodsEntity goodsEntity = mIGoodService.getGoodsItem(ordersEntity.getGoodsId()).getList().get(0);
+                if(null == userEntity) {//只赋值一次
+                    userEntity = mUserService.getUserById(ordersEntity.getUserId());
+                }
+                double plus = userEntity.getBalance()-ordersEntity.getPrice()*ordersEntity.getAmount();
+                if(plus>0.000001){
+                    //扣钱
+                    userEntity.setBalance(plus);
+                }else {
+                    return "noMoney";
+                }
+
                 if(null != goodsEntity){
                     goodsEntity.setViews(goodsEntity.getViews()+1);//付款人数+1
                     goodsEntity.setSales(goodsEntity.getSales()+ordersEntity.getAmount());//销售量增加
@@ -212,19 +229,20 @@ public class OrderService implements IOrderService {
                     saveList.add(ordersEntity);
                     goodsEntities.add(goodsEntity);
                 }else {
-                    return false;
+                    return "false";
                 }
             }else {
-                return false;
+                return "false";
             }
         }
         try{//保存
             mOrdersEntityIBaseDao.update(saveList);
+            mUserService.updataUser(userEntity);
             mIGoodService.updataGoods(goodsEntities);
-            return true;
+            return "true";
         }catch (Exception e){
             e.printStackTrace();
-            return false;
+            return "false";
         }
     }
 
@@ -373,8 +391,9 @@ public class OrderService implements IOrderService {
         mOrdersEntityIListBean.init(hqlBean,1,Integer.MAX_VALUE);
         return (mOrdersEntityIListBean.getNumer() != 0);
     }
+    //直接购买
     @Override
-    public int buyNoCart(int userId,int goodsid, int addressId,int amount){
+    public GsonResAddOrder buyNoCart(int userId, int goodsid, int addressId, int amount){
         if(addOrderToCart(userId,addressId,goodsid,amount)){
             IListBean<OrdersEntity> res = getOrderToCart(userId,1,Integer.MAX_VALUE);
             OrdersEntity ordersEntity = res.getList().get(0);//获取刚添加的商品
@@ -386,11 +405,11 @@ public class OrderService implements IOrderService {
             /**
              *
              */
-            addOrderButNotPay(gsonAddOrder);//添加到订单里面
+            GsonResAddOrder gsonResAddOrder = addOrderButNotPay(gsonAddOrder);//添加到订单里面
 
-            return ordersEntity.getOrdersId();
+            return gsonResAddOrder;
         }else {
-            return -1;
+            return null;
         }
     }
 }

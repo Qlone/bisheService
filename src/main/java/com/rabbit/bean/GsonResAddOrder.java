@@ -8,6 +8,9 @@
 
 package com.rabbit.bean;
 
+import com.rabbit.entity.CommentEntity;
+import com.rabbit.entity.OrdersEntity;
+
 import java.util.List;
 
 /**
@@ -16,6 +19,7 @@ import java.util.List;
 public class GsonResAddOrder {
     List<String> orderName;//订单名字
     List<String> msg;//订单结果 信息
+    List<OrdersEntity> mOrdersEntities;
 
     public List<String> getOrderName() {
         return orderName;
@@ -31,5 +35,13 @@ public class GsonResAddOrder {
 
     public void setMsg(List<String> msg) {
         this.msg = msg;
+    }
+
+    public List<OrdersEntity> getOrdersEntities() {
+        return mOrdersEntities;
+    }
+
+    public void setOrdersEntities(List<OrdersEntity> ordersEntities) {
+        mOrdersEntities = ordersEntities;
     }
 }

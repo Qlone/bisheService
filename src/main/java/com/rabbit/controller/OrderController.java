@@ -164,7 +164,7 @@ public class OrderController {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        return ""+mOrderService.buyNoCart(userId,goodsId,addressId,amount);
+        return JsonUtil.toJson(mOrderService.buyNoCart(userId,goodsId,addressId,amount));
     }
 
     /**

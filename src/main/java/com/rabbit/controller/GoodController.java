@@ -8,6 +8,7 @@
 
 package com.rabbit.controller;
 
+import com.rabbit.bean.GsonSortApply;
 import com.rabbit.service.impl.GoodService;
 import com.rabbit.util.JsonUtil;
 import com.rabbit.util.RabbitLog;
@@ -61,5 +62,24 @@ public class GoodController {
             @RequestParam(value = "goodsId", required=false) int goodsId){
          RabbitLog.debug("获取指定商品  :  "+goodsId);
          return JsonUtil.toJson(mGoodService.getGoodsItem(goodsId).getList());
+    }
+
+    //获取排序列表
+    @RequestMapping(value = "/getSort",method = RequestMethod.GET)
+    @ResponseBody
+    public String getGsonSort(){
+        RabbitLog.debug("获取搜索");
+        try {
+            return JsonUtil.toJson(mGoodService.getSort());
+        }catch (Exception e){
+            e.printStackTrace();
+            return null;
+        }
+    }
+    @RequestMapping(value = "/highSearch",method = RequestMethod.POST)
+    @ResponseBody
+    public String getHighSearch(
+            @RequestBody GsonSortApply gsonSortApply){
+        return JsonUtil.toJson(mGoodService.getGoodsHighSearch(gsonSortApply));
     }
 }

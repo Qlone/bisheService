@@ -60,7 +60,7 @@ public interface IOrderService {
     GsonResAddOrder addOrderButNotPay(GsonAddOrder gsonAddOrder);
 
     //订单完成支付
-    boolean addOrderAndPay(GsonAddOrder gsonAddOrder);
+    String addOrderAndPay(GsonAddOrder gsonAddOrder);
 
     IListBean<OrdersEntity> getOrderToCart(int userId, int page, int lines);
 
@@ -82,5 +82,5 @@ public interface IOrderService {
 
     boolean checkOrderIsExists(int userId, int goodsId);
 
-    int buyNoCart(int userId, int goodsid, int addressId, int amount);
+    GsonResAddOrder buyNoCart(int userId, int goodsid, int addressId, int amount);
 }

@@ -8,6 +8,8 @@
 
 package com.rabbit.service;
 
+import com.rabbit.bean.GsonSort;
+import com.rabbit.bean.GsonSortApply;
 import com.rabbit.entity.GoodsEntity;
 import com.rabbit.service.list.GoodsList;
 
@@ -77,4 +79,10 @@ public interface IGoodService {
     void updataGoods(GoodsEntity goodsEntity) throws Exception;
 
     void updataGoods(List<GoodsEntity> goodsEntities) throws Exception;
+
+    //排序方式
+    GsonSort getSort();
+
+    //排序
+    List<GoodsEntity> getGoodsHighSearch(GsonSortApply gsonSortApply);
 }

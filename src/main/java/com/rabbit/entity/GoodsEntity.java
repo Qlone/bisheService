@@ -31,6 +31,23 @@ public class GoodsEntity {
     private Integer goodsDelete;
     private String mPictureGroup;
 
+    public GoodsEntity() {
+    }
+
+    public GoodsEntity(Integer goodsId, String type, Double price, String title, String picture, Integer sales, Integer stock, String status, Integer views, Integer goodsDelete, String pictureGroup) {
+        this.goodsId = goodsId;
+        this.type = type;
+        this.price = price;
+        this.title = title;
+        this.picture = picture;
+        this.sales = sales;
+        this.stock = stock;
+        this.status = status;
+        this.views = views;
+        this.goodsDelete = goodsDelete;
+        mPictureGroup = pictureGroup;
+    }
+
     @Basic
     @Column(name = "type", nullable = true, length = 200)
     public String getType() {

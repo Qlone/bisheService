@@ -50,6 +50,10 @@ public class LableService implements ILableService{
     }
     @Override
     public synchronized void  addOrSaveLable(String text,String mark){
+        if("".equals(text)){
+            RabbitLog.debug("不保存空字符串");
+            return;
+        }
         LableEntity lableEntity = getItem(text);
         if(null == lableEntity){
             lableEntity = new LableEntity();

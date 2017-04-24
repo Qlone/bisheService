@@ -31,7 +31,7 @@ public class UserService implements IUserService {
     @Override
     public GsonLogin login(UserEntity userEntity) {
         GsonLogin gsonLogin = new GsonLogin();
-        gsonLogin.setUserEntity(isUserExists(userEntity));
+        gsonLogin.setUserEntity(isUserExists(userEntity,true));
 
         gsonLogin.setBoolean(null !=gsonLogin.getUserEntity());
         RabbitLog.debug("登录"+userEntity.getUserName()+" 密码 " +userEntity.getPassword() + "  " +gsonLogin.isBoolean());
@@ -50,13 +50,17 @@ public class UserService implements IUserService {
         session.setMaxInactiveInterval(IUserService.SESSION_TIME);
     }
 
-    private UserEntity isUserExists(UserEntity userEntity){
-        String hql = " from UserEntity where userName = ? and password = ? ";
+    private UserEntity isUserExists(UserEntity userEntity,Boolean isCheckPassword){
+        StringBuffer hql = new StringBuffer();
+        hql.append(" from UserEntity where userName = ?");
         List<Object> param = new ArrayList();
         param.add(userEntity.getUserName());
-        param.add(userEntity.getPassword());
+        if(isCheckPassword){
+            hql.append("  and password = ?");
+            param.add(userEntity.getPassword());
+        }
         try {
-            UserEntity res = mUserDao.get(hql, param);
+            UserEntity res = mUserDao.get(hql.toString(), param);
             return res;
         }catch (Exception e){
             e.printStackTrace();
@@ -68,6 +72,11 @@ public class UserService implements IUserService {
     public UserEntity getUserById(int userId){
         return mUserDao.get(UserEntity.class,userId);
     }
+    @Override
+    public void updataUser(UserEntity userEntity) throws Exception {
+        mUserDao.update(userEntity);
+    }
+
     @Override
     public UserEntity changeUserPayPassword(int userId, int oldPsw, int newPsw){
         UserEntity userEntity = getUserById(userId);
@@ -100,5 +109,24 @@ public class UserService implements IUserService {
             return null;
         }
     }
+
+    public String register(UserEntity userEntity){
+        if(null == userEntity|| null == userEntity.getUserName() || null == userEntity.getPassword() ){
+            return "errorParam";
+        }
+
+        if(null == isUserExists(userEntity,false)){
+            try {
+                mUserDao.save(userEntity);
+                return "success";
+            } catch (Exception e) {
+                e.printStackTrace();
+                return "fail";
+            }
+        }else {
+            return "exits";
+        }
+    }
+
 
 }
