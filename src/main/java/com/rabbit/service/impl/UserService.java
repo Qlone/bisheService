@@ -110,6 +110,7 @@ public class UserService implements IUserService {
         }
     }
 
+    @Override
     public String register(UserEntity userEntity){
         if(null == userEntity|| null == userEntity.getUserName() || null == userEntity.getPassword() ){
             return "errorParam";
@@ -117,6 +118,9 @@ public class UserService implements IUserService {
 
         if(null == isUserExists(userEntity,false)){
             try {
+                userEntity.setBalance(0.0);
+                userEntity.setUserStatus("normal");
+                userEntity.setUserType("normal");
                 mUserDao.save(userEntity);
                 return "success";
             } catch (Exception e) {

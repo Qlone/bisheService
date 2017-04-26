@@ -58,4 +58,10 @@ public class UserController {
         RabbitLog.debug("修改登录密码");
         return JsonUtil.toJson(userService.changeUserPassword(userId, oldPsw,newPsw));
     }
+    @RequestMapping(value = "/register",method = RequestMethod.POST)
+    @ResponseBody
+    public String registerUser(
+            @RequestBody UserEntity userEntity){
+        return userService.register(userEntity);
+    }
 }

@@ -308,3 +308,157 @@ getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :2
 getAddressList(AddressController.java:35) 获取 地址列表  :2
 2017-04-24 10:26 14 : 
 getAddressList(AddressController.java:35) 获取 地址列表  :2
+2017-04-24 10:26 16 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 10:26 19 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :2
+2017-04-24 10:26 39 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 2 lines8
+2017-04-24 10:26 42 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-24 10:26 42 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-24 10:26 42 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-24 10:26 42 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-24 10:31 26 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-24 10:31 26 : 
+login(UserController.java:39) first
+2017-04-24 10:33 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-24 10:33 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-24 10:35 39 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-04-24 10:39 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-24 10:39 29 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 10:39 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-24 10:39 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-24 10:39 31 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 10:39 32 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-04-24 10:39 32 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-04-24 10:39 32 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-24 10:39 35 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-04-24 10:39 35 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-04-24 10:39 35 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-24 10:39 38 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-24 10:39 38 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-24 10:39 38 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-24 10:39 38 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-24 10:39 45 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 :评价数 排序方式 :降序
+2017-04-24 10:39 45 : 
+addLable(LableController.java:50) 确认搜索 text :  
+2017-04-24 10:39 45 : 
+addOrSaveLable(LableService.java:54) 不保存空字符串
+2017-04-24 10:39 45 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-24 10:39 46 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-04-24 10:39 47 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-04-24 10:39 47 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-04-24 10:39 48 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-04-24 10:46 09 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 10:46 12 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-04-24 10:46 12 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-04-24 10:46 13 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-04-24 10:46 17 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 10:46 18 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-04-24 10:46 18 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-04-24 10:46 18 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-04-24 11:01 05 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-24 11:01 05 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-24 11:01 05 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-24 11:01 05 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-24 11:01 16 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-04-24 11:01 16 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-04-24 11:01 16 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-04-24 11:02 49 : 
+getHintLable(LableController.java:37) 获取标签推荐 text :  色
+2017-04-24 16:26 56 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 16:27 09 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 16:27 11 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 16:27 39 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-24 16:27 39 : 
+login(UserController.java:39) first
+2017-04-24 16:27 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-24 16:27 44 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 16:27 45 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-04-24 16:27 45 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-04-24 16:27 45 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-04-24 16:27 51 : 
+newOrder(OrderController.java:38) 兔子登记 接收新的订单 
+2017-04-24 16:27 51 : 
+newOrder(OrderController.java:40) 为了测试效果，等待 3秒钟 
+2017-04-24 16:27 54 : 
+newOrder(OrderController.java:45) 是否存在 :  false
+2017-04-24 16:27 55 : 
+addOrderToCart(OrderService.java:78) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：1
+2017-04-24 16:28 42 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-24 16:28 53 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-04-24 16:28 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-24 16:28 55 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-24 16:28 58 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-24 16:29 08 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-04-24 16:29 08 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-04-24 16:29 08 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-04-24 16:29 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-24 16:29 46 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-04-24 16:29 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-24 16:29 53 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1

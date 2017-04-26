@@ -36,4 +36,6 @@ public interface IUserService {
     UserEntity changeUserPayPassword(int userId, int oldPsw, int newPsw);
 
     UserEntity changeUserPassword(int userId, String oldPsw, String newPsw);
+
+    String register(UserEntity userEntity);
 }
