@@ -1,0 +1,42 @@
+2017-04-27 09:55 16 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-27 09:55 20 : 
+login(UserService.java:37) 登录asd 密码 asf  true
+2017-04-27 09:55 20 : 
+login(UserController.java:39) asd
+2017-04-27 09:55 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :3
+2017-04-27 09:55 22 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-27 09:55 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :3
+2017-04-27 09:55 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :3
+2017-04-27 09:55 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :3
+2017-04-27 09:55 30 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-27 09:55 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :3
+2017-04-27 09:55 31 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :3
+2017-04-27 09:55 32 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-27 09:55 35 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-04-27 09:55 35 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-04-27 09:55 35 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-27 09:55 58 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-27 09:55 58 : 
+login(UserController.java:39) first
+2017-04-27 09:56 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-27 09:56 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-27 09:56 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-27 09:56 18 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8

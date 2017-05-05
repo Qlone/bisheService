@@ -19,7 +19,7 @@ import java.util.List;
  * Created by weina on 2017/2/11.
  */
 @Controller
-@RequestMapping(value = "")
+@RequestMapping(value = "s")
 public class MainTest {
 
     @Autowired

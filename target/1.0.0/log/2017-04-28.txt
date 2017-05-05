@@ -1,0 +1,276 @@
+2017-04-28 14:33 08 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 14:33 15 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-28 14:33 15 : 
+login(UserController.java:39) first
+2017-04-28 14:33 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-28 14:33 23 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-04-28 14:33 27 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 14:33 29 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-04-28 14:33 29 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-04-28 14:33 29 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-28 14:52 20 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 14:52 27 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-04-28 14:52 27 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-04-28 14:52 27 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-04-28 14:52 40 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-28 14:52 40 : 
+login(UserController.java:39) first
+2017-04-28 14:52 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-28 14:52 48 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-28 14:52 51 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 14:55 51 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 14:55 59 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-28 14:55 59 : 
+login(UserController.java:39) first
+2017-04-28 14:56 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-28 14:56 01 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-28 14:56 03 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-04-28 14:56 03 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-04-28 14:56 03 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-04-28 14:56 06 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-28 14:56 07 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-04-28 14:56 07 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-04-28 14:56 07 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-28 14:56 09 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-04-28 14:56 10 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-04-28 14:56 11 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-28 14:56 13 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-04-28 14:56 13 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-04-28 14:56 13 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-28 14:56 14 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-04-28 14:56 17 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 14:56 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-28 15:06 58 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:07 03 : 
+login(UserService.java:37) 登录first 密码 asg  false
+2017-04-28 15:07 03 : 
+login(UserController.java:39) first
+2017-04-28 15:07 05 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-28 15:07 05 : 
+login(UserController.java:39) first
+2017-04-28 15:07 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-28 15:07 12 : 
+addOrderNotPay(OrderController.java:120) 订单请求 1条
+2017-04-28 15:07 12 : 
+addOrderNotPay(OrderController.java:122) 为了测试效果，等待 3秒钟 
+2017-04-28 15:07 15 : 
+addOrderButNotPay(OrderService.java:176) pink cat:库存不足
+2017-04-28 15:07 16 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-28 15:07 21 : 
+payOrder(OrderController.java:144) 为了测试效果，等待 3秒钟 
+2017-04-28 15:07 24 : 
+payOrder(OrderController.java:149)  支付
+2017-04-28 15:07 30 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-04-28 15:07 30 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-04-28 15:07 30 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-04-28 15:07 39 : 
+changeOrderCartAmount(OrderController.java:96) 修改订单 请求 usrId:1
+2017-04-28 15:07 39 : 
+changeOrderCartAmount(OrderController.java:98) 修改订单 请求 usrId:1 res: true
+2017-04-28 15:07 44 : 
+addOrderNotPay(OrderController.java:120) 订单请求 1条
+2017-04-28 15:07 44 : 
+addOrderNotPay(OrderController.java:122) 为了测试效果，等待 3秒钟 
+2017-04-28 15:07 47 : 
+addOrderButNotPay(OrderService.java:166) pink cat:订单正常
+2017-04-28 15:07 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-04-28 15:07 50 : 
+payOrder(OrderController.java:144) 为了测试效果，等待 3秒钟 
+2017-04-28 15:07 53 : 
+payOrder(OrderController.java:149)  支付
+2017-04-28 15:07 57 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-04-28 15:07 57 : 
+login(UserController.java:39) first
+2017-04-28 15:08 07 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:08 35 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 15:08 35 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 15:08 35 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 15:08 35 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 15:31 50 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:31 59 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 2 lines8
+2017-04-28 15:32 00 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 3 lines8
+2017-04-28 15:37 26 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:40 43 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:41 17 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:41 24 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 2 lines8
+2017-04-28 15:41 26 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-04-28 15:41 26 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-04-28 15:41 26 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-28 15:41 35 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 15:41 35 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 15:41 35 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 15:41 35 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 15:42 54 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:43 16 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:43 24 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-04-28 15:43 24 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-04-28 15:43 24 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-04-28 15:43 33 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 2 lines8
+2017-04-28 15:44 00 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 3 lines8
+2017-04-28 15:44 06 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:44 08 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 2 lines8
+2017-04-28 15:44 08 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 3 lines8
+2017-04-28 15:49 17 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 15:56 32 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 16:05 31 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 16:05 34 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 16:05 34 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 16:05 34 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  服装
+2017-04-28 16:05 34 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 16:05 34 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 16:05 43 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 16:05 43 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 16:05 43 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 16:05 43 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 16:05 46 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 16:05 46 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 16:05 46 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  天猫
+2017-04-28 16:05 46 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 16:05 46 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 16:08 09 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 16:08 09 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 16:08 09 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  天猫
+2017-04-28 16:08 09 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 16:08 09 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 16:08 12 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 16:08 12 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 16:08 12 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  服装
+2017-04-28 16:08 12 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 16:08 12 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 16:10 27 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 16:10 27 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 16:10 27 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  服装
+2017-04-28 16:10 27 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 16:10 27 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 16:10 59 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 16:11 03 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 16:11 03 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 16:11 03 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  天猫
+2017-04-28 16:11 03 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 16:11 03 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 16:11 05 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-04-28 16:11 05 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-04-28 16:11 05 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-04-28 16:11 05 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-04-28 16:11 23 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 16:11 26 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-04-28 16:11 32 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8

@@ -19,7 +19,7 @@
     <aop:aspectj-autoproxy/>
 
     <!-- 静态资源(js、image等)的访问 -->
-    <mvc:resources mapping="/resources/**" location="WEB-INF" />
+    <mvc:resources mapping="/resources/**" location="/resources/" />
     <mvc:default-servlet-handler/>
 
     <!-- 开启注解 -->
@@ -49,11 +49,21 @@
 
     </mvc:annotation-driven>
 
+
+    <!--拦截器-->
+    <mvc:interceptors>
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <bean class="com.rabbit.util.LoginInterceptor"></bean>
+        </mvc:interceptor>
+    </mvc:interceptors>
+
+
     <!--ViewResolver 视图解析器-->
     <!--用于支持Servlet、JSP视图解析-->
     <bean id="jspViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
-        <property name="prefix" value="/WEB-INF/pages/"/>
-        <property name="suffix" value=""/>
+        <property name="prefix" value="/WEB-INF/jsp/"/>
+        <property name="suffix" value=".jsp"/>
     </bean>
 </beans>

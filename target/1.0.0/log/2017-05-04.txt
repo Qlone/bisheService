@@ -1,0 +1,690 @@
+2017-05-04 10:40 21 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 10:40 25 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 10:41 16 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 10:41 23 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 10:48 07 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 10:48 13 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 10:55 09 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-05-04 10:55 18 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 10:55 22 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 10:55 24 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 10:55 53 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-05-04 10:57 43 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 10:57 46 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 10:57 46 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 10:57 46 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 11:00 49 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 11:00 50 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 11:00 50 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 11:00 50 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 11:03 54 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 11:03 57 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 11:03 58 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 11:03 58 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 11:04 07 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-04 11:12 36 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 11:13 08 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 11:13 08 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 11:13 08 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 11:14 21 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 11:14 23 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 11:14 23 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 11:14 23 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 11:26 44 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 11:26 48 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 11:26 48 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 11:26 48 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 11:47 19 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 11:47 23 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 11:47 23 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 11:47 23 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 11:49 25 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 11:49 27 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 11:49 27 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 11:49 27 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:03 02 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:03 05 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:03 05 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:03 05 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:04 20 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:04 21 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:04 22 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:04 22 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:10 39 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:10 42 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:10 42 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:10 42 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:19 18 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:19 20 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:19 21 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:19 21 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:20 22 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:20 26 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:20 26 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:20 26 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:25 36 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:25 36 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:25 36 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:26 42 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:26 57 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:26 58 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:26 58 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:28 39 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:28 39 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:28 39 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:28 52 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:28 52 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:28 52 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:31 40 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:31 40 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:31 40 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:31 48 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:31 48 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:31 48 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:33 19 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:33 23 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:33 23 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:33 23 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:33 52 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:33 52 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:33 52 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:42 04 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:42 07 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:42 07 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:42 07 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:42 45 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:42 45 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:42 45 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:45 47 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:45 48 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:45 49 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:45 49 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 15:54 04 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 15:54 42 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 15:54 42 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 15:54 43 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:03 52 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:03 56 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:03 57 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:03 57 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:04 03 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:04 03 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:04 03 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:04 32 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:04 33 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 16:04 33 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 16:04 33 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 16:04 51 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 16:04 51 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 16:04 51 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 16:04 59 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:04 59 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:04 59 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:05 45 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:05 51 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:05 51 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:05 51 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:06 22 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:06 22 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:06 22 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:06 26 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:06 26 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:06 26 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:06 33 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:06 33 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:06 33 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:06 35 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:06 35 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:06 35 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:07 04 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:07 04 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:07 04 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:07 07 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:07 08 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:07 08 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:07 19 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:07 19 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:07 19 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:07 23 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:07 23 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:07 23 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:07 26 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-05-04 16:07 26 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 16:07 26 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-04 16:10 31 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:10 33 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:10 33 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:10 33 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:10 44 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:10 44 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:10 44 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:11 50 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:11 55 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:11 56 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:11 56 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:13 26 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:13 28 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:13 28 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:13 28 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:18 50 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:18 55 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:18 56 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:18 56 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:20 23 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:20 25 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:20 25 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:20 26 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:21 46 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 16:21 46 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 16:21 46 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 16:25 07 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:25 18 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:25 18 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:25 18 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:25 34 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-05-04 16:25 34 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-05-04 16:25 34 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 16:25 59 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-05-04 16:25 59 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 16:25 59 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-04 16:29 26 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:30 40 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 2 lines8
+2017-05-04 16:30 45 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  7
+2017-05-04 16:30 45 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 16:30 45 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-04 16:34 20 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  10
+2017-05-04 16:34 20 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 16:34 20 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-04 16:37 37 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  7
+2017-05-04 16:37 37 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 16:37 37 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-04 16:40 44 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  9
+2017-05-04 16:40 44 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 16:40 44 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-04 16:44 55 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:44 57 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:44 57 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:44 57 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:45 00 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-05-04 16:45 00 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-05-04 16:45 00 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 16:45 04 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-05-04 16:45 04 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 16:45 04 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-04 16:45 23 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  12
+2017-05-04 16:45 23 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 16:45 23 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-04 16:49 08 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:50 31 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:50 31 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:50 31 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:50 45 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-05-04 16:50 45 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-05-04 16:50 45 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 16:51 10 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-05-04 16:51 10 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-05-04 16:51 10 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 16:52 58 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:53 08 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:53 08 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:53 08 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:53 54 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-05-04 16:53 54 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-05-04 16:53 54 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 16:55 11 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:55 31 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 16:55 31 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 16:55 31 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 16:58 05 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 16:58 07 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 16:58 07 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 16:58 07 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 16:59 00 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-05-04 16:59 00 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 16:59 00 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-04 17:03 16 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:03 18 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:03 18 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:06 47 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:06 50 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 17:06 50 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 17:06 50 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 17:08 37 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:08 45 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-05-04 17:08 45 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-04 17:10 22 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:10 44 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:10 44 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:10 44 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:12 21 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:12 25 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:12 25 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:12 25 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:13 17 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:13 19 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:13 19 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:13 19 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:15 19 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:15 22 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-05-04 17:15 22 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-05-04 17:15 22 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 17:16 29 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:16 30 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:16 30 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:16 45 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:16 45 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:16 45 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:17 17 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:17 17 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:17 17 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:18 07 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:18 14 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:18 14 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:18 14 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:18 49 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:18 49 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:18 49 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:20 04 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:20 11 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:20 11 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:20 11 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:21 48 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:21 50 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:21 50 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:21 50 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:23 27 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:23 29 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 17:23 29 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 17:23 29 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 17:27 09 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:27 11 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:27 11 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:27 11 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:29 23 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:29 25 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:29 25 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:29 25 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:30 21 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 17:30 21 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 17:30 21 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 17:30 29 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:30 29 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:30 29 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:34 10 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:34 13 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:34 13 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:34 13 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:34 33 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 17:34 33 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 17:34 33 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 17:35 07 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-04 17:35 09 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 17:35 10 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 17:35 10 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 17:35 14 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:35 14 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:35 14 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:35 25 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-04 17:35 25 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-04 17:35 25 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 17:35 54 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-05-04 17:35 54 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-05-04 17:35 54 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-04 17:36 23 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:36 23 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:36 23 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-04 17:36 26 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-04 17:36 31 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 2 lines8
+2017-05-04 17:36 34 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-05-04 17:36 34 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-05-04 17:36 34 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  天猫
+2017-05-04 17:36 34 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-05-04 17:36 34 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-05-04 17:42 23 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-04 17:42 23 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-04 17:42 23 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3

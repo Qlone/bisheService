@@ -1,0 +1,512 @@
+2017-05-05 09:03 27 : 
+login(UserService.java:37) 登录ww 密码 w  false
+2017-05-05 09:03 31 : 
+login(UserService.java:37) 登录WW 密码 ww  true
+2017-05-05 09:04 09 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:05 04 : 
+addItem(MYController.java:150) 图片存储 : 0
+2017-05-05 09:05 04 : 
+addItem(MYController.java:150) 图片存储 : 1
+2017-05-05 09:05 04 : 
+addItem(MYController.java:150) 图片存储 : 2
+2017-05-05 09:05 04 : 
+addGoods(GoodService.java:101) 保存 了一件 新的商品 :卫龙辣条
+2017-05-05 09:05 04 : 
+addOrSaveLable(LableService.java:67) 保存更新 lable ：卫龙辣条  成功
+2017-05-05 09:05 11 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:05 16 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 09:05 16 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:05 16 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:05 44 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-05 09:05 47 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-05 09:06 31 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 09:06 31 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:06 31 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:06 51 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:06 51 : 
+login(UserController.java:39) first
+2017-05-05 09:16 51 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:16 59 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 09:16 59 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:16 59 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:17 05 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:17 05 : 
+login(UserController.java:39) first
+2017-05-05 09:26 46 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:26 48 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 09:26 48 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:26 48 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:26 54 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:26 54 : 
+login(UserController.java:39) first
+2017-05-05 09:27 08 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-05-05 09:27 17 : 
+newOrderNoCart(OrderController.java:160) 兔子登记 接收新的 直接购买 订单 
+2017-05-05 09:27 17 : 
+newOrderNoCart(OrderController.java:162) 为了测试效果，等待 3秒钟 
+2017-05-05 09:27 20 : 
+addOrderToCart(OrderService.java:78) 创建订单 成功  用户Id: 1   购买物品 ;卫龙辣条  数量 ：3
+2017-05-05 09:27 21 : 
+addOrderButNotPay(OrderService.java:166) 卫龙辣条:订单正常
+2017-05-05 09:27 27 : 
+payOrder(OrderController.java:144) 为了测试效果，等待 3秒钟 
+2017-05-05 09:27 30 : 
+payOrder(OrderController.java:149)  支付
+2017-05-05 09:27 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:27 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:33 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:40 04 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:40 10 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:40 10 : 
+login(UserController.java:39) first
+2017-05-05 09:40 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:40 13 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:40 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-05-05 09:40 23 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-05-05 09:40 25 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 09:40 26 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:40 26 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:40 29 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-05 09:40 32 : 
+newOrder(OrderController.java:38) 兔子登记 接收新的订单 
+2017-05-05 09:40 32 : 
+newOrder(OrderController.java:40) 为了测试效果，等待 3秒钟 
+2017-05-05 09:40 35 : 
+newOrder(OrderController.java:45) 是否存在 :  false
+2017-05-05 09:40 36 : 
+addOrderToCart(OrderService.java:78) 创建订单 成功  用户Id: 1   购买物品 ;卫龙辣条  数量 ：3
+2017-05-05 09:40 39 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-05-05 09:42 14 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:42 20 : 
+login(UserService.java:37) 登录first 密码 asg  false
+2017-05-05 09:42 20 : 
+login(UserController.java:39) first
+2017-05-05 09:42 22 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:42 23 : 
+login(UserController.java:39) first
+2017-05-05 09:42 25 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-05-05 09:43 30 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:43 35 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:43 35 : 
+login(UserController.java:39) first
+2017-05-05 09:43 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:43 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:43 40 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-05-05 09:43 53 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:43 55 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-05-05 09:43 55 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:43 55 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:44 01 : 
+newOrderNoCart(OrderController.java:160) 兔子登记 接收新的 直接购买 订单 
+2017-05-05 09:44 01 : 
+newOrderNoCart(OrderController.java:162) 为了测试效果，等待 3秒钟 
+2017-05-05 09:44 04 : 
+addOrderToCart(OrderService.java:78) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：2
+2017-05-05 09:44 04 : 
+addOrderButNotPay(OrderService.java:166) pink cat:订单正常
+2017-05-05 09:44 09 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-05-05 09:44 09 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:44 09 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:44 11 : 
+newOrder(OrderController.java:38) 兔子登记 接收新的订单 
+2017-05-05 09:44 11 : 
+newOrder(OrderController.java:40) 为了测试效果，等待 3秒钟 
+2017-05-05 09:44 14 : 
+newOrder(OrderController.java:45) 是否存在 :  false
+2017-05-05 09:44 14 : 
+addOrderToCart(OrderService.java:78) 创建订单 成功  用户Id: 1   购买物品 ;pink cat  数量 ：2
+2017-05-05 09:44 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-05-05 09:44 31 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:44 34 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:44 34 : 
+login(UserController.java:39) first
+2017-05-05 09:44 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:44 36 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:44 41 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-05-05 09:44 44 : 
+addOrderNotPay(OrderController.java:120) 订单请求 2条
+2017-05-05 09:44 44 : 
+addOrderNotPay(OrderController.java:122) 为了测试效果，等待 3秒钟 
+2017-05-05 09:44 47 : 
+addOrderButNotPay(OrderService.java:166) pink cat:订单正常
+2017-05-05 09:44 47 : 
+addOrderButNotPay(OrderService.java:166) 卫龙辣条:订单正常
+2017-05-05 09:44 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-05-05 09:44 50 : 
+payOrder(OrderController.java:144) 为了测试效果，等待 3秒钟 
+2017-05-05 09:44 53 : 
+payOrder(OrderController.java:149)  支付
+2017-05-05 09:44 55 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:44 55 : 
+login(UserController.java:39) first
+2017-05-05 09:44 56 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:44 58 : 
+getAddressList(AddressController.java:35) 获取 地址列表  :1
+2017-05-05 09:45 01 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:45 01 : 
+login(UserController.java:39) first
+2017-05-05 09:45 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:45 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:45 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表not_pay   userId :1
+2017-05-05 09:45 07 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-05-05 09:45 15 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-05-05 09:45 17 : 
+OrderGot(OrderController.java:178) 获得商品: 1
+2017-05-05 09:45 17 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-05-05 09:45 19 : 
+OrderGot(OrderController.java:178) 获得商品: 1
+2017-05-05 09:45 19 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-05-05 09:45 21 : 
+OrderGot(OrderController.java:178) 获得商品: 1
+2017-05-05 09:45 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-05-05 09:45 21 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-05-05 09:45 37 : 
+addComment(CommentController.java:36)  新的评论 
+2017-05-05 09:45 37 : 
+saveComment(CommentService.java:53) 保存了新的评论: 1   context优秀的商品23333
+2017-05-05 09:45 37 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-05-05 09:45 41 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:45 43 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 2 lines8
+2017-05-05 09:45 45 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  9
+2017-05-05 09:45 45 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:45 45 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:45 49 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 3 lines8
+2017-05-05 09:45 49 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  3
+2017-05-05 09:45 49 : 
+getScore(CommentController.java:52)  获取分数 4.0
+2017-05-05 09:45 49 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-05 09:45 51 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-05 09:45 58 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 4 lines8
+2017-05-05 09:46 01 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-05-05 09:46 01 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-05-05 09:46 01 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  天猫
+2017-05-05 09:46 01 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-05-05 09:46 01 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-05-05 09:46 18 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 09:46 18 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:46 18 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:46 21 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-05-05 09:46 21 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-05-05 09:46 21 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  天猫
+2017-05-05 09:46 21 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-05-05 09:46 21 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-05-05 09:47 25 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:47 36 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-05-05 09:47 36 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-05-05 09:47 36 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  天猫
+2017-05-05 09:47 36 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-05-05 09:47 36 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-05-05 09:47 51 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-05-05 09:47 51 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-05-05 09:47 51 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-05-05 09:47 51 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-05-05 09:47 56 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 :购买量 排序方式 :降序
+2017-05-05 09:47 56 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:2
+2017-05-05 09:48 04 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-05 09:48 04 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-05 09:48 04 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-05 09:48 27 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-05-05 09:48 27 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-05-05 09:48 27 : 
+getGoodsHighSearch(GoodService.java:176)  mark :  电子产品
+2017-05-05 09:48 27 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-05-05 09:48 27 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-05-05 09:49 07 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:49 08 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:49 26 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  14
+2017-05-05 09:49 26 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:49 26 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:49 28 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-05 09:49 30 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 09:49 30 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:49 30 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:49 32 : 
+getGsonSort(GoodController.java:71) 获取搜索
+2017-05-05 09:49 32 : 
+getHotLable(LableController.java:65)  推送  火热 搜索 
+2017-05-05 09:49 32 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 : 排序方式 :
+2017-05-05 09:49 32 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-05-05 09:49 39 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 :分数 排序方式 :降序
+2017-05-05 09:49 39 : 
+addLable(LableController.java:50) 确认搜索 text :  
+2017-05-05 09:49 39 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:1
+2017-05-05 09:49 39 : 
+addOrSaveLable(LableService.java:54) 不保存空字符串
+2017-05-05 09:49 41 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  3
+2017-05-05 09:49 41 : 
+getScore(CommentController.java:52)  获取分数 4.0
+2017-05-05 09:49 41 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-05 09:49 44 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-05 09:49 48 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  16
+2017-05-05 09:49 48 : 
+getScore(CommentController.java:52)  获取分数 3.3333
+2017-05-05 09:49 48 : 
+getCommentCount(CommentController.java:61)  获取评论数量 3
+2017-05-05 09:49 50 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  3
+2017-05-05 09:49 50 : 
+getScore(CommentController.java:52)  获取分数 4.0
+2017-05-05 09:49 50 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-05 09:49 54 : 
+getGoodsHighSearch(GoodService.java:221) 搜索标题 : 排序类型 :分数 排序方式 :降序
+2017-05-05 09:49 54 : 
+getGoodsHighSearch(GoodService.java:225) 成功完成高级查询 page:2
+2017-05-05 09:49 54 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  15
+2017-05-05 09:49 54 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-05 09:49 54 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-05 09:51 23 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:52 47 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 09:52 47 : 
+getScore(CommentController.java:52)  获取分数 0.0
+2017-05-05 09:52 47 : 
+getCommentCount(CommentController.java:61)  获取评论数量 0
+2017-05-05 09:52 55 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 09:52 55 : 
+login(UserController.java:39) first
+2017-05-05 09:52 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:52 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:52 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-05-05 09:53 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-05-05 09:53 00 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-05-05 09:53 16 : 
+login(UserService.java:37) 登录ww 密码 ww  true
+2017-05-05 09:53 20 : 
+getOrder(MYController.java:240) [{"mOrdersId":127,"mGoodsId":17,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"http://192.168.137.1:8080/resources/images/photos/ec909ede-2948-49e1-84e4-20a0c409d340.jpg","mTitle":"卫龙辣条","mPrice":10.2,"mCreateTime":"May 5, 2017 9:40:36 AM","mPaidTime":"May 5, 2017 9:44:53 AM","mStatus":"pay_no_send","mAmount":3,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":129,"mGoodsId":14,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799470098\u0026di\u003d0449ec74ec2775f321cdb25fa84e0567\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fimg04.tooopen.com%2Fimages%2F20121026%2Ftooopen_201210261227413300.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"May 5, 2017 9:44:15 AM","mPaidTime":"May 5, 2017 9:44:53 AM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":126,"mGoodsId":17,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"http://192.168.137.1:8080/resources/images/photos/ec909ede-2948-49e1-84e4-20a0c409d340.jpg","mTitle":"卫龙辣条","mPrice":10.2,"mCreateTime":"May 5, 2017 9:27:21 AM","mPaidTime":"May 5, 2017 9:27:31 AM","mStatus":"pay_no_send","mAmount":3,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":125,"mGoodsId":16,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"http://192.168.137.1:8080/resources/images/photos/8163fdd9-864b-4bfa-9966-d08d79ec0de8.jpg","mTitle":"上好佳薯片","mPrice":19.0,"mCreateTime":"May 3, 2017 3:26:58 PM","mPaidTime":"May 3, 2017 3:27:05 PM","mStatus":"pay_no_send","mAmount":3,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":122,"mGoodsId":16,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799505943\u0026di\u003d6e7d5a9129693b09513470941c032fad\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D17bcc37733fae6cd0ce1a3653a832312%2Fbd315c6034a85edf0d26dc634f540923dc5475c3.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 24, 2017 4:27:55 PM","mPaidTime":"May 3, 2017 3:25:10 PM","mStatus":"pay_no_send","mAmount":1,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":118,"mGoodsId":14,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799470098\u0026di\u003d0449ec74ec2775f321cdb25fa84e0567\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fimg04.tooopen.com%2Fimages%2F20121026%2Ftooopen_201210261227413300.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 6:35:56 PM","mPaidTime":"Apr 28, 2017 3:07:54 PM","mStatus":"pay_no_send","mAmount":5,"mUserId":1,"mReciver":"jack"},{"mOrdersId":123,"mGoodsId":16,"mAddress":"有间客栈","mPhone":"4523","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799505943\u0026di\u003d6e7d5a9129693b09513470941c032fad\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D17bcc37733fae6cd0ce1a3653a832312%2Fbd315c6034a85edf0d26dc634f540923dc5475c3.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 25, 2017 9:39:21 AM","mPaidTime":"Apr 25, 2017 9:39:45 AM","mStatus":"pay_no_send","mAmount":1,"mUserId":1,"mReciver":"我"},{"mOrdersId":120,"mGoodsId":15,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1489394209\u0026di\u003df6d860f688045dd1bcc16b438dddad99\u0026imgtype\u003djpg\u0026er\u003d1\u0026src\u003dhttp%3A%2F%2Fb.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D6046b2f46509c93d07a706f3aa0dd4ea%2F4a36acaf2edda3ccd58840da03e93901203f92d8.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 6:37:31 PM","mPaidTime":"Apr 21, 2017 6:55:07 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":111,"mGoodsId":9,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799723601\u0026di\u003d1dff8fa1a0a7f081f18cca0a982e4a7b\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F960a304e251f95cab9a1ed00cf177f3e6709522b.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 4:04:44 PM","mPaidTime":"Apr 21, 2017 4:38:42 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":114,"mGoodsId":11,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1489394161\u0026di\u003d32f0461cd38c98862008bdce2247fa16\u0026imgtype\u003djpg\u0026er\u003d1\u0026src\u003dhttp%3A%2F%2Ff.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fc9fcc3cec3fdfc03dfdfafcad23f8794a4c22618.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 4:14:05 PM","mPaidTime":"Apr 21, 2017 4:14:37 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":113,"mGoodsId":14,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799470098\u0026di\u003d0449ec74ec2775f321cdb25fa84e0567\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fimg04.tooopen.com%2Fimages%2F20121026%2Ftooopen_201210261227413300.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 4:13:35 PM","mPaidTime":"Apr 21, 2017 4:13:41 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":75,"mGoodsId":13,"mAddress":"哪里有地址","mPhone":"585","mPicture":"http://i0.hdslb.com/video/19/19d0d1d484fe14996925d431f137b157.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Mar 22, 2017 5:17:57 PM","mPaidTime":"Mar 22, 2017 5:18:45 PM","mStatus":"pay_no_send","mAmount":1,"mUserId":1,"mReciver":"这里"}]
+2017-05-05 09:53 20 : 
+getOrder(MYController.java:240) [{"mOrdersId":127,"mGoodsId":17,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"http://192.168.137.1:8080/resources/images/photos/ec909ede-2948-49e1-84e4-20a0c409d340.jpg","mTitle":"卫龙辣条","mPrice":10.2,"mCreateTime":"May 5, 2017 9:40:36 AM","mPaidTime":"May 5, 2017 9:44:53 AM","mStatus":"pay_no_send","mAmount":3,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":129,"mGoodsId":14,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799470098\u0026di\u003d0449ec74ec2775f321cdb25fa84e0567\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fimg04.tooopen.com%2Fimages%2F20121026%2Ftooopen_201210261227413300.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"May 5, 2017 9:44:15 AM","mPaidTime":"May 5, 2017 9:44:53 AM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":126,"mGoodsId":17,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"http://192.168.137.1:8080/resources/images/photos/ec909ede-2948-49e1-84e4-20a0c409d340.jpg","mTitle":"卫龙辣条","mPrice":10.2,"mCreateTime":"May 5, 2017 9:27:21 AM","mPaidTime":"May 5, 2017 9:27:31 AM","mStatus":"pay_no_send","mAmount":3,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":125,"mGoodsId":16,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"http://192.168.137.1:8080/resources/images/photos/8163fdd9-864b-4bfa-9966-d08d79ec0de8.jpg","mTitle":"上好佳薯片","mPrice":19.0,"mCreateTime":"May 3, 2017 3:26:58 PM","mPaidTime":"May 3, 2017 3:27:05 PM","mStatus":"pay_no_send","mAmount":3,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":122,"mGoodsId":16,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799505943\u0026di\u003d6e7d5a9129693b09513470941c032fad\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D17bcc37733fae6cd0ce1a3653a832312%2Fbd315c6034a85edf0d26dc634f540923dc5475c3.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 24, 2017 4:27:55 PM","mPaidTime":"May 3, 2017 3:25:10 PM","mStatus":"pay_no_send","mAmount":1,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":118,"mGoodsId":14,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799470098\u0026di\u003d0449ec74ec2775f321cdb25fa84e0567\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fimg04.tooopen.com%2Fimages%2F20121026%2Ftooopen_201210261227413300.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 6:35:56 PM","mPaidTime":"Apr 28, 2017 3:07:54 PM","mStatus":"pay_no_send","mAmount":5,"mUserId":1,"mReciver":"jack"},{"mOrdersId":123,"mGoodsId":16,"mAddress":"有间客栈","mPhone":"4523","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799505943\u0026di\u003d6e7d5a9129693b09513470941c032fad\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D17bcc37733fae6cd0ce1a3653a832312%2Fbd315c6034a85edf0d26dc634f540923dc5475c3.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 25, 2017 9:39:21 AM","mPaidTime":"Apr 25, 2017 9:39:45 AM","mStatus":"pay_no_send","mAmount":1,"mUserId":1,"mReciver":"我"},{"mOrdersId":120,"mGoodsId":15,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1489394209\u0026di\u003df6d860f688045dd1bcc16b438dddad99\u0026imgtype\u003djpg\u0026er\u003d1\u0026src\u003dhttp%3A%2F%2Fb.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D6046b2f46509c93d07a706f3aa0dd4ea%2F4a36acaf2edda3ccd58840da03e93901203f92d8.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 6:37:31 PM","mPaidTime":"Apr 21, 2017 6:55:07 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":111,"mGoodsId":9,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799723601\u0026di\u003d1dff8fa1a0a7f081f18cca0a982e4a7b\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F960a304e251f95cab9a1ed00cf177f3e6709522b.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 4:04:44 PM","mPaidTime":"Apr 21, 2017 4:38:42 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":114,"mGoodsId":11,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1489394161\u0026di\u003d32f0461cd38c98862008bdce2247fa16\u0026imgtype\u003djpg\u0026er\u003d1\u0026src\u003dhttp%3A%2F%2Ff.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fc9fcc3cec3fdfc03dfdfafcad23f8794a4c22618.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 4:14:05 PM","mPaidTime":"Apr 21, 2017 4:14:37 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":113,"mGoodsId":14,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799470098\u0026di\u003d0449ec74ec2775f321cdb25fa84e0567\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fimg04.tooopen.com%2Fimages%2F20121026%2Ftooopen_201210261227413300.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 4:13:35 PM","mPaidTime":"Apr 21, 2017 4:13:41 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":75,"mGoodsId":13,"mAddress":"哪里有地址","mPhone":"585","mPicture":"http://i0.hdslb.com/video/19/19d0d1d484fe14996925d431f137b157.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Mar 22, 2017 5:17:57 PM","mPaidTime":"Mar 22, 2017 5:18:45 PM","mStatus":"pay_no_send","mAmount":1,"mUserId":1,"mReciver":"这里"}]
+2017-05-05 09:53 33 : 
+sendGoods(OtherSerivce.java:45) 更新成功：2
+2017-05-05 09:53 37 : 
+getOrder(MYController.java:240) [{"mOrdersId":129,"mGoodsId":14,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799470098\u0026di\u003d0449ec74ec2775f321cdb25fa84e0567\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fimg04.tooopen.com%2Fimages%2F20121026%2Ftooopen_201210261227413300.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"May 5, 2017 9:44:15 AM","mPaidTime":"May 5, 2017 9:44:53 AM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":125,"mGoodsId":16,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"http://192.168.137.1:8080/resources/images/photos/8163fdd9-864b-4bfa-9966-d08d79ec0de8.jpg","mTitle":"上好佳薯片","mPrice":19.0,"mCreateTime":"May 3, 2017 3:26:58 PM","mPaidTime":"May 3, 2017 3:27:05 PM","mStatus":"pay_no_send","mAmount":3,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":122,"mGoodsId":16,"mAddress":"西安电子科技大学","mPhone":"17666119369","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799505943\u0026di\u003d6e7d5a9129693b09513470941c032fad\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D17bcc37733fae6cd0ce1a3653a832312%2Fbd315c6034a85edf0d26dc634f540923dc5475c3.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 24, 2017 4:27:55 PM","mPaidTime":"May 3, 2017 3:25:10 PM","mStatus":"pay_no_send","mAmount":1,"mUserId":1,"mReciver":"何先森"},{"mOrdersId":118,"mGoodsId":14,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799470098\u0026di\u003d0449ec74ec2775f321cdb25fa84e0567\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fimg04.tooopen.com%2Fimages%2F20121026%2Ftooopen_201210261227413300.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 6:35:56 PM","mPaidTime":"Apr 28, 2017 3:07:54 PM","mStatus":"pay_no_send","mAmount":5,"mUserId":1,"mReciver":"jack"},{"mOrdersId":123,"mGoodsId":16,"mAddress":"有间客栈","mPhone":"4523","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799505943\u0026di\u003d6e7d5a9129693b09513470941c032fad\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D17bcc37733fae6cd0ce1a3653a832312%2Fbd315c6034a85edf0d26dc634f540923dc5475c3.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 25, 2017 9:39:21 AM","mPaidTime":"Apr 25, 2017 9:39:45 AM","mStatus":"pay_no_send","mAmount":1,"mUserId":1,"mReciver":"我"},{"mOrdersId":120,"mGoodsId":15,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1489394209\u0026di\u003df6d860f688045dd1bcc16b438dddad99\u0026imgtype\u003djpg\u0026er\u003d1\u0026src\u003dhttp%3A%2F%2Fb.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D6046b2f46509c93d07a706f3aa0dd4ea%2F4a36acaf2edda3ccd58840da03e93901203f92d8.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 6:37:31 PM","mPaidTime":"Apr 21, 2017 6:55:07 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":111,"mGoodsId":9,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799723601\u0026di\u003d1dff8fa1a0a7f081f18cca0a982e4a7b\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F960a304e251f95cab9a1ed00cf177f3e6709522b.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 4:04:44 PM","mPaidTime":"Apr 21, 2017 4:38:42 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":114,"mGoodsId":11,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1489394161\u0026di\u003d32f0461cd38c98862008bdce2247fa16\u0026imgtype\u003djpg\u0026er\u003d1\u0026src\u003dhttp%3A%2F%2Ff.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fc9fcc3cec3fdfc03dfdfafcad23f8794a4c22618.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 4:14:05 PM","mPaidTime":"Apr 21, 2017 4:14:37 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":113,"mGoodsId":14,"mAddress":"madkd","mPhone":"415","mPicture":"https://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1488799470098\u0026di\u003d0449ec74ec2775f321cdb25fa84e0567\u0026imgtype\u003d0\u0026src\u003dhttp%3A%2F%2Fimg04.tooopen.com%2Fimages%2F20121026%2Ftooopen_201210261227413300.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Apr 21, 2017 4:13:35 PM","mPaidTime":"Apr 21, 2017 4:13:41 PM","mStatus":"pay_no_send","mAmount":2,"mUserId":1,"mReciver":"jack"},{"mOrdersId":75,"mGoodsId":13,"mAddress":"哪里有地址","mPhone":"585","mPicture":"http://i0.hdslb.com/video/19/19d0d1d484fe14996925d431f137b157.jpg","mTitle":"pink cat","mPrice":232.0,"mCreateTime":"Mar 22, 2017 5:17:57 PM","mPaidTime":"Mar 22, 2017 5:18:45 PM","mStatus":"pay_no_send","mAmount":1,"mUserId":1,"mReciver":"这里"}]
+2017-05-05 09:54 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-05-05 09:54 29 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_no_send   userId :1
+2017-05-05 09:54 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-05-05 09:54 45 : 
+OrderGot(OrderController.java:178) 获得商品: 1
+2017-05-05 09:54 46 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-05-05 09:54 47 : 
+OrderGot(OrderController.java:178) 获得商品: 1
+2017-05-05 09:54 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_on_way   userId :1
+2017-05-05 09:54 47 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-05-05 09:55 04 : 
+addComment(CommentController.java:36)  新的评论 
+2017-05-05 09:55 04 : 
+saveComment(CommentService.java:53) 保存了新的评论: 1   context哈哈辣死粑粑了……………………
+2017-05-05 09:55 04 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-05-05 09:55 28 : 
+addComment(CommentController.java:36)  新的评论 
+2017-05-05 09:55 28 : 
+saveComment(CommentService.java:53) 保存了新的评论: 1   context畅销海外…………其实 辣鸡 
+2017-05-05 09:55 28 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-05-05 09:55 30 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 09:55 33 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 09:55 34 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 09:55 34 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-05 09:55 34 : 
+getCommentCount(CommentController.java:61)  获取评论数量 2
+2017-05-05 09:55 38 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-05 10:00 52 : 
+getCommentList(CommentController.java:70)  获取评论列表 
+2017-05-05 10:01 56 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-05-05 10:01 57 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 10:01 57 : 
+login(UserController.java:39) first
+2017-05-05 10:01 58 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 10:02 51 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
+2017-05-05 10:03 57 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表cart   userId :1
+2017-05-05 10:03 57 : 
+login(UserService.java:37) 登录first 密码 asf  true
+2017-05-05 10:03 57 : 
+login(UserController.java:39) first
+2017-05-05 10:03 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 10:03 59 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 10:04 01 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 10:04 01 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-05 10:04 01 : 
+getCommentCount(CommentController.java:61)  获取评论数量 2
+2017-05-05 10:04 02 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 10:04 07 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  17
+2017-05-05 10:04 07 : 
+getScore(CommentController.java:52)  获取分数 3.0
+2017-05-05 10:04 07 : 
+getCommentCount(CommentController.java:61)  获取评论数量 2
+2017-05-05 10:04 08 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表   userId :1
+2017-05-05 10:04 43 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-05-05 10:04 44 : 
+getGoodDetails(GoodController.java:63) 获取指定商品  :  13
+2017-05-05 10:04 44 : 
+getScore(CommentController.java:52)  获取分数 5.0
+2017-05-05 10:04 44 : 
+getCommentCount(CommentController.java:61)  获取评论数量 1
+2017-05-05 10:04 45 : 
+getOrderToCart(OrderController.java:64) 请求 订单列表pay_and_get   userId :1
+2017-05-05 10:04 48 : 
+listAll(GoodController.java:36) 获取所有商品列表 page 1 lines8
