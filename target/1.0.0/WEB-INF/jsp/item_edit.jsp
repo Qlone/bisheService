@@ -78,13 +78,7 @@
         param.top = Math.round((maxHeight - param.height) / 2);
         return param;
     }
-    $(function () {
-       var yuan = "${good.title}";
-       var temp = yuan.substr(1,yuan.length);
-       var biao = temp.split("#");
-       var bq = biao.join(", ");
-        $("#bew").attr("value",bq);
-    });
+
 
 </script>
 </head>
@@ -122,7 +116,7 @@
             <td width="4%" class="inputHeader">&nbsp;</td>
             <td width="17%" class="inputHeader">商品标题：</td>
             <td width="38%" class="inputContent">
-              <input type="Text" class="text width100" name="title" id="bew" maxlength="25"/>
+              <input type="Text" class="text width100" name="title" value="${good.title}" maxlength="25"/>
             </td>
           </tr>
 
@@ -130,7 +124,7 @@
                 <td width="4%" class="inputHeader">&nbsp;</td>
                 <td width="17%" class="inputHeader">商品标签：</td>
                 <td width="38%" class="inputContent">
-                    <input type="Text" class="text width100" name="type" id="biaoqian" maxlength="25"/>
+                    <input type="Text" class="text width100" name="type" value="${good.type}" maxlength="25"/>
                 </td>
             </tr>
 

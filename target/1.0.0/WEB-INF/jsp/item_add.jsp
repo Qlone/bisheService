@@ -81,7 +81,7 @@
         <table width="770" border="0" cellpadding="0" cellspacing="0" class="main">
         <tr valign="top">
          <td>
-         <form action="/item/add" method="post"  name="form1" enctype="multipart/form-data">
+         <form action="/item/add" method="post"  name="form1" enctype="multipart/form-data" onsubmit="return checkaddform()">
           <table width="100%" border="0" cellpadding="2" cellspacing="1" class="inputTable">
            <tr> <td class="inputTitle">增加商品</td></tr>
             <tr>

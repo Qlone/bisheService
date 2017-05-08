@@ -4,7 +4,6 @@
     <title>B2C</title>
     <link href="../../resources/css/style.css"rel="stylesheet" type="text/css">
     <script type="text/javascript" src="../../resources/js/jquery-1.8.2.min.js"></script>
-    <script type="text/javascript" src="../../resources/js/Untitled-2.js"></script>
 </head>
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -15,7 +14,7 @@
 <div class="table_div">
     <table width="100%" border="0" cellpadding="0" cellspacing="0" class="yrh">
         <tr>
-            <td height="17"><a href="/">主页</a> &raquo;销量统计</td>
+            <td height="17"><a href="/">主页</a> &raquo;订单查看</td>
         </tr>
     </table>
     <table width="770" border="0" cellpadding="0" cellspacing="0" class="main">
@@ -28,9 +27,9 @@
                     <tr>
                         <td>
                             <table width="100%" border="0" cellpadding="0" cellspacing="0" class="inputTable" id="showdetile">
-                                <tr style="height: 40">
-                                    <td><button id="saleANDview">销售量统计</button></td>
-                                    <td><button id="exel">导出报表</button> </td>
+                                <tr>
+                                    <td><a href="/order_list" style="font-size: 20px; text-decoration: none">所有订单</a> </td>
+                                    <td><a href="/order_admin" style="font-size: 20px;text-decoration: none">未处理订单</a> </td>
                                 </tr>
                             </table>
                         </td>

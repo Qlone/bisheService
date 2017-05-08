@@ -65,7 +65,7 @@
 <div class="table_div">
     <table width="100%" border="0" cellpadding="0" cellspacing="0" class="yrh">
         <tr>
-            <td height="17"><a href="/index">主页</a> &raquo; 订单管理</td>
+            <td height="17"><a href="/salesdata_admin">订单查看</a> &raquo; 未处理订单</td>
         </tr>
         <tr>
             <table class="easyui-datagrid" id="orderList" title="订单列表"

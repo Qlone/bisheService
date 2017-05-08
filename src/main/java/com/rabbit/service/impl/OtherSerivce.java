@@ -53,4 +53,38 @@ public class OtherSerivce {
 
     }
 
+    public IListBean<OrdersEntity> getOrderNotSend(int page, int lines){
+        return getOrderByStatus(IOrderService.ORDER_STATUS_PAID,page,lines);
+    }
+
+
+    public IListBean<OrdersEntity> getOrderAll( int page, int lines){
+        return getOrderByStatus("",page,lines);
+    }
+
+
+
+
+    private IListBean<OrdersEntity> getOrderByStatus(String status,int page,int lines){
+        HqlBean hqlBean = new HqlBean();
+        StringBuffer buffer =  new StringBuffer();
+        if(null!= status && !"".equals(status)){
+            buffer.append(" and status = ?  ");
+            hqlBean.addObject(status);
+        }else {//查看所有
+            buffer.append(" and  status != ? and status != ? ");
+            hqlBean.addObject(IOrderService.ORDER_STATUS_DEDLETE);
+            hqlBean.addObject(IOrderService.ORDER_STATUS_CART);
+        }
+        hqlBean.setInnerHql(buffer.toString());
+        if(IOrderService.ORDER_STATUS_NOPAY.equals(status)||IOrderService.ORDER_STATUS_CART.equals(status)) {
+            hqlBean.setRulesHql(" order by createTime desc ");
+        }else {
+            hqlBean.setRulesHql(" order by paidTime desc ");
+        }
+        //TODO:  完成  商品信息及时改动
+        mOrdersEntityIListBean.init(hqlBean,page,lines);
+        return mOrdersEntityIListBean;
+    }
+
 }

@@ -17,7 +17,7 @@ import java.util.UUID;
  * Created by fallb on 2016/12/9.
  */
 public class OwnerFileSaver {
-    public static String IP = "http://192.168.137.1:8080";
+    public static String IP = "http://www.miss-rabbit.cc/MissRabbit";
 
     public static String saveImage(MultipartFile multipartFile,String context) throws IOException {
         File root = new File(context);

@@ -1,10 +1,3 @@
-/*
- * Copyright (c) 2017. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
- * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
- * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
- * Vestibulum commodo. Ut rhoncus gravida arcu.
- */
 
 package com.rabbit.controller;
 
@@ -235,16 +228,35 @@ public class MYController {
     @ResponseBody
     public DatagridUtil getOrder(Integer page, Integer rows) {
 
-        IListBean<OrdersEntity> res = iOrderService.getOrderNotSend(1,page,rows);
+        IListBean<OrdersEntity> res = mOtherSerivce.getOrderNotSend(page,rows);
         List<OrdersEntity> list = res.getList();
         RabbitLog.debug(JsonUtil.toJson(list));
 
-        long total = res.getNumer();
+        long total = rows*res.getMaxPages();
         DatagridUtil result = new DatagridUtil();
         result.setTotal(total);
         result.setRows(list);
         return result;
     }
+
+    @RequestMapping(value = "/order/list/all")
+    @ResponseBody
+    public DatagridUtil getOrderall(Integer page, Integer rows) {
+
+        IListBean<OrdersEntity> res = mOtherSerivce.getOrderAll(page,rows);
+        List<OrdersEntity> list = res.getList();
+        RabbitLog.debug(JsonUtil.toJson(list));
+
+        long total = rows*res.getMaxPages();
+        RabbitLog.debug(total);
+        DatagridUtil result = new DatagridUtil();
+        result.setTotal(total);
+        result.setRows(list);
+        return result;
+    }
+
+
+
 
     /**
      * 发货:完成
