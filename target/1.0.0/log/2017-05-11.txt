@@ -1,0 +1,14 @@
+2017-05-11 16:14 42 : 
+login(UserService.java:37) 登录ww 密码 ww  true
+2017-05-11 16:15 11 : 
+getIp(OwnerFileSaver.java:57) null
+2017-05-11 16:15 11 : 
+addItem(MYController.java:143) 图片存储 : 0
+2017-05-11 16:15 11 : 
+addGoods(GoodService.java:101) 保存 了一件 新的商品 :随便测试
+2017-05-11 16:15 11 : 
+addOrSaveLable(LableService.java:67) 保存更新 lable ：随便测试  成功
+2017-05-11 16:17 38 : 
+login(UserService.java:37) 登录ww 密码 ww  true
+2017-05-11 16:17 55 : 
+getIp(OwnerFileSaver.java:57) null

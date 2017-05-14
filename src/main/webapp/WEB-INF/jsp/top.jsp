@@ -40,8 +40,8 @@
                
                 <td width="69" class="menuLinkbg"><a href="/salesdata_admin" class="menuLink" target="_parent">订单管理</a></td>
                 <td width="2"><img src="../../resources/graphics/menu_l.gif" width="2" height="23"></td>
-				<!-- <td width="85" class="menuLinkbg"><a href="/salesdata_admin" class="menuLink" target="_parent">销售量统计</a></td>
-				 <td width="2"><img src="../../resources/graphics/menu_l.gif" width="2" height="23"></td>-->
+				 <td width="85" class="menuLinkbg"><a href="/user_admin" class="menuLink" target="_parent">用户管理</a></td>
+				 <td width="2"><img src="../../resources/graphics/menu_l.gif" width="2" height="23"></td>
                  <td width="82" align="left" class="menuLinkbg">&nbsp;</td>
               </tr>
             </table>            

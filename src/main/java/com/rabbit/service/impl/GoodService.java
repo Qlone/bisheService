@@ -165,6 +165,7 @@ public class GoodService implements IGoodService {
         {//基本查询 标题
             hqlBuffer.append(" where g.title like ? ");
             param.add('%'+gsonSortApply.getTitle()+'%');
+            hqlBuffer.append(" and g.goodsDelete = 1");
         }
         {
             if(null!=gsonSortApply.getLable()) {

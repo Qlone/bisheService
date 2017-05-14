@@ -11,13 +11,15 @@ package com.rabbit.util;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.*;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 import java.util.UUID;
 
 /**
  * Created by fallb on 2016/12/9.
  */
 public class OwnerFileSaver {
-    public static String IP = "http://www.miss-rabbit.cc/MissRabbit";
+    public static String IP = getIp();
 
     public static String saveImage(MultipartFile multipartFile,String context) throws IOException {
         File root = new File(context);
@@ -45,6 +47,18 @@ public class OwnerFileSaver {
         in.close();
         out.close();
         return IP+"/"+fileName;
+    }
+    private static String getIp(){
+        String ip="";
+        try {
+            InetAddress mAddress = InetAddress.getLocalHost();
+            ip = mAddress.getHostAddress();
+            ip += ":8080";
+            RabbitLog.debug(IP);
+        } catch (UnknownHostException e) {
+            ip = "www.miss-rabbit.cc";
+        }
+        return "http://"+ip;
     }
 
 }

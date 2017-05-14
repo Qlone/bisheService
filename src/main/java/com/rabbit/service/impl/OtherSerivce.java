@@ -3,6 +3,7 @@ package com.rabbit.service.impl;
 import com.rabbit.bean.HqlBean;
 import com.rabbit.dao.IBaseDao;
 import com.rabbit.entity.OrdersEntity;
+import com.rabbit.entity.UserEntity;
 import com.rabbit.service.IListBean;
 import com.rabbit.service.IOrderService;
 import com.rabbit.util.RabbitLog;
@@ -22,11 +23,14 @@ public class OtherSerivce {
 
     private final IListBean<OrdersEntity> mOrdersEntityIListBean;
     private final IBaseDao<OrdersEntity> mOrdersEntityIBaseDao;
+    private final IListBean<UserEntity> mUserEntityIListBean;
     @Autowired
-    public OtherSerivce(IListBean<OrdersEntity> mOrdersEntityIListBean,IBaseDao<OrdersEntity> mOrdersEntityIBaseDao){
+    public OtherSerivce(IListBean<OrdersEntity> mOrdersEntityIListBean, IBaseDao<OrdersEntity> mOrdersEntityIBaseDao, IListBean<UserEntity> userEntityIListBean){
         this.mOrdersEntityIListBean = mOrdersEntityIListBean;
         this.mOrdersEntityIBaseDao = mOrdersEntityIBaseDao;
+        mUserEntityIListBean = userEntityIListBean;
         mOrdersEntityIListBean.settName(OrdersEntity.class);
+        mUserEntityIListBean.settName(UserEntity.class);
     }
 
     public String sendGoods(List<Integer> orderId){
@@ -87,4 +91,13 @@ public class OtherSerivce {
         return mOrdersEntityIListBean;
     }
 
+    public IListBean<UserEntity> getUserAll (int page, int lines){
+        HqlBean hqlBean = new HqlBean();
+        String hql = " and userStatus = ? and userType = ?";
+        hqlBean.setInnerHql(hql);
+        hqlBean.addObject("normal");
+        hqlBean.addObject("normal");
+        mUserEntityIListBean.init(hqlBean,page,lines);
+        return this.mUserEntityIListBean;
+    }
 }

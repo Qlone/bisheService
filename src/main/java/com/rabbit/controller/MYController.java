@@ -272,8 +272,31 @@ public class MYController {
         return "/order/list";
     }
 
+    /**用户list
+     *
+     */
+    @RequestMapping(value = "user/list")
+    public ModelAndView showUser (ModelAndView mv){
+        IListBean<UserEntity> iListBean = mOtherSerivce.getUserAll(1,1000);
+        List ul = iListBean.getList();
+        mv.setViewName("/user_admin");
+        mv.addObject("users",ul);
+        return mv;
+    }
 
-
+    //添加余额
+    @RequestMapping(value = "user/pay/{userId}")
+    public String addBalance (@PathVariable int userId, double money){
+        UserEntity userEntity = mUserService.getUserById(userId);
+        double current_balance = userEntity.getBalance() + money;
+        userEntity.setBalance(current_balance);
+        try {
+            mUserService.updataUser(userEntity);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return "/user_admin";
+    }
 
 }
 

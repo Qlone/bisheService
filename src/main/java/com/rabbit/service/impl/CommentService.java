@@ -19,6 +19,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Service;
 
+import java.util.Date;
+
 /**
  * Created by weina on 2017/3/28.
  */
@@ -49,6 +51,7 @@ public class CommentService implements ICommentService {
                 if(mOrderService.OrderComment(userId,commentEntity.getOrderId())) {
                     UserEntity userEntity = mUserService.getUserById(userId);
                     commentEntity.setUserName(userEntity.getUserName());
+                    commentEntity.setCommentData(new Date());
                     mCommentEntityIBaseDao.save(commentEntity);
                     RabbitLog.debug("保存了新的评论: "+userId+"   context" +
                             commentEntity.getContext());
